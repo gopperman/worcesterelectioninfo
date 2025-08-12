@@ -10,10 +10,13 @@
   --teal-dark: #8BB8A8;
   --black: #222;
   --mudkip: #008c9e;
-  --white: #fafafa;
+  --white: #fffeef;
   --gray: #999;
   --purple: #9c86b1;
   --lavender: #dfbffd;
+  --mint: #dafdbf;
+  --olive: #99b186;
+  --green: #38c495;
 }
 
 /** Layout **/
@@ -39,8 +42,10 @@ body {
 }
 
 section {
+  display: block;
+  max-width: 990px;
+  margin: 0 auto;
   padding: 25px 15px 0;
-
 
   &:first-child {
     padding-top: 50px;
@@ -49,6 +54,13 @@ section {
   &:last-child {
     padding-bottom: 50px;
   };
+}
+
+.section__description {
+  font-size: 1.2em;
+  text-align: center;
+  margin: 1em auto;
+  max-width: 900px;
 }
 
 img, picture, video, canvas, svg {
@@ -199,6 +211,51 @@ footer {
   margin: 1em 0 0 0;
 }
 
+/** Tables **/
+table {
+  font-size: 1.2em;
+  margin: 0 auto;
+  width: 100%;
+}
+
+caption {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+th, td {
+  text-align: left;
+  padding: 5px;
+}
+
+th {
+  color: var(--black);
+}
+
+tr:nth-child(2n) {
+  background: var(--lemon);
+}
+
+tr:nth-child(2n+1) {
+  background: var(--white);
+}
+
+tr:first-child {
+  background: var(--teal)
+}
+
+.table__candidate {
+  font-weight: bold;
+}
+
+.table__value {
+  color: var(--green);
+  font-weight: bold;
+}
+
+.table__district {
+  font-size: .9em;
+}
 /** Utilities **/
 .card {
   border: 2px solid var(--teal-dark);
