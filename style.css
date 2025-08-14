@@ -166,6 +166,9 @@ a:hover, a:active {
   position: relative;
 }
 
+.header__head--wide {
+  max-width: 125px;
+}
 .crown {
   margin: 75px 0 0 0;
   position: relative;
