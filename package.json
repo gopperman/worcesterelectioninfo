@@ -1,0 +1,24 @@
+{
+  "name": "worcesterelectioninfo",
+  "version": "1.0.0",
+  "description": "A website with info about Worcester's City Council Elections. A Project of [Worcester Sucks](https://www.worcestersucks.email/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopperman/worcesterelectioninfo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gopperman/worcesterelectioninfo/issues"
+  },
+  "homepage": "https://github.com/gopperman/worcesterelectioninfo#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
