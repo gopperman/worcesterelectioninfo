@@ -2,14 +2,11 @@ const fs = require('fs')
 const { parse } = require('csv-parse')
 
 let candidates = [
-  {
-    name: 'Satya Mitra',
-    file: 'data/2023-2025/satya-mitra.csv'
-  },
-  {
-    name: 'Joe Petty',
-    file: 'data/2023-2025/joe-petty.csv'
-  }
+  { name: 'Satya Mitra' },
+  { name: 'Joe Petty' },
+  { name: 'Moe Bergman' },
+  { name: 'Donna Colorio' },
+  { name: 'Cayden Davis' }
 ]
 
 const processfile = (candidate) => {
@@ -21,7 +18,9 @@ const processfile = (candidate) => {
   let results
 
   return new Promise( (resolve, reject) => {
-    fs.createReadStream(candidate.file)
+    // We expect filenames to be kebab-case'd versions of the candidates names
+    const file = `data/2023-2025/${candidate.name.replace(' ','-').toLowerCase()}.csv`
+    fs.createReadStream(file)
       .pipe(parse({ columns: true, skip_empty_lines: true }))
       .on('data', (row) => {
         rows++
@@ -45,13 +44,9 @@ const processfile = (candidate) => {
           oosDonations: oosDonations.toFixed(2),
           totalDonations: totalDonations.toFixed(2),
           averageDonation: (totalDonations / rows).toFixed(2),
-          donations: rows,
+          donations: rows
         }
-        /*const index = candidates.findIndex(({name}) => name === candidate.name)
-        candidates[index] = {
-          ...candidate,
-          ...results
-        }*/
+
         resolve({
           ...candidate,
           ...results
@@ -64,6 +59,17 @@ const processfile = (candidate) => {
 }
 const promises = candidates.map((c) => processfile(c))
 Promise.all(promises).then((v) => {
+  const writeFile = '../_data/candidates.json'
+  const data = JSON.stringify(v, null, 2)
+
   console.log(v)
+
+  fs.writeFile(writeFile, data, (err) => {
+      if (err) {
+          console.error("Error writing file:", err)
+          return;
+      }
+      console.log("File written ")
+  })
 })
 

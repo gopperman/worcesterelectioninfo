@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "name": "Satya Mitra",
+    "worcDonations": "22434.99",
+    "maDonations": "57258.00",
+    "oosDonations": "13200.00",
+    "totalDonations": "92892.99",
+    "averageDonation": "400.40",
+    "donations": 232
+  },
+  {
+    "name": "Joe Petty",
+    "worcDonations": "36459.59",
+    "maDonations": "47030.00",
+    "oosDonations": "10132.50",
+    "totalDonations": "93622.09",
+    "averageDonation": "260.79",
+    "donations": 359
+  },
+  {
+    "name": "Moe Bergman",
+    "worcDonations": "35637.58",
+    "maDonations": "14207.00",
+    "oosDonations": "360.00",
+    "totalDonations": "50204.58",
+    "averageDonation": "124.89",
+    "donations": 402
+  },
+  {
+    "name": "Donna Colorio",
+    "worcDonations": "8327.20",
+    "maDonations": "3450.00",
+    "oosDonations": "0.00",
+    "totalDonations": "11777.20",
+    "averageDonation": "113.24",
+    "donations": 104
+  },
+  {
+    "name": "Cayden Davis",
+    "worcDonations": "7787.00",
+    "maDonations": "1756.70",
+    "oosDonations": "2140.00",
+    "totalDonations": "11683.70",
+    "averageDonation": "54.34",
+    "donations": 215
+  }
+]
