@@ -1,0 +1,400 @@
+/** Variables  **/
+/* https://colors.muz.li/color-palette-generator/FDF5BF */
+:root {
+  --lemon: #FDF5BF;
+  --blue: #8699b1;
+  --blue-light: #bfdafd;
+  --violet: #B47EB3;
+  --pink: #FFD5FF;
+  --teal: #92D1C3;
+  --teal-dark: #8BB8A8;
+  --black: #222;
+  --mudkip: #008c9e;
+  --white: #fff;
+  --off-white: #fffeef;
+  --gray: #999;
+  --purple: #9c86b1;
+  --lavender: #dfbffd;
+  --mint: #dafdbf;
+  --olive: #99b186;
+  --green: #38c495;
+}
+
+/** Layout **/
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+body {
+  color: var(--black);
+  font-family: sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+
+}
+
+section {
+  display: block;
+  max-width: 990px;
+  margin: 0 auto;
+  padding: 25px 15px 0;
+
+  &:first-child {
+    padding-top: 50px;
+  };
+
+  &:last-child {
+    padding-bottom: 50px;
+  };
+}
+
+.section--wide {
+  max-width: 1200px;
+}
+
+.section__description {
+  font-size: 1.2em;
+  text-align: center;
+  margin: 1em auto;
+  max-width: 900px;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+/** Text */
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+/** Links **/
+a, a:visited {
+  color: var(--mudkip);
+  font-style: bold;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: var(--purple);
+  transition: all, .2s;
+}
+
+.bottom-link {
+  margin: 25px 0 0 0;
+}
+
+/** Header  **/
+.header {
+  display: flex;
+  align-items: center;
+  min-height: 95vh;
+  background-color: var(--lemon);
+  padding: 15px 0;
+  position: relative;
+}
+
+.header--candidate {
+  min-height: 0;
+}
+
+.header__body {
+  font-size: 1.6rem;
+  margin: 0 auto;
+  padding: 50px 15px;
+  text-align: center;
+
+  p {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
+.header__presents {
+  line-height: 30px;
+  position: absolute;
+  left: 15px;
+  top: 15px;
+
+  img {
+    display: inline-block;
+    float: left;
+    height: 30px;
+    width: 30px;
+  }
+
+  p {
+    display: inline-block;
+    font-weight: bold;
+    line-height: 25px;
+    padding-left: 5px;
+  }
+}
+
+.header__heads {
+  padding: 25px 0 0 0;
+  position: relative;
+}
+
+.header__head {
+  display: inline-block;
+  margin: 0 10px;
+  max-width: 100px;
+  position: relative;
+}
+
+.header__head--wide {
+  max-width: 125px;
+}
+.crown {
+  margin: 75px 0 0 0;
+  position: relative;
+  display: inline-block;
+}
+.crown:after {
+  content:url('images/crown.png');
+  position: absolute;
+  top: -55px;
+  right: 110px;
+  transform: rotate(-5deg) scale(0.18);
+  width: 0px;
+  height: 0px;
+}
+
+/** Footer */
+footer {
+  background: var(--black);
+  border-top: 2px solid var(--gray);
+  color: var(--gray);
+  padding: 15px;
+  text-align: center;
+
+  a {
+    color: var(--white);
+  }
+
+  a:hover,
+  a:visited,
+  a:active {
+    color: var(--gray);
+  }
+
+  h2, h3 {
+    text-align: left;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+  }
+
+  .grid {
+    padding-bottom: 25px;
+  }
+}
+
+.timestamp {
+  font-size: .8em;
+  font-style: italic;
+  margin: 1em 0 0 0;
+}
+
+/** Tables **/
+table {
+  font-size: 1.2em;
+  margin: 0 auto;
+  width: 100%;
+}
+
+caption {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+th, td {
+  text-align: left;
+  padding: 5px;
+}
+
+th {
+  color: var(--black);
+}
+
+tr:nth-child(2n) {
+  background: var(--lemon);
+}
+
+tr:nth-child(2n+1) {
+  background: var(--white);
+}
+
+tr:first-child {
+  background: var(--teal)
+}
+
+.table__candidate {
+  font-weight: bold;
+}
+
+.table__value {
+  color: var(--green);
+  font-weight: bold;
+}
+
+.table__district {
+  font-size: .9em;
+}
+
+/** Pills */
+.pill {
+  display: inline-block;
+  background: var(--lemon);
+  border-radius: 100px;
+  font-weight: bold;
+  padding: 10px 25px;
+  text-transform: uppercase;
+}
+
+.pill--blue {
+  background: var(--mudkip);
+}
+
+.pill--blue-light {
+  background: var(--blue-light);
+  color: var(--white);
+}
+
+.pill--lavender {
+  background: var(--lavender);
+}
+
+/** Utilities **/
+.card {
+  border: 2px solid var(--teal-dark);
+  border-radius: 30px;
+  padding: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+
+  p {
+    margin: 1em 0;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+.container {
+  display: inline-block;
+  max-width: 990px;
+  margin: 0 auto;
+}
+
+.container--sm {
+  max-width: 300px;
+}
+
+.grid {
+  display: grid;
+}
+
+.down {
+  animation: float 3s ease-in-out infinite;
+  color: var(--mudkip);
+  display: inline-block;
+  font-size: 3em;
+  line-height: 1em;
+  margin: 0 auto 15px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.wavy-line {
+  --s: 14px; /* size of the wave */
+  --b: 6px; /* thickness of the line */
+  --m: 0.8; /* curvature of the wave [0 2] */
+
+  background: var(--mudkip);
+  --R: calc(var(--s)*sqrt(var(--m)*var(--m) + 1) + var(--b)/2);
+  height: calc(2*var(--R));
+  width: 100%;
+  --_g: #0000 calc(99% - var(--b)), #000 calc(101% - var(--b)) 99%, #0000 101%;
+  mask:
+    radial-gradient(var(--R) at left 50% bottom calc(-1*var(--m)*var(--s)), var(--_g))
+     calc(50% - 2*var(--s)) calc(50% - var(--s)/2 - var(--b)/2)/calc(4*var(--s)) calc(var(--s) + var(--b)) repeat-x,
+    radial-gradient(var(--R) at left 50% top calc(-1*var(--m)*var(--s)),var(--_g))
+     50% calc(50% + var(--s)/2 + var(--b)/2)/calc(4*var(--s)) calc(var(--s) + var(--b)) repeat-x;
+  width: 270px;
+  margin: 1rem auto;
+  display: block;
+}
+
+/** Responsive **/
+@media screen and (min-width: 480px) {
+  .grid {
+    grid-gap: 10px;
+  }
+  .grid--2, .grid--4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .down {
+    margin-bottom: 25px;
+  }
+  .grid--3, .grid--4 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .grid--4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/** Animation **/
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    interpolate-size: allow-keywords;
+  }
+}
