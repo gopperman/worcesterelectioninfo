@@ -301,7 +301,15 @@ tr:first-child {
   text-align: center;
 
   p {
-    margin: 1em 0;
+    margin: .5em 0;
+  }
+
+  h3 {
+    margin-bottom: .5em;
+  }
+
+  h3 a {
+    color: var(--black);
   }
 }
 
