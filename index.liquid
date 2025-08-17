@@ -40,12 +40,13 @@ title: "Worcester City Council 2025 Election Guide"
               <th>$ Raised</th>
               <th>District</th>
             </tr>
-            {%- for c in candidates | sort: c.totalDonations %}
+            {% assign candidatesByTotal = candidates | sort: "totalDonations" | reverse %}
+            {%- for c in candidatesByTotal %}
               {% assign candidate = collections.candidates | find: "data.name", c.name %}
               <tr>
                 <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">${{c.totalDonations}}</td>
-                <td class="table__district">{{candidate.data.tags | district | log}}</td>
+                <td class="table__value">${{c.totalDonations | money}}</td>
+                <td class="table__district">{{candidate.data.tags | district }}</td>
               </tr>
             {%- endfor %}
           </table>
@@ -74,26 +75,15 @@ title: "Worcester City Council 2025 Election Guide"
               <th>Avg. Donation</th>
               <th># of Donors</th>
             </tr>
-            <tr>
-              <td class="table__candidate">Joe Petty</td>
-              <td class="table__value">$122.67</td>
-              <td class="table__district">666</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Satya Mitra</td>
-              <td class="table__value">$40</td>
-              <td class="table__district">120</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Etel Haxhiaj</td>
-              <td class="table__value">$27</td>
-              <td class="table__district">900</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Candy Mero-Carlson</td>
-              <td class="table__value">$20.22</td>
-              <td class="table__district">500</td>
-            </tr>
+            {% assign candidatesByAvg = candidates | sort: "averageDonation" | reverse  %}
+            {%- for c in candidatesByAvg %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">${{c.averageDonation | money}}</td>
+                <td class="table__district">{{c.donations}}</td>
+              </tr>
+            {%- endfor %}
           </table>
         </div>
         <div class="center container container--sm">
@@ -121,30 +111,16 @@ title: "Worcester City Council 2025 Election Guide"
               <th>MA</th>
               <th>Out-of-State</th>
             </tr>
-            <tr>
-              <td class="table__candidate">Joe Petty</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">40%</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Satya Mitra</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">40%</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Etel Haxhiaj</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">40%</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Candy Mero-Carlson</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">30%</td>
-              <td class="table__value">40%</td>
-            </tr>
+            {% assign candidatesByPct = candidates | sort: "oosPct" | reverse %}
+            {%- for c in candidatesByPct %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">{{c.worcPct | percent}}%</td>
+                <td class="table__value">{{c.maPct | percent}}%</td>
+                <td class="table__value">{{c.oosPct | percent}}%</td>
+              </tr>
+            {%- endfor %}
           </table>
         </div>
         <div class="center container container--sm">

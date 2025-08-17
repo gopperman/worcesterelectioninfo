@@ -22,4 +22,12 @@ module.exports = function (eleventyConfig) {
       return v[0] && v[0].toUppercase
     }
   })
+
+  eleventyConfig.addFilter("money", (v) => {
+    return v.toFixed(2)
+  })
+
+  eleventyConfig.addFilter("percent", (v) => {
+    return (v * 100).toFixed(1)
+  })
 }
