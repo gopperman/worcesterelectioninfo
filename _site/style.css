@@ -292,7 +292,7 @@ tr:first-child {
   background: var(--lavender);
 }
 
-/** Utilities **/
+/** Cards **/
 .card {
   border: 2px solid var(--teal-dark);
   border-radius: 30px;
@@ -313,6 +313,11 @@ tr:first-child {
   }
 }
 
+.card__cta {
+  text-decoration: underline;
+}
+
+/** Utilities **/
 .center {
   text-align: center;
 }

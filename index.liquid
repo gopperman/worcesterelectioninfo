@@ -1,5 +1,4 @@
 ---
-layout: main.liquid
 title: "Worcester City Council 2025 Election Guide"
 ---
 {% render "header-home.liquid", site: site %}
@@ -14,7 +13,7 @@ title: "Worcester City Council 2025 Election Guide"
           <h3><a href="{{site.url}}{{candidate.url}}">{{candidate.data.name}}</a></h3>
           {% render "headshot.liquid", candidate: candidate %}
           <p>{{candidate.data.description}}</p>
-          <p><a href="{{site.url}}{{candidate.url}}">Learn more about {{candidate.data.name}}</a>
+          <p><a href="{{site.url}}{{candidate.url}}" class="card__cta">Learn more about {{candidate.data.name}}</a>
         </div>
       {%- endfor -%}
     </div>

@@ -6,4 +6,5 @@ module.exports = function (eleventyConfig) {
   //Config
   eleventyConfig.setLayoutsDirectory("_layouts");
   eleventyConfig.setTemplateFormats("html,liquid");
+  eleventyConfig.addGlobalData('layout', 'default.liquid')
 }
