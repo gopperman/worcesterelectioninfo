@@ -7,8 +7,7 @@ title: "Worcester City Council 2025 Election Guide"
     <h2>Who's Running for Worcester City Council At-Large?</h2>
     <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <div class="grid grid--4">
-      {% assign sortedAtLarge = collections.atlarge | sort: "data.sortOrder" %}
-      {%- for candidate in sortedAtLarge | sort: "data.sortOrder" -%}
+      {%- for candidate in collections.atlarge | sort: "data.sortOrder" -%}
         <div class="card">
           <h3><a href="{{site.url}}{{candidate.url}}">{{candidate.data.name}}</a></h3>
           {% render "headshot.liquid", candidate: candidate %}
@@ -41,26 +40,14 @@ title: "Worcester City Council 2025 Election Guide"
               <th>$ Raised</th>
               <th>District</th>
             </tr>
-            <tr>
-              <td class="table__candidate">Satya Mitra</td>
-              <td class="table__value">$99,000</td>
-              <td class="table__district">At-Large</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Joe Petty</td>
-              <td class="table__value">$89,000</td>
-              <td class="table__district">At-Large</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Etel Haxhiaj</td>
-              <td class="table__value">$79,000</td>
-              <td class="table__district">D5</td>
-            </tr>
-            <tr>
-              <td class="table__candidate">Candy Mero-Carlson</td>
-              <td class="table__value">$69,000</td>
-              <td class="table__district">D2</td>
-            </tr>
+            {%- for c in candidates | sort: c.totalDonations %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">${{c.totalDonations}}</td>
+                <td class="table__district">{{candidate.data.tags | district | log}}</td>
+              </tr>
+            {%- endfor %}
           </table>
         </div>
         <div class="center container container--sm">
