@@ -18,7 +18,20 @@ let candidates = [
   { name: 'Khrystian King'}
 ]
 
-let allDonors = {}
+let allTimeDonors = {}
+
+const sortDonors = (donors) => {
+  let sortableDonors = []
+  for (d in donors) {
+    sortableDonors.push([["name", d], ...Object.entries(donors[d])])
+  }
+
+  sortableDonors.sort((a,b) => {
+    return b[1][1] - a[1][1]
+  });
+
+  return sortableDonors.map(d => Object.fromEntries(d))
+}
 
 const processAllTime = (candidate) => {
   return new Promise( (resolve, reject) => {
@@ -50,39 +63,31 @@ const processAllTime = (candidate) => {
           }
         }
 
-        if (Contributor in allDonors) {
-
+        if (Contributor in allTimeDonors) {
+          allTimeDonors[Contributor].total += amt
+          allTimeDonors[Contributor].donations.push({
+              name: candidate.name,
+              date: row.Date,
+              amt: amt
+          })
         } else {
-
+          allTimeDonors[Contributor] = {
+            total: amt,
+            city: City,
+            state: State,
+            donations: [{
+              name: candidate.name,
+              date: row.Date,
+              amt: amt
+            }]
+          }
         }
       })
       .on('end', () => {
-        let sortableDonors = []
-        for (d in donors) {
-          sortableDonors.push([d, donors[d].total, donors[d].city, donors[d].state])
-        }
-
-        sortableDonors.sort((a,b) => {
-          return b[1] - a[1]
-        });
-
-        let topDonors = {}
-        sortableDonors.slice(0,20).forEach(d => {
-          topDonors[d[0]] = {
-            total: d[1],
-            city: d[2],
-            state: d[3]
-          }
-        })
-
-        results = {
-          annualDonations,
-          topDonors
-        }
-
         resolve({
           ...candidate,
-          ...results
+          annualDonations,
+          topDonorsAllTime: sortDonors(donors).slice(0,20)
         })
       })
       .on('error', (err) => {
@@ -156,19 +161,31 @@ Promise.all(currentPromises).then((x) => {
       return {
         ...candidate,
         annualDonations: allTime.annualDonations,
-        topDonorsAllTime: allTime.topDonors
+        topDonorsAllTime: allTime.topDonorsAllTime
       }
     })
 
-    const writeFile = '../_data/candidates.json'
+    // Write Candidate Data
+    const writeCandidateFile = '../_data/candidates.json'
     const data = JSON.stringify(z, null, 2)
 
-    fs.writeFile(writeFile, data, (err) => {
+    fs.writeFile(writeCandidateFile, data, (err) => {
         if (err) {
             console.error("Error writing file:", err)
-            return;
+            return
         }
-        console.log("File written ")
+        console.log("candidates.json written")
+    })
+
+    // Write Donor Data
+    const allTimeDonorWriteFile = '../_data/all-time-donors.json'
+    const allTimeDonorData = JSON.stringify(allTimeDonors, null, 2)
+    fs.writeFile(allTimeDonorWriteFile, allTimeDonorData, (err) => {
+        if (err) {
+            console.error("Error writing file:", err)
+            return
+        }
+        console.log("all-time-donors.json written")
     })
   })
 })
