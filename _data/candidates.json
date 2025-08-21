@@ -9,7 +9,113 @@
     "oosDonations": 13200,
     "totalDonations": 92892.99,
     "averageDonation": 400.4,
-    "donations": 232
+    "donations": 232,
+    "annualDonations": {
+      "2024": 10000,
+      "2025": 82892.99
+    },
+    "topDonorsAllTime": {
+      "Guin, Jayanta": {
+        "total": 2000,
+        "city": "Natick",
+        "state": "MA"
+      },
+      "Chakravorty, Sujata": {
+        "total": 2000,
+        "city": "Bedford",
+        "state": "NH"
+      },
+      "Mitra, Abiskar": {
+        "total": 2000,
+        "city": "Brooklyn",
+        "state": "NY"
+      },
+      "Logan, Thomas": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mitra, Alingon": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Passey, Sahdev": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Jangareddi, Ramesh": {
+        "total": 2000,
+        "city": "Franklin",
+        "state": "MA"
+      },
+      "Mitra, Satya": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mitra, Supriya": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Wong, Margaret": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mhatree, Anil": {
+        "total": 1250,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Mukherjee, Dilip": {
+        "total": 1000,
+        "city": "Stoneham",
+        "state": "MA"
+      },
+      "Nalla, Somashekar": {
+        "total": 1000,
+        "city": "The Colony",
+        "state": "TX"
+      },
+      "Krishnaswamy, Suneel": {
+        "total": 1000,
+        "city": "Acton",
+        "state": "MA"
+      },
+      "Deb, Krishna": {
+        "total": 1000,
+        "city": "Silver Spring",
+        "state": "MD"
+      },
+      "Rajeev, Kallanthottathil": {
+        "total": 1000,
+        "city": "Wayland",
+        "state": "MA"
+      },
+      "Vanka, Kumer": {
+        "total": 1000,
+        "city": "Vienna",
+        "state": "VA"
+      },
+      "Anita, Mathew": {
+        "total": 1000,
+        "city": "Jersey City",
+        "state": "NJ"
+      },
+      "Aravind, Kamath": {
+        "total": 1000,
+        "city": "Franklin",
+        "state": "MA"
+      },
+      "Patel, Kirit": {
+        "total": 1000,
+        "city": "Holden",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Joe Petty",
@@ -21,7 +127,132 @@
     "oosDonations": 7132.5,
     "totalDonations": 88072.09,
     "averageDonation": 263.69,
-    "donations": 334
+    "donations": 334,
+    "annualDonations": {
+      "2005": 26860.2,
+      "2006": 2950,
+      "2007": 28958.55,
+      "2008": 8199.13,
+      "2009": 19755,
+      "2010": 3603.58,
+      "2011": 46515,
+      "2012": 18261,
+      "2013": 32165,
+      "2014": 16920.84,
+      "2015": 69097.19,
+      "2016": 30459.59,
+      "2017": 54802.34,
+      "2018": 15909.89,
+      "2019": 53196.799999999996,
+      "2020": 25830,
+      "2021": 50357.97,
+      "2022": 132638.59,
+      "2023": 96717.51000000001,
+      "2024": 32692.09,
+      "2025": 55380
+    },
+    "topDonorsAllTime": {
+      "KROCK, KATHRYN": {
+        "total": 9500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "PETTY, JOSEPH": {
+        "total": 7000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "RAFFERTY, JEANNE": {
+        "total": 6350,
+        "city": "Northborough",
+        "state": "MA"
+      },
+      "Rucker, Cliff": {
+        "total": 5000,
+        "city": "Danvers",
+        "state": "MA"
+      },
+      "RAFFERTY, Richard": {
+        "total": 5000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Aggregated Unitemized Receipts": {
+        "total": 4982,
+        "city": "",
+        "state": ""
+      },
+      "Yatim, Hassan": {
+        "total": 4750,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "SHALEV, Micha": {
+        "total": 4500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Fontaine, David": {
+        "total": 4000,
+        "city": "Somers",
+        "state": "CT"
+      },
+      "Herlinger, Benjamin": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "KROCK, BARRY": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "KROCK, JANET": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "MURPHY, Edward": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "IBEW LOCAL 2325 COPE": {
+        "total": 3950,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ironworkers Union Local 7 Pol Action Comm": {
+        "total": 3750,
+        "city": "South Boston",
+        "state": "MA"
+      },
+      "Petty (Candidate Loan), Joseph M.": {
+        "total": 3700,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "MITRA, SATYA": {
+        "total": 3600,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "ATHY, ANDREW": {
+        "total": 3500,
+        "city": "WASHINGTON",
+        "state": "DC"
+      },
+      "DIRENZO, John": {
+        "total": 3500,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "NORTON, Charles": {
+        "total": 3350,
+        "city": "Dover",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Moe Bergman",
@@ -33,7 +264,126 @@
     "oosDonations": 180,
     "totalDonations": 39938.99,
     "averageDonation": 130.52,
-    "donations": 306
+    "donations": 306,
+    "annualDonations": {
+      "2007": 40615.18,
+      "2010": 6588.76,
+      "2013": 42986,
+      "2014": 7836,
+      "2015": 34717.28,
+      "2016": 2736,
+      "2017": 32369,
+      "2018": 13893.21,
+      "2019": 31737.77,
+      "2020": 1150,
+      "2021": 38061.65,
+      "2022": 16545.21,
+      "2023": 35361.17999999999,
+      "2024": 15809,
+      "2025": 24129.989999999998
+    },
+    "topDonorsAllTime": {
+      "Bergman, Morris": {
+        "total": 14488.76,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Bergman (Loan), Morris": {
+        "total": 10000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Aggregated Unitemized Receipts": {
+        "total": 9509.18,
+        "city": "",
+        "state": ""
+      },
+      "Hazard, Bessie": {
+        "total": 6250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "bergman (Loan), morris": {
+        "total": 5000,
+        "city": "worcester",
+        "state": "MA"
+      },
+      "Direnzo , Jr., John": {
+        "total": 4850,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "Katz, Myron": {
+        "total": 4450,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Feldhaus, Louise": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Krock, Kathryn": {
+        "total": 4000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Anderson, David": {
+        "total": 3350,
+        "city": "Jefferson",
+        "state": "MA"
+      },
+      "Ferguson, Michael": {
+        "total": 3100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Djafari, Nader": {
+        "total": 3000,
+        "city": "Wayland",
+        "state": "MA"
+      },
+      "Cohen, J. Stephen": {
+        "total": 2750,
+        "city": "Newton Centre",
+        "state": "MA"
+      },
+      "Valeri, Christopher": {
+        "total": 2700,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Monahan, John": {
+        "total": 2650,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Grossack, Richard": {
+        "total": 2500,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "Slawsby, Judith": {
+        "total": 2500,
+        "city": "Hull",
+        "state": "MA"
+      },
+      "Gaval, Moshe": {
+        "total": 2460,
+        "city": "West Hartford",
+        "state": "CT"
+      },
+      "Stultz, Charlene": {
+        "total": 2250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ma & Northern Ne Laborers' District Council Pol Action Comm": {
+        "total": 2250,
+        "city": "Hopkinton",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Donna Colorio",
@@ -45,7 +395,118 @@
     "oosDonations": 0,
     "totalDonations": 11627.2,
     "averageDonation": 113.99,
-    "donations": 102
+    "donations": 102,
+    "annualDonations": {
+      "2019": 27589.42,
+      "2020": 2110,
+      "2021": 24859.21,
+      "2022": 14134.21,
+      "2023": 18945.54,
+      "2024": 700,
+      "2025": 10927.199999999999
+    },
+    "topDonorsAllTime": {
+      "Colorio, Donna M.": {
+        "total": 4200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Shea, Cheryl": {
+        "total": 3000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Molina, Jane": {
+        "total": 2700,
+        "city": "Boylston",
+        "state": "MA"
+      },
+      "Yatim, Hassan": {
+        "total": 2500,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Costa, Vanessa": {
+        "total": 2500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Parafestas, Anastasios": {
+        "total": 2450,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Powell, Joanne": {
+        "total": 2400,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Weld, Walter": {
+        "total": 2400,
+        "city": "Dover",
+        "state": "MA"
+      },
+      "Colorio, Mary": {
+        "total": 2400,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "MA & Northern NE Laborers' District Council Pol Action Comm": {
+        "total": 2000,
+        "city": "Hopkinton",
+        "state": "MA"
+      },
+      "Christy, Steven": {
+        "total": 1850,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "Gentile, Joseph": {
+        "total": 1800,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Kane, Kimberly": {
+        "total": 1750,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ludden, Shane": {
+        "total": 1700,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Colorio, John": {
+        "total": 1600,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Colorio, Mary A": {
+        "total": 1500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rogers, John": {
+        "total": 1400,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Sousa, John": {
+        "total": 1350,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Randell, William": {
+        "total": 1200,
+        "city": "Holden",
+        "state": "MA"
+      },
+      "Larson, Joanne": {
+        "total": 1025,
+        "city": "Worcester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Cayden Davis",
@@ -57,7 +518,112 @@
     "oosDonations": 2140,
     "totalDonations": 11683.7,
     "averageDonation": 54.34,
-    "donations": 215
+    "donations": 215,
+    "annualDonations": {
+      "2025": 11683.7
+    },
+    "topDonorsAllTime": {
+      "Maurice, Venette": {
+        "total": 700,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Burnett, Jeff": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Arbetter, Douglas": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Raymond, Nancy": {
+        "total": 500,
+        "city": "Biddeford",
+        "state": "ME"
+      },
+      "Davis, Janet": {
+        "total": 350,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Coyne, David": {
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Linhares, Keith": {
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Brooks, Matthew": {
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Lombardi, Sadie": {
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mackowiak, Jessica": {
+        "total": 230,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Reticker, Mary": {
+        "total": 225,
+        "city": "Cambridge",
+        "state": "MA"
+      },
+      "Narkewicz, Emma": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Bilotta, Robert": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Bilotta, Denise": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Kurlantzick, Andrew": {
+        "total": 172,
+        "city": "Framingham",
+        "state": "MA"
+      },
+      "Robertson, Marissa": {
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Curtin, John": {
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ahern, Shannon": {
+        "total": 150,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      "Kissane, Jeanne": {
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mejia, Adrian": {
+        "total": 130,
+        "city": "Worcester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Charles Luster",
@@ -69,7 +635,112 @@
     "oosDonations": 1800,
     "totalDonations": 5550,
     "averageDonation": 158.57,
-    "donations": 35
+    "donations": 35,
+    "annualDonations": {
+      "2025": 5550
+    },
+    "topDonorsAllTime": {
+      "Luster, Stacey": {
+        "total": 1000,
+        "city": "Worcester",
+        "state": "ma"
+      },
+      "Fisher, Edward": {
+        "total": 999,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mello, Deborah": {
+        "total": 600,
+        "city": "Uxbridge",
+        "state": "ma"
+      },
+      "pedone, Vincent": {
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Weatherspoon, Greg": {
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Realty LLC, Pristine": {
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Generations Mello All": {
+        "total": 200,
+        "city": "Uxbridge",
+        "state": "MA"
+      },
+      "Murray, Timothy": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "ma"
+      },
+      "Wright, Mark": {
+        "total": 200,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      "Hampton Dance, Johanna": {
+        "total": 160,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Price, Patricia": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "dixon, Moses": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Grant, Jason": {
+        "total": 100,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      "Jenkins, Abdullah": {
+        "total": 100,
+        "city": "West Brookfield",
+        "state": "MA"
+      },
+      "Generations Mello All Political Action Committee": {
+        "total": 100,
+        "city": "UXBRIDGE",
+        "state": "MA"
+      },
+      "Barr, Clarence": {
+        "total": 100,
+        "city": "Leominster",
+        "state": "MA"
+      },
+      "Salmon, Richard": {
+        "total": 100,
+        "city": "West Newton",
+        "state": "MA"
+      },
+      "Lopez, Maria": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Nathan, Frederick": {
+        "total": 55,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Floyd, Ernest": {
+        "total": 50,
+        "city": "Leicester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Edson Montero",
@@ -81,7 +752,113 @@
     "oosDonations": 0,
     "totalDonations": 265,
     "averageDonation": 44.17,
-    "donations": 6
+    "donations": 6,
+    "annualDonations": {
+      "2023": 2565,
+      "2025": 265
+    },
+    "topDonorsAllTime": {
+      "de Moreno, Xiomara A": {
+        "total": 500,
+        "city": "Haverhill",
+        "state": "MA"
+      },
+      "Morillo, Eric": {
+        "total": 500,
+        "city": "Brooklyn",
+        "state": "Ny"
+      },
+      "Holmes, Ariel": {
+        "total": 300,
+        "city": "Northborough",
+        "state": "MA"
+      },
+      "Rodriguez, Florentino": {
+        "total": 300,
+        "city": "Uxbridge",
+        "state": "MA"
+      },
+      "Cigollen, Jesus": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rodriguez, Amalfis": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Temple, Gordon": {
+        "total": 100,
+        "city": "Sutton",
+        "state": "MA"
+      },
+      "Gould, Tara": {
+        "total": 75,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "Lounis, Carmen": {
+        "total": 50,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Regalado, Tuny": {
+        "total": 50,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Persico, Rudolph": {
+        "total": 50,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Roy, Jean": {
+        "total": 50,
+        "city": "Holden",
+        "state": "MA"
+      },
+      "Montero, Ana": {
+        "total": 50,
+        "city": "Haverhill",
+        "state": "MA"
+      },
+      "Montero, Magino": {
+        "total": 50,
+        "city": "Haverhill",
+        "state": "MA"
+      },
+      "Norford, Katia & Carlos": {
+        "total": 50,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ogando, Johan": {
+        "total": 50,
+        "city": "Holden",
+        "state": "MA"
+      },
+      "Seda, Zantia": {
+        "total": 50,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Valle, Margarita": {
+        "total": 50,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Lacilla, Irene": {
+        "total": 50,
+        "city": "Sutton",
+        "state": "MA"
+      },
+      "Iaccarino, Greg": {
+        "total": 50,
+        "city": "Dorchester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Gary Rosen",
@@ -93,7 +870,123 @@
     "oosDonations": 600,
     "totalDonations": 3070,
     "averageDonation": 255.83,
-    "donations": 12
+    "donations": 12,
+    "annualDonations": {
+      "2005": 24857.739999999998,
+      "2006": 3903,
+      "2007": 14581,
+      "2009": 1590,
+      "2013": 3050,
+      "2015": 950,
+      "2016": 37.12,
+      "2017": 3525,
+      "2019": 1200,
+      "2020": 500,
+      "2021": 500,
+      "2025": 3070
+    },
+    "topDonorsAllTime": {
+      "Rosen, Gary": {
+        "total": 14820.86,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, S. Gary": {
+        "total": 10000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Maria": {
+        "total": 2300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen (candidate Loan), Gary ": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Hargrove, Dorothy": {
+        "total": 1800,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Aggregated Unitemized Receipts": {
+        "total": 1380,
+        "city": "",
+        "state": ""
+      },
+      "Rosen, Augusta": {
+        "total": 1199,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Mark Jeffrey": {
+        "total": 825,
+        "city": "Boxford",
+        "state": "MA"
+      },
+      "O'Connor, Daniel": {
+        "total": 750,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Samborski, Charles": {
+        "total": 750,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Larry": {
+        "total": 600,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen (Candidate Loan), Gary ": {
+        "total": 550,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Mark": {
+        "total": 500,
+        "city": "Boynton Beach",
+        "state": "FL"
+      },
+      "MA & No. New England Laborers' District Council, Thomas": {
+        "total": 500,
+        "city": "Hopkington",
+        "state": "MA"
+      },
+      "MA & No. New England Laborers' District Council": {
+        "total": 500,
+        "city": "Hopkington",
+        "state": "MA"
+      },
+      "Gabrieli, Christopher": {
+        "total": 500,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "Worcester Democratic City Committee": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Eric": {
+        "total": 500,
+        "city": "Framingham",
+        "state": "MA"
+      },
+      "MacKoul, John": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Rosen, Augusta ": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Jermoh Kamara",
@@ -105,7 +998,112 @@
     "oosDonations": 910,
     "totalDonations": 6950,
     "averageDonation": 80.81,
-    "donations": 86
+    "donations": 86,
+    "annualDonations": {
+      "2025": 6950
+    },
+    "topDonorsAllTime": {
+      "Kamara, Suliman": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Wong, Margaret": {
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Aggregated Unitemized Receipts": {
+        "total": 415,
+        "city": "",
+        "state": ""
+      },
+      "Boateng, Richard": {
+        "total": 400,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Julian, Paul": {
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Gino, Nuzzolilo": {
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "David, Coyne": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Mary, Depew": {
+        "total": 150,
+        "city": "worcester",
+        "state": "MA"
+      },
+      "Daniel, Atchue": {
+        "total": 100,
+        "city": "Washington",
+        "state": "DC"
+      },
+      "Joe, Asafu-Adjaye": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Kristal, Morfa": {
+        "total": 100,
+        "city": "Manhattan",
+        "state": "NY"
+      },
+      "Wanjiru, Nganga": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Alexandra, martin": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "michael, mudd": {
+        "total": 100,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      "My Numbers, Sulonteh": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Connolly, Donna": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Hopkins, Hazel": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Kathy, Chen": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Needle, Nathaniel": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Yusuf, Sam": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Jessica Pepple",
@@ -117,7 +1115,112 @@
     "oosDonations": 0,
     "totalDonations": 1704.27,
     "averageDonation": 81.16,
-    "donations": 21
+    "donations": 21,
+    "annualDonations": {
+      "2025": 1704.2699999999998
+    },
+    "topDonorsAllTime": {
+      "Hubschman, Harold": {
+        "total": 172.89,
+        "city": "Brookline",
+        "state": "MA"
+      },
+      "Cooney, Matt": {
+        "total": 144.07,
+        "city": "Brookline",
+        "state": "MA"
+      },
+      "Cromwell, Joan": {
+        "total": 100,
+        "city": "Chelsea",
+        "state": "MA"
+      },
+      "Nadeau, Kiimberly": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Templeton, Susan C.": {
+        "total": 100,
+        "city": "Leominster",
+        "state": "MA"
+      },
+      "Ames, Michael": {
+        "total": 96.05,
+        "city": "Harvard",
+        "state": "MA"
+      },
+      "Paulo, Mindy": {
+        "total": 96.05,
+        "city": "Raynham",
+        "state": "MA"
+      },
+      "Sege-Adede, Tammy": {
+        "total": 96.05,
+        "city": "Baldwinville",
+        "state": "MA"
+      },
+      "Smith-mumford, Pipier": {
+        "total": 96.05,
+        "city": "Milton",
+        "state": "MA"
+      },
+      "Vega, Jorge": {
+        "total": 96.05,
+        "city": "Brockton",
+        "state": "MA"
+      },
+      "Leary, James": {
+        "total": 96.05,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Lupien, Emily": {
+        "total": 96.05,
+        "city": "Fitchburg",
+        "state": "MA"
+      },
+      "Walsh, Dianne": {
+        "total": 96.05,
+        "city": "Groton",
+        "state": "MA"
+      },
+      "Reynolds, Nicole": {
+        "total": 50,
+        "city": "Leominster",
+        "state": "MA"
+      },
+      "Campbell, Denesha": {
+        "total": 48.02,
+        "city": "Springfield",
+        "state": "MA"
+      },
+      "Doucette, Paul": {
+        "total": 48.02,
+        "city": "Templeton",
+        "state": "MA"
+      },
+      "Greene, Cindy": {
+        "total": 48.02,
+        "city": "Lancaster",
+        "state": "MA"
+      },
+      "Kelley, Patricia": {
+        "total": 48.02,
+        "city": "Norfolk",
+        "state": "MA"
+      },
+      "Pascucci, Robert": {
+        "total": 48.02,
+        "city": "Pepperell",
+        "state": "MA"
+      },
+      "Leblanc, Naomi": {
+        "total": 19.21,
+        "city": "Hudson",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Kate Toomey",
@@ -129,7 +1232,129 @@
     "oosDonations": 600,
     "totalDonations": 17685.78,
     "averageDonation": 123.68,
-    "donations": 143
+    "donations": 143,
+    "annualDonations": {
+      "2005": 34765,
+      "2006": 3280,
+      "2007": 18875,
+      "2008": 1575,
+      "2009": 32857.86,
+      "2011": 15760,
+      "2012": 29091,
+      "2013": 13112,
+      "2015": 12795,
+      "2017": 13570,
+      "2018": 8076.01,
+      "2019": 16713.8,
+      "2020": 1545,
+      "2021": 18318.59,
+      "2022": 9480,
+      "2023": 21668.579999999998,
+      "2024": 5850,
+      "2025": 11835.779999999999
+    },
+    "topDonorsAllTime": {
+      "Aggregated Unitemized Receipts": {
+        "total": 40595.5,
+        "city": "",
+        "state": ""
+      },
+      "Toomey (Loan), Kate": {
+        "total": 8200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Toomey, Kathleen": {
+        "total": 6800,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Toomey, Kate": {
+        "total": 5500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Tinsley, E Paul": {
+        "total": 3250,
+        "city": "Andover",
+        "state": "MA"
+      },
+      "Tinsley, David": {
+        "total": 3100,
+        "city": "Sterling",
+        "state": "MA"
+      },
+      "Plumbers and Pipefitters Local 4": {
+        "total": 3075,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      "Tinsley, E. Paul": {
+        "total": 3000,
+        "city": "Naples",
+        "state": "FL"
+      },
+      "Morgan, J. Dennis": {
+        "total": 3000,
+        "city": "Sherborn",
+        "state": "MA"
+      },
+      "Yatim, Hassan": {
+        "total": 2600,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Ma Laborers' District Council Pol Action Comm": {
+        "total": 2500,
+        "city": "Hopkinton",
+        "state": "MA"
+      },
+      "Koocher, Glenn": {
+        "total": 2400,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "Voter Education Fund Local 170 Drive Fund": {
+        "total": 2200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Local 1009 Building Account": {
+        "total": 2100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Krock, Kathryn": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "IBEW Loacl 2325 COPE": {
+        "total": 2000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Bafaro, Joseph": {
+        "total": 1900,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Massad, David": {
+        "total": 1900,
+        "city": "Westborough",
+        "state": "MA"
+      },
+      "Direnzo, John": {
+        "total": 1850,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "Roofer's Local 33": {
+        "total": 1750,
+        "city": "Stoughton",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Candy Mero-Carlson",
@@ -141,7 +1366,122 @@
     "oosDonations": 1046.28,
     "totalDonations": 61278,
     "averageDonation": 195.78,
-    "donations": 313
+    "donations": 313,
+    "annualDonations": {
+      "2015": 29796.18,
+      "2016": 11124.06,
+      "2017": 15643.04,
+      "2018": 12741.619999999999,
+      "2019": 19395.5,
+      "2020": 17162,
+      "2021": 36155.94,
+      "2022": 17910,
+      "2023": 52446.759999999995,
+      "2024": 36430.56,
+      "2025": 24847.440000000002
+    },
+    "topDonorsAllTime": {
+      "Aggregated Unitemized Receipts": {
+        "total": 10213.890000000001,
+        "city": "",
+        "state": ""
+      },
+      "Krock, Kathryn": {
+        "total": 6250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Worcester Fitchburg Building Trades Council": {
+        "total": 5500,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      "Alexander, Lowell": {
+        "total": 5150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Usw D-4 Non Federal Account": {
+        "total": 5000,
+        "city": "Buffalo",
+        "state": "NY"
+      },
+      "Durkee, Paul": {
+        "total": 4600,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "MA & Northern NE Laborers' District Council Pol Action Comm": {
+        "total": 4500,
+        "city": "Hopkinton",
+        "state": "MA"
+      },
+      "United Assoc. of Plumbers & Pipefitters Local 4 PAC": {
+        "total": 4500,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      "Ironworkers Union Local 7 Pol Action Comm": {
+        "total": 4400,
+        "city": "South Boston",
+        "state": "MA"
+      },
+      "Central Ma Afl-Cio": {
+        "total": 4000,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      "Direnzo, John": {
+        "total": 4000,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "United Steelworkers Local 2936": {
+        "total": 3800,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      "Norton, Charles": {
+        "total": 3750,
+        "city": "Dover",
+        "state": "MA"
+      },
+      "United Steelworkers Local 2285": {
+        "total": 3500,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      "Int'l Union of Operating Engineers Local 4 Social Pol Action Committee": {
+        "total": 3250,
+        "city": "Medway",
+        "state": "MA"
+      },
+      "Rhodes, Robin": {
+        "total": 3100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Yatim, Hassan": {
+        "total": 3000,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      "Gosnell, Thomas": {
+        "total": 3000,
+        "city": "Winchester",
+        "state": "MA"
+      },
+      "I.B.E.W Local Union 96 PAC": {
+        "total": 3000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Painters District Council #35 PAC": {
+        "total": 2750,
+        "city": "Roslindale",
+        "state": "MA"
+      }
+    }
   },
   {
     "name": "Owura Sarkodieh",
@@ -153,7 +1493,115 @@
     "oosDonations": 653.48,
     "totalDonations": 3996.01,
     "averageDonation": 137.79,
-    "donations": 29
+    "donations": 29,
+    "annualDonations": {
+      "2019": 4002.85,
+      "2020": 525,
+      "2022": 985,
+      "2025": 3996.01
+    },
+    "topDonorsAllTime": {
+      "Sarkodieh, Owura-Kwaku P.": {
+        "total": 1970,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Sarkodieh, Charity": {
+        "total": 1000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Sarkodieh, Kwame": {
+        "total": 1000,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Sarkodieh, Owura-Kwaku": {
+        "total": 850,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Sarkodieh, Owura": {
+        "total": 600,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Owusu, Berko": {
+        "total": 500,
+        "city": "Bolingbrook",
+        "state": "IL"
+      },
+      "Acheampong, Charity": {
+        "total": 410,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Gyimah, Eric": {
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Kuffour, Osei": {
+        "total": 300,
+        "city": "Baytown",
+        "state": "TX"
+      },
+      "Adu-gyamfi, Frank": {
+        "total": 203.48000000000002,
+        "city": "Crpress",
+        "state": "TX"
+      },
+      "Sarkodieh, Owura-kwaku": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Fosu, Bernard": {
+        "total": 200,
+        "city": "Sahuarita",
+        "state": "AZ"
+      },
+      "Mensah, Frank": {
+        "total": 200,
+        "city": "Arlington",
+        "state": "TX"
+      },
+      "Esther, Sarkodieh": {
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ollenu, Nii": {
+        "total": 200,
+        "city": "Leominster",
+        "state": "MA"
+      },
+      "Asafu-adjaye, J. N.": {
+        "total": 120,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Dotse, Christopher": {
+        "total": 103.48,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Boakye, Janet": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Tiku-henry, Roseline": {
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Amankwah, Richard": {
+        "total": 100,
+        "city": "Bronx",
+        "state": "NY"
+      }
+    }
   },
   {
     "name": "Khrystian King",
@@ -165,6 +1613,122 @@
     "oosDonations": 1795,
     "totalDonations": 27836,
     "averageDonation": 83.59,
-    "donations": 333
+    "donations": 333,
+    "annualDonations": {
+      "2013": 26620.67,
+      "2015": 23824.1,
+      "2016": 3570,
+      "2017": 16346.42,
+      "2018": 7225.21,
+      "2019": 7835.58,
+      "2020": 4700.09,
+      "2021": 13670,
+      "2022": 5380,
+      "2023": 54447.69,
+      "2024": 2850,
+      "2025": 24986
+    },
+    "topDonorsAllTime": {
+      "MASS ALLIANCE": {
+        "total": 18521.93,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "SEIU MASS STATE COUNCIL": {
+        "total": 5000,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "Coyne, David": {
+        "total": 3150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "MA & Northern NE Laborers' District Council Pol Action Comm": {
+        "total": 3000,
+        "city": "Hopkinton",
+        "state": "MA"
+      },
+      "1199 SEIU MA PAC": {
+        "total": 3000,
+        "city": "New York",
+        "state": "NY"
+      },
+      "Guerriero, Sabatino": {
+        "total": 3000,
+        "city": "Phoenix",
+        "state": "AZ"
+      },
+      "Seiu Massachusetts State Council": {
+        "total": 3000,
+        "city": "Boston",
+        "state": "MA"
+      },
+      "Krock, Kathryn": {
+        "total": 2500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "PEA State Fund": {
+        "total": 2500,
+        "city": "Washington",
+        "state": "DC"
+      },
+      "Williams, Mahlon": {
+        "total": 2250,
+        "city": "West Roxbury",
+        "state": "MA"
+      },
+      "Mailman, Susan": {
+        "total": 2075,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Williams, Dulce": {
+        "total": 2000,
+        "city": "West Roxbury",
+        "state": "MA"
+      },
+      "Local 509 Service Employees Int'l Union Comm on Pol Ed, MA Workers' Pol Action Comm.": {
+        "total": 2000,
+        "city": "Marlborough",
+        "state": "MA"
+      },
+      "King, Leon": {
+        "total": 1555,
+        "city": "Philadelphia",
+        "state": "PA"
+      },
+      "Seiu 509 Cope": {
+        "total": 1500,
+        "city": "Marlboro",
+        "state": "MA"
+      },
+      "Ubc & Ja Local 336": {
+        "total": 1500,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      "Esler, John": {
+        "total": 1500,
+        "city": "Sutton",
+        "state": "MA"
+      },
+      "Massachusetts Afl-cio": {
+        "total": 1500,
+        "city": "Malden",
+        "state": "MA"
+      },
+      "King (Candidate Loan), Khrystian": {
+        "total": 1482.26,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      "Ogunjobi, Ben": {
+        "total": 1350,
+        "city": "Worcester",
+        "state": "MA"
+      }
+    }
   }
 ]
