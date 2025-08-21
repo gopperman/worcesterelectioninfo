@@ -31,7 +31,7 @@ const processAllTime = (candidate) => {
       .on('data', (row) => {
         const year = row.Date.slice(-4)
         const amt = +row.Amount.replace('$','').replace(',','')
-        const donor = row.Contributor
+        const { Contributor, City, State } = row
 
         if (year in annualDonations) {
           annualDonations[year] += amt
@@ -40,21 +40,41 @@ const processAllTime = (candidate) => {
 
         }
 
-        if (donor in donors) {
-          donors[donor] += amt
+        if (Contributor in donors) {
+          donors[Contributor].total += amt
         } else {
-          donors[donor] = amt
+          donors[Contributor] = {
+            total: amt,
+            city: City,
+            state: State
+          }
         }
 
-        if (donor in allDonors) {
+        if (Contributor in allDonors) {
 
         } else {
 
         }
       })
       .on('end', () => {
-        const topDonorsArray = Object.entries(donors).sort(([,a],[,b]) => b-a)
-        const topDonors = Object.fromEntries(topDonorsArray.slice(0,20))
+        let sortableDonors = []
+        for (d in donors) {
+          sortableDonors.push([d, donors[d].total, donors[d].city, donors[d].state])
+        }
+
+        sortableDonors.sort((a,b) => {
+          return b[1] - a[1]
+        });
+
+        let topDonors = {}
+        sortableDonors.slice(0,20).forEach(d => {
+          topDonors[d[0]] = {
+            total: d[1],
+            city: d[2],
+            state: d[3]
+          }
+        })
+
         results = {
           annualDonations,
           topDonors
@@ -128,18 +148,28 @@ const processfile = (candidate) => {
 const allTimePromises = candidates.map((c) => processAllTime(c))
 
 const currentPromises = candidates.map((c) => processfile(c))
-  //.concat(allTimePromises)
 
-Promise.all(currentPromises).then((v) => {
-  const writeFile = '../_data/candidates.json'
-  const data = JSON.stringify(v, null, 2)
-
-  fs.writeFile(writeFile, data, (err) => {
-      if (err) {
-          console.error("Error writing file:", err)
-          return;
+Promise.all(currentPromises).then((x) => {
+  Promise.all(allTimePromises).then((y) => {
+    const z = x.map((candidate) => {
+      const allTime = y.find((el) => el.name === candidate.name)
+      return {
+        ...candidate,
+        annualDonations: allTime.annualDonations,
+        topDonorsAllTime: allTime.topDonors
       }
-      console.log("File written ")
+    })
+
+    const writeFile = '../_data/candidates.json'
+    const data = JSON.stringify(z, null, 2)
+
+    fs.writeFile(writeFile, data, (err) => {
+        if (err) {
+            console.error("Error writing file:", err)
+            return;
+        }
+        console.log("File written ")
+    })
   })
 })
 
