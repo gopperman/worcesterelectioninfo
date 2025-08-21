@@ -19,6 +19,7 @@ let candidates = [
 ]
 
 let allTimeDonors = {}
+let currentCycleDonors = {}
 
 const sortDonors = (donors) => {
   let sortableDonors = []
@@ -50,7 +51,6 @@ const processAllTime = (candidate) => {
           annualDonations[year] += amt
         } else {
           annualDonations[year] = amt
-
         }
 
         if (Contributor in donors) {
@@ -68,7 +68,7 @@ const processAllTime = (candidate) => {
           allTimeDonors[Contributor].donations.push({
               name: candidate.name,
               date: row.Date,
-              amt: amt
+              amount: amt
           })
         } else {
           allTimeDonors[Contributor] = {
@@ -78,7 +78,7 @@ const processAllTime = (candidate) => {
             donations: [{
               name: candidate.name,
               date: row.Date,
-              amt: amt
+              amount: amt
             }]
           }
         }
@@ -109,17 +109,41 @@ const processfile = (candidate) => {
     fs.createReadStream(file)
       .pipe(parse({ columns: true, skip_empty_lines: true }))
       .on('data', (row) => {
-        rows++
         const amount = +row.Amount.replace('$','').replace(',','')
+        const year = row.Date.slice(-4)
+        const amt = +row.Amount.replace('$','').replace(',','')
+        const { Contributor, City, State } = row
         totalDonations += amount
+        rows++
 
-        if (row.State !== 'MA') {
+        if (State !== 'MA') {
           oosDonations += amount
         } else {
-          if (row.City == 'Worcester') {
+          if (City == 'Worcester') {
             worcDonations += amount
           } else {
             maDonations += amount
+          }
+        }
+
+        // Track top donors
+        if (Contributor in currentCycleDonors) {
+          currentCycleDonors[Contributor].total += amount
+          currentCycleDonors[Contributor].donations.push({
+              name: candidate.name,
+              date: row.Date,
+              amount: amt
+          })
+        } else {
+          currentCycleDonors[Contributor] = {
+            total: amt,
+            city: City,
+            state: State,
+            donations: [{
+              name: candidate.name,
+              date: row.Date,
+              amount: amt
+            }]
           }
         }
       })
@@ -166,27 +190,25 @@ Promise.all(currentPromises).then((x) => {
     })
 
     // Write Candidate Data
-    const writeCandidateFile = '../_data/candidates.json'
-    const data = JSON.stringify(z, null, 2)
+    writeFile('candidates.json', z)
 
-    fs.writeFile(writeCandidateFile, data, (err) => {
-        if (err) {
-            console.error("Error writing file:", err)
-            return
-        }
-        console.log("candidates.json written")
-    })
+    // Write All-time Donor Data
+    writeFile('all-time-donors.json', sortDonors(allTimeDonors).slice(1,101))
 
-    // Write Donor Data
-    const allTimeDonorWriteFile = '../_data/all-time-donors.json'
-    const allTimeDonorData = JSON.stringify(allTimeDonors, null, 2)
-    fs.writeFile(allTimeDonorWriteFile, allTimeDonorData, (err) => {
-        if (err) {
-            console.error("Error writing file:", err)
-            return
-        }
-        console.log("all-time-donors.json written")
-    })
+    writeFile('current-cycle-top-donors.json', sortDonors(currentCycleDonors).slice(0,100))
   })
 })
+
+const writeFile = (filename, data) => {
+  const filePath = `../_data/${filename}`
+  const dataString = JSON.stringify(data, null, 2)
+
+  fs.writeFile(filePath, dataString, (err) => {
+      if (err) {
+          console.error("Error writing file:", err)
+          return
+      }
+      console.log(`${filename} written`)
+  })
+}
 

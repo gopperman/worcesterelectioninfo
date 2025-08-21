@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Yatim, Hassan",
+    "total": 7000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "5/28/2025",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/23/2024",
+        "amount": 500
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "5/20/2025",
+        "amount": 500
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "1/22/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/17/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/26/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "6/30/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/9/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Norton, Charles",
+    "total": 3000,
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/28/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "MA & Northern NE Laborers' District Council Pol Action Comm",
+    "total": 3000,
+    "city": "Hopkinton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/26/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "6/30/2025",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/30/2025",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Wong, Margaret",
+    "total": 2600,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Jermoh Kamara",
+        "date": "5/5/2025",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/2/2025",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Fisher, Charran",
+    "total": 2425,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/22/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 125
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 200
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "United Assoc. of Plumbers & Pipefitters Local 4 PAC",
+    "total": 2350,
+    "city": "West Boylston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/26/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "2/4/2025",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/17/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/18/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Mitra, Satya",
+    "total": 2350,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/25/2025",
+        "amount": 150
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Fontaine, David",
+    "total": 2000,
+    "city": "Somers",
+    "state": "CT",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "7/25/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Lee, Patrick",
+    "total": 2000,
+    "city": "Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "7/9/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/18/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Ironworkers Union Local 7 Pol Action Comm",
+    "total": 2000,
+    "city": "South Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "KROCK, KATHRYN",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Int'l Union of Operating Engineers Local 4 Social Pol Action Committee",
+    "total": 2000,
+    "city": "Medway",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Guin, Jayanta",
+    "total": 2000,
+    "city": "Natick",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/18/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Chakravorty, Sujata",
+    "total": 2000,
+    "city": "Bedford",
+    "state": "NH",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/11/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mitra, Abiskar",
+    "total": 2000,
+    "city": "Brooklyn",
+    "state": "NY",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/24/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Logan, Thomas",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/10/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mitra, Alingon",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/10/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Passey, Sahdev",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Jangareddi, Ramesh",
+    "total": 2000,
+    "city": "Franklin",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mitra, Supriya",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Krock, Kathryn",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Kate Toomey",
+        "date": "2/9/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "1/16/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "I.B.E.W Local Union 96 PAC",
+    "total": 1750,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "2/26/2024",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/27/2024",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Chacharone, James",
+    "total": 1500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "North Atlantic States Regional Council of Carpenters PAC",
+    "total": 1500,
+    "city": "Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/26/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "8/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Rodriguez, Wilberto",
+    "total": 1500,
+    "city": "Norwich",
+    "state": "CT",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "YATIM, Tarek",
+    "total": 1500,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Blais, Craig",
+    "total": 1500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 150
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/23/2024",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "IBEW Local 2325 Cttee for Political Education PAC",
+    "total": 1500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/8/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Alexander, Lowell",
+    "total": 1500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Direnzo, John",
+    "total": 1500,
+    "city": "Millbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/27/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Rhodes, Robin",
+    "total": 1500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/31/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Swartz, Ellen",
+    "total": 1500,
+    "city": "Paxton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/8/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Durkee, Paul",
+    "total": 1500,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/9/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Murray, Timothy",
+    "total": 1350,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 150
+      },
+      {
+        "name": "Charles Luster",
+        "date": "3/20/2025",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Borenstein, Mark",
+    "total": 1300,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/15/2025",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/28/2025",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/11/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/18/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/17/2024",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/30/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Suarez, Jesus",
+    "total": 1250,
+    "city": "Sturbridge",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Mhatree, Anil",
+    "total": 1250,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "4/30/2025",
+        "amount": 250
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mercadante, Kevin",
+    "total": 1250,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 250
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "5/20/2025",
+        "amount": 200
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "1/22/2025",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/4/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/8/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Mailman, Susan",
+    "total": 1250,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Cayden Davis",
+        "date": "6/13/2025",
+        "amount": 50
+      },
+      {
+        "name": "Cayden Davis",
+        "date": "4/16/2025",
+        "amount": 50
+      },
+      {
+        "name": "Jermoh Kamara",
+        "date": "3/18/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/2/2025",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/16/2025",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "2/28/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/31/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Worcester Fitchburg Building Trades Council",
+    "total": 1250,
+    "city": "West Boylston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/30/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "2/28/2025",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Angelini, Michael",
+    "total": 1200,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/31/2024",
+        "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "MITRA, SATYA",
+    "total": 1200,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Pietrewicz, Edward",
+    "total": 1125,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/6/2024",
+        "amount": 25
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 125
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/6/2025",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/17/2025",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 50
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Kahoro, Joseph",
+    "total": 1100,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Jermoh Kamara",
+        "date": "4/29/2025",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Coyne, David",
+    "total": 1100,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Cayden Davis",
+        "date": "7/23/2025",
+        "amount": 100
+      },
+      {
+        "name": "Cayden Davis",
+        "date": "6/13/2025",
+        "amount": 100
+      },
+      {
+        "name": "Cayden Davis",
+        "date": "6/1/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/30/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/4/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/28/2025",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/16/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "2/28/2025",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/31/2024",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Fisher, Edward",
+    "total": 1099,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 100
+      },
+      {
+        "name": "Charles Luster",
+        "date": "3/20/2025",
+        "amount": 999
+      }
+    ]
+  },
+  {
+    "name": "Sheet Metal Workers' Local #63 International PAC",
+    "total": 1050,
+    "city": "Springfield",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 300
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/26/2024",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/17/2024",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "WORCESTER-FITCHBURG BUILDING TRADES COUNCEL",
+    "total": 1000,
+    "city": "West Boylston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "7/25/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/24/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Weimer, Melissa",
+    "total": 1000,
+    "city": "Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "7/13/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "MADIGAN, Francis",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "O'Hara, Michael",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/17/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "UMPHREY, James",
+    "total": 1000,
+    "city": "Northborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "UFCW LOCAL 1445",
+    "total": 1000,
+    "city": "Dedham",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "4/7/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Rucker, Cliff",
+    "total": 1000,
+    "city": "Danvers",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Krock, Aaron",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "1/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "PARVIN, KEVIN",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "1/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "BELDING, Ethan",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "DIXON, Moses",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "DIRENZO, John",
+    "total": 1000,
+    "city": "Millbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "MCGUIRE, JOHN",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "NORTON, Charles",
+    "total": 1000,
+    "city": "Dover",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "4/6/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Herlinger, Dorit",
+    "total": 1000,
+    "city": "Scottsdale",
+    "state": "AZ",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mukherjee, Dilip",
+    "total": 1000,
+    "city": "Stoneham",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "6/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Nalla, Somashekar",
+    "total": 1000,
+    "city": "The Colony",
+    "state": "TX",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "6/10/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Krishnaswamy, Suneel",
+    "total": 1000,
+    "city": "Acton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "5/20/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Deb, Krishna",
+    "total": 1000,
+    "city": "Silver Spring",
+    "state": "MD",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "5/12/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Rajeev, Kallanthottathil",
+    "total": 1000,
+    "city": "Wayland",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "5/12/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Vanka, Kumer",
+    "total": 1000,
+    "city": "Vienna",
+    "state": "VA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "5/12/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Anita, Mathew",
+    "total": 1000,
+    "city": "Jersey City",
+    "state": "NJ",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "4/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Aravind, Kamath",
+    "total": 1000,
+    "city": "Franklin",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "4/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Patel, Kirit",
+    "total": 1000,
+    "city": "Holden",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "4/30/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Nagpal, Kirti",
+    "total": 1000,
+    "city": "Holden",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "4/22/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Goteti, Kosalaram",
+    "total": 1000,
+    "city": "Acton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Rao, Monica",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Shenoy, Gopal",
+    "total": 1000,
+    "city": "South Grafton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Veeramani, Asokaraj",
+    "total": 1000,
+    "city": "Marlborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Sandesh, Bhat",
+    "total": 1000,
+    "city": "Acton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/26/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Bose, Rina",
+    "total": 1000,
+    "city": "Billerica",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/18/2025",
+        "amount": 500
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "2/10/2025",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Khan, Ashraf",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/18/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Ulman, Sandeep",
+    "total": 1000,
+    "city": "Acton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/11/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Yekkirala, Ajay",
+    "total": 1000,
+    "city": "Newton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "3/5/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Singh, Prahlad",
+    "total": 1000,
+    "city": "Bedford",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/28/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Roy, Debra",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Nikam, Digvijay",
+    "total": 1000,
+    "city": "Brentwood",
+    "state": "TN",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/19/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Duttaroy, Alokesh",
+    "total": 1000,
+    "city": "Marlborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/10/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mhatree, Jyotsna",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/10/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Wolanski, Nicole",
+    "total": 1000,
+    "city": "Westborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "2/4/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Durgapal, Shailesh",
+    "total": 1000,
+    "city": "Lexington",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Ramanathan, Ramanan",
+    "total": 1000,
+    "city": "Auburndale",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Rosen, Gregg",
+    "total": 1000,
+    "city": "Mansfield",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/28/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Bose, Avirup",
+    "total": 1000,
+    "city": "Marlborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Datta, Gouri",
+    "total": 1000,
+    "city": "Newton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Mitra, Shouri",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Rajan, Krishnan",
+    "total": 1000,
+    "city": "South Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Yadati, Santharam",
+    "total": 1000,
+    "city": "Bedford",
+    "state": "NH",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/24/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Gulati, Subhash",
+    "total": 1000,
+    "city": "Los Angeles",
+    "state": "CA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Lavana, Nikhil",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/6/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Rao, Chandra",
+    "total": 1000,
+    "city": "Shrewsbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/6/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Shah, Sanjay",
+    "total": 1000,
+    "city": "Westborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "1/6/2025",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Lessard, Daniel",
+    "total": 1000,
+    "city": "Sutton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Satya Mitra",
+        "date": "12/31/2024",
+        "amount": 1000
+      }
+    ]
+  }
+]
