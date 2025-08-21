@@ -14,8 +14,7 @@ let candidates = [
   { name: 'Jessica Pepple' },
   { name: 'Kate Toomey' },
   { name: 'Candy Mero-Carlson'},
-  { name: 'Bernard Iandoli'},
-  { name: 'Owura-Kwaku Sarkodieh'},
+  { name: 'Owura Sarkodieh'},
   { name: 'Khrystian King'}
 ]
 
