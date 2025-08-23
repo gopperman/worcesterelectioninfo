@@ -4,7 +4,7 @@
   <h3 class="race-card__title">{{district}}</h3>
   <div class="race-card__grid">
     <div class="race-card__candidate">
-      {% render "candidate/summary.liquid", candidate: c1, tag: "h4", wide: true %}
+      {% render "candidate/summary.liquid", site: site, candidate: c1, tag: "h4", wide: true %}
     </div>
     <div class="race-card__vs" aria-role="decoration">
       <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
@@ -12,7 +12,7 @@
       <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
     </div>
     <div class="race-card__candidate">
-      {% render "candidate/summary.liquid", candidate: c2, tag: "h4", wide: true %}
+      {% render "candidate/summary.liquid", site: site, candidate: c2, tag: "h4", wide: true %}
     </div>
   </div>
 </div>

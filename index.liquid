@@ -10,7 +10,7 @@ title: "Worcester City Council 2025 Election Guide"
       {% assign candidatesByName = collections.atlarge | sort: "data.sortOrder" %}
       {%- for candidate in candidatesByName -%}
         <div class="card">
-          {% render "candidate/summary.liquid", candidate: candidate, tag: "h3" %}
+          {% render "candidate/summary.liquid", site: site, candidate: candidate, tag: "h3" %}
         </div>
       {%- endfor -%}
     </div>
