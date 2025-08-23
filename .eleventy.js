@@ -30,4 +30,20 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("percent", (v) => {
     return (v * 100).toFixed(1)
   })
+
+  eleventyConfig.addFilter("firstlast", (v) => {
+    if (v.includes(', ')) {
+      const split = v.split(', ')
+      return `${split[1]} ${split[0]}`
+    } else {
+      return v
+    }
+  })
+
+  eleventyConfig.addFilter("titlecase", (v) => {
+    return v.replace(
+    /\w\S*/g,
+    text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
+  )
+  })
 }

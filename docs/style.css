@@ -453,6 +453,10 @@ tr:first-child {
   font-weight: bold;
 }
 
+.card .bignumber--donor {
+  margin: 10px 0;
+}
+
 .bignumber--alt {
   color: var(--violet);
 }
