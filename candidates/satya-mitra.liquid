@@ -5,24 +5,22 @@ headshot: mitra.png
 status: candidate
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 sortOrder: 10
+layout: candidate.liquid
 ---
-{% render "candidate/header.liquid", site: site, name: name, status: status, headshot: headshot , district: "At Large" %}
-<main>
+<section>
+  <h2>Who is {{name}}?</h2>
+  <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+</section>
   <section>
-    <h2>Who is {{name}}?</h2>
-    <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <h2>What are {{name}}'s Political Positions?</h2>
 
-    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
-  </section>
-    <section>
-    <h2>What are {{name}}'s Political Positions?</h2>
+  <ul>
+    <li><b>Housing</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
+    <li><b>Immigration</b>: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</li>
+    <li><b>LGBTQ+</b>: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li>
 
-    <ul>
-      <li><b>Housing</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-      <li><b>Immigration</b>: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</li>
-      <li><b>LGBTQ+</b>: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </li>
-
-    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
-  </section>
-  {% render "candidate/financials.liquid", site: site, name: name %}
-</main>
+  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+</section>
+{% render "candidate/financials.liquid", site: site, name: name %}

@@ -20,19 +20,19 @@ title: "Worcester City Council 2025 Election Guide"
     <h2>Who's Running for Worcester District Council?</h2>
     <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     {% assign d1 = collections.d1 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d1, district: "District 1" %}
+    {% render "district-race.liquid", candidates: d1, district: "District 1", site: site  %}
 
     {% assign d2 = collections.d2 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d2, district: "District 2" %}
+    {% render "district-race.liquid", candidates: d2, district: "District 2", site: site %}
 
     {% assign d3 = collections.d3 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d3, district: "District 3" %}
+    {% render "district-race.liquid", candidates: d3, district: "District 3", site: site %}
 
     {% assign d4 = collections.d4 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d4, district: "District 4" %}
+    {% render "district-race.liquid", candidates: d4, district: "District 4", site: site%}
 
     {% assign d5 = collections.d5 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d5, district: "District 5" %}
+    {% render "district-race.liquid", candidates: d5, district: "District 5", site: site %}
 
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
   </section>

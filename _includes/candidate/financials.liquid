@@ -1,10 +1,53 @@
-<section class="section--wide">
-  <h2>Who are {{name}}'s Financial Backers?</h2>
+<section class="section">
+  <h2>How much money has {{candidate.name}} raised?</h2>
+  <div class="grid grid--3">
+    <div class="centered">
+      <div>
+        <h3>Lifetime Raised</h3>
+        <p class="bignumber bignumber--alt">$30,000</p>
+      </div>
+    </div>
+    <div class="centered">
+      <div>
+        <h3>2024-2025 Donations</h3>
+        <p class="bignumber">{{candidate.totalDonations | money}}</p>
+      </div>
+    </div>
+    <div>
+      <table>
+        <caption><h3>{{candidate.name}}'s 2024-2025 Donations by Location</h3></caption>
+        <tr>
+          <th>Location</th>
+          <th>Total</th>
+          <th>Percent</th>
+        </tr>
+        <tr>
+          <td class="table__candidate">Worcester</td>
+          <td class="table__value">{{candidate.worcDonations | money}}</td>
+          <td class="table__percent">{{candidate.worcPct | percent}}%</td>
+        </tr>
+        <tr>
+          <td class="table__candidate">Massachusetts*</td>
+          <td class="table__value">{{candidate.maDonations | money}}</td>
+          <td class="table__percent">{{candidate.maPct | percent}}%</td>
+        </tr>
+        <tr>
+          <td class="table__candidate">Out-of-State</td>
+          <td class="table__value">{{candidate.oosDonations | money}}</td>
+          <td class="table__percent">{{candidate.oosPct | percent}}%</td>
+        </tr>
+      </table>
+      <p class="footnote">* Massachusetts donations excluding Worcester</p>
+    </div>
+  </div>
+</section>
+<!--<section class="section--wide">
+  <h2>Who are {{candidate.name}}'s Donors?</h2>
   <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   <div class="grid grid--4">
     <div>
       <table>
-        <caption class="table__title">{{name}}'s Campaign Contributions, Categorized</caption>
+        <caption class="table__title">{{candidate.name}}'s Campaign Contributions, Categorized</caption>
         <tr>
           <th>Category</th>
           <th>Total Raised</th>
@@ -54,5 +97,5 @@
     </div>
   </div>
 
-  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>-->
 </section>

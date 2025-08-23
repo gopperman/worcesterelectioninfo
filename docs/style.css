@@ -137,6 +137,15 @@ a:hover, a:active {
   }
 }
 
+.header__body--candidate {
+  margin: 25px auto;
+  padding-bottom: 0;
+
+  .header__head {
+    margin: 0;
+  }
+}
+
 .header__presents {
   line-height: 30px;
   position: absolute;
@@ -303,6 +312,11 @@ tr:first-child {
   min-height: 3em;
 }
 
+.table__percent {
+  color: var(--violet);
+  font-weight: bold;
+}
+
 /** Pills */
 .pill {
   display: inline-block;
@@ -381,6 +395,12 @@ tr:first-child {
   text-align: center;
 }
 
+.footnote {
+  color: var(--gray);
+  font-size: .8em;
+  font-style: italic;
+}
+
 .container {
   display: inline-block;
   max-width: 990px;
@@ -427,6 +447,23 @@ tr:first-child {
   display: block;
 }
 
+.bignumber {
+  color: var(--green);
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.bignumber--alt {
+  color: var(--violet);
+}
+
+.centered {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
 /** Responsive **/
 @media screen and (min-width: 480px) {
   .grid {
@@ -458,6 +495,13 @@ tr:first-child {
   }
   .grid--3, .grid--4 {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  .header__body--candidate {
+    margin: 0 auto;
+    display: grid;
+    grid-gap: 25px;
+    grid-template-columns: 125px 1fr;
   }
 }
 
