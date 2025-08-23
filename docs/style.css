@@ -502,6 +502,7 @@ tr:first-child {
     display: grid;
     grid-gap: 25px;
     grid-template-columns: 125px 1fr;
+    text-align: left;
   }
 }
 

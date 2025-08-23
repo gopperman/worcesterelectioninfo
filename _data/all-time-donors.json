@@ -69,21 +69,6 @@
         "amount": 500
       },
       {
-        "name": "Jose Rivera",
-        "date": "7/25/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "2/27/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "8/14/2023",
-        "amount": 1000
-      },
-      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 1000
@@ -102,6 +87,21 @@
         "name": "John Fresolo",
         "date": "10/17/2013",
         "amount": 100
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "7/25/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "2/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "8/14/2023",
+        "amount": 1000
       },
       {
         "name": "Kate Toomey",
@@ -320,11 +320,6 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "6/30/2025",
-        "amount": 500
-      },
-      {
         "name": "Kate Toomey",
         "date": "6/27/2025",
         "amount": 500
@@ -337,6 +332,11 @@
       {
         "name": "Moe Bergman",
         "date": "6/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/30/2025",
         "amount": 500
       },
       {
@@ -468,14 +468,14 @@
         "amount": 1000
       },
       {
-        "name": "Khrystian King",
-        "date": "5/11/2023",
-        "amount": 1000
-      },
-      {
         "name": "Kate Toomey",
         "date": "4/2/2019",
         "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/11/2023",
+        "amount": 1000
       },
       {
         "name": "Candy Mero-Carlson",
@@ -503,6 +503,11 @@
         "amount": 500
       },
       {
+        "name": "Moe Bergman",
+        "date": "12/30/2020",
+        "amount": 500
+      },
+      {
         "name": "Khrystian King",
         "date": "1/17/2023",
         "amount": 1000
@@ -510,11 +515,6 @@
       {
         "name": "Khrystian King",
         "date": "12/29/2020",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/30/2020",
         "amount": 500
       },
       {
@@ -778,13 +778,13 @@
         "amount": 100
       },
       {
-        "name": "Robert Pezzella",
-        "date": "7/18/2025",
+        "name": "Moe Bergman",
+        "date": "2/4/2025",
         "amount": 250
       },
       {
-        "name": "Moe Bergman",
-        "date": "2/4/2025",
+        "name": "Robert Pezzella",
+        "date": "7/18/2025",
         "amount": 250
       },
       {
@@ -903,11 +903,6 @@
         "amount": 150
       },
       {
-        "name": "Khrystian King",
-        "date": "7/1/2015",
-        "amount": 100
-      },
-      {
         "name": "Kate Toomey",
         "date": "5/12/2007",
         "amount": 100
@@ -915,6 +910,11 @@
       {
         "name": "Kate Toomey",
         "date": "3/19/2007",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/1/2015",
         "amount": 100
       },
       {
@@ -1152,41 +1152,6 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "7/30/2025",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "6/4/2025",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "5/28/2025",
-        "amount": 200
-      },
-      {
-        "name": "Khrystian King",
-        "date": "4/16/2025",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "2/28/2025",
-        "amount": 200
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/31/2024",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "11/6/2023",
-        "amount": 200
-      },
-      {
         "name": "Luis Ojeda",
         "date": "8/6/2025",
         "amount": 100
@@ -1220,6 +1185,41 @@
         "name": "Luis Ojeda",
         "date": "6/2/2023",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/30/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/4/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/28/2025",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/16/2025",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "2/28/2025",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/31/2024",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "11/6/2023",
+        "amount": 200
       },
       {
         "name": "Rob Bilotta",
@@ -2051,11 +2051,6 @@
         "amount": 500
       },
       {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "1/10/2008",
         "amount": 100
@@ -2074,6 +2069,11 @@
         "name": "Kate Toomey",
         "date": "4/9/2007",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 250
       },
       {
         "name": "Kate Toomey",
@@ -2509,21 +2509,6 @@
         "amount": 50
       },
       {
-        "name": "Khrystian King",
-        "date": "9/30/2023",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "9/30/2023",
-        "amount": 250
-      },
-      {
-        "name": "Khrystian King",
-        "date": "6/26/2023",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "4/2/2019",
         "amount": 100
@@ -2542,6 +2527,21 @@
         "name": "Kate Toomey",
         "date": "10/30/2015",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/30/2023",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/30/2023",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/26/2023",
+        "amount": 250
       },
       {
         "name": "Rob Bilotta",
@@ -3229,11 +3229,6 @@
         "amount": 131.59
       },
       {
-        "name": "Robert Pezzella",
-        "date": "5/16/2025",
-        "amount": 109.99
-      },
-      {
         "name": "Moe Bergman",
         "date": "7/9/2025",
         "amount": 117.99
@@ -3246,6 +3241,11 @@
       {
         "name": "Satya Mitra",
         "date": "4/30/2025",
+        "amount": 109.99
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "5/16/2025",
         "amount": 109.99
       },
       {
@@ -3556,14 +3556,14 @@
         "amount": 500
       },
       {
-        "name": "Jose Rivera",
-        "date": "6/30/2023",
-        "amount": 250
-      },
-      {
         "name": "Joe Petty",
         "date": "6/23/2025",
         "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "6/30/2023",
+        "amount": 250
       },
       {
         "name": "Tony Economou",
@@ -3745,11 +3745,6 @@
         "amount": 150
       },
       {
-        "name": "Robert Pezzella",
-        "date": "3/12/2025",
-        "amount": 200
-      },
-      {
         "name": "Moe Bergman",
         "date": "6/11/2025",
         "amount": 150
@@ -3763,6 +3758,11 @@
         "name": "Moe Bergman",
         "date": "11/21/2023",
         "amount": 150
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/12/2025",
+        "amount": 200
       },
       {
         "name": "Tony Economou",
@@ -3825,6 +3825,11 @@
         "amount": 150
       },
       {
+        "name": "Moe Bergman",
+        "date": "6/8/2021",
+        "amount": 125
+      },
+      {
         "name": "Khrystian King",
         "date": "12/29/2020",
         "amount": 150
@@ -3840,11 +3845,6 @@
         "amount": 100
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/8/2021",
-        "amount": 125
-      },
-      {
         "name": "Candy Mero-Carlson",
         "date": "10/4/2016",
         "amount": 100
@@ -3852,16 +3852,6 @@
       {
         "name": "Candy Mero-Carlson",
         "date": "8/20/2015",
-        "amount": 125
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 125
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
         "amount": 125
       },
       {
@@ -3878,6 +3868,16 @@
         "name": "Moe Bergman",
         "date": "3/19/2017",
         "amount": 150
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 125
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/28/2015",
+        "amount": 125
       },
       {
         "name": "Moe Bergman",
@@ -3946,11 +3946,6 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Jose Rivera",
-        "date": "3/17/2025",
-        "amount": 500
-      },
-      {
         "name": "Joe Petty",
         "date": "6/23/2025",
         "amount": 1000
@@ -3958,6 +3953,11 @@
       {
         "name": "Joe Petty",
         "date": "11/1/2024",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/17/2025",
         "amount": 500
       },
       {
@@ -4077,11 +4077,6 @@
         "amount": 500
       },
       {
-        "name": "Robert Pezzella",
-        "date": "3/10/2025",
-        "amount": 250
-      },
-      {
         "name": "Moe Bergman",
         "date": "7/9/2025",
         "amount": 150
@@ -4094,6 +4089,11 @@
       {
         "name": "Satya Mitra",
         "date": "1/31/2025",
+        "amount": 250
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/10/2025",
         "amount": 250
       },
       {
@@ -4298,11 +4298,6 @@
         "amount": 250
       },
       {
-        "name": "Khrystian King",
-        "date": "5/31/2023",
-        "amount": 100
-      },
-      {
         "name": "Moe Bergman",
         "date": "10/31/2022",
         "amount": 100
@@ -4310,6 +4305,11 @@
       {
         "name": "Moe Bergman",
         "date": "10/14/2021",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/31/2023",
         "amount": 100
       },
       {
@@ -4698,11 +4698,6 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Jose Rivera",
-        "date": "7/20/2023",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "date": "6/23/2025",
         "amount": 200
@@ -4715,6 +4710,11 @@
       {
         "name": "Joe Petty",
         "date": "12/31/2024",
+        "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "7/20/2023",
         "amount": 200
       },
       {
@@ -4917,11 +4917,6 @@
         "amount": 200
       },
       {
-        "name": "Jose Rivera",
-        "date": "6/28/2023",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "date": "6/22/2025",
         "amount": 200
@@ -4935,6 +4930,11 @@
         "name": "Joe Petty",
         "date": "2/15/2024",
         "amount": 125
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "6/28/2023",
+        "amount": 200
       },
       {
         "name": "Kate Toomey",
@@ -5251,6 +5251,11 @@
         "amount": 200
       },
       {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
         "name": "Jose Rivera",
         "date": "3/17/2025",
         "amount": 200
@@ -5271,11 +5276,6 @@
         "amount": 100
       },
       {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 200
-      },
-      {
         "name": "Kate Toomey",
         "date": "5/28/2024",
         "amount": 200
@@ -5283,11 +5283,6 @@
       {
         "name": "Kate Toomey",
         "date": "8/26/2023",
-        "amount": 200
-      },
-      {
-        "name": "Robert Pezzella",
-        "date": "3/10/2025",
         "amount": 200
       },
       {
@@ -5308,6 +5303,11 @@
       {
         "name": "Satya Mitra",
         "date": "1/7/2025",
+        "amount": 200
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/10/2025",
         "amount": 200
       },
       {
@@ -5346,13 +5346,13 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
+        "name": "Moe Bergman",
+        "date": "11/6/2017",
         "amount": 100
       },
       {
-        "name": "Moe Bergman",
-        "date": "11/6/2017",
+        "name": "Khrystian King",
+        "date": "10/28/2015",
         "amount": 100
       },
       {
@@ -5437,11 +5437,6 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Khrystian King",
-        "date": "11/9/2023",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "9/15/2023",
         "amount": 250
@@ -5450,6 +5445,11 @@
         "name": "Kate Toomey",
         "date": "7/14/2023",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "11/9/2023",
+        "amount": 250
       },
       {
         "name": "Kate Toomey",
@@ -5482,14 +5482,14 @@
         "amount": 200
       },
       {
-        "name": "Khrystian King",
-        "date": "5/18/2018",
-        "amount": 500
-      },
-      {
         "name": "Kate Toomey",
         "date": "8/27/2013",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/18/2018",
+        "amount": 500
       },
       {
         "name": "Moe Bergman",
@@ -6240,11 +6240,6 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "4/24/2023",
-        "amount": 50
-      },
-      {
         "name": "Kate Toomey",
         "date": "10/8/2021",
         "amount": 50
@@ -6272,6 +6267,11 @@
       {
         "name": "Moe Bergman",
         "date": "10/22/2021",
+        "amount": 50
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/24/2023",
         "amount": 50
       },
       {
@@ -6532,11 +6532,6 @@
         "amount": 100
       },
       {
-        "name": "Jose Rivera",
-        "date": "3/8/2023",
-        "amount": 50
-      },
-      {
         "name": "Gary Rosen",
         "date": "5/21/2025",
         "amount": 500
@@ -6570,6 +6565,11 @@
         "name": "Gary Rosen",
         "date": "5/10/2005",
         "amount": 100
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/8/2023",
+        "amount": 50
       },
       {
         "name": "Kate Toomey",
@@ -6708,11 +6708,6 @@
         "amount": 200
       },
       {
-        "name": "Jose Rivera",
-        "date": "7/25/2025",
-        "amount": 100
-      },
-      {
         "name": "John Fresolo",
         "date": "3/31/2025",
         "amount": 250
@@ -6738,13 +6733,18 @@
         "amount": 100
       },
       {
-        "name": "Ted Kostas",
-        "date": "2/13/2025",
+        "name": "Jose Rivera",
+        "date": "7/25/2025",
         "amount": 100
       },
       {
         "name": "Satya Mitra",
         "date": "1/22/2025",
+        "amount": 100
+      },
+      {
+        "name": "Ted Kostas",
+        "date": "2/13/2025",
         "amount": 100
       },
       {

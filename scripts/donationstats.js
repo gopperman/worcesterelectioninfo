@@ -47,6 +47,7 @@ const processAllTime = (candidate) => {
   return new Promise( (resolve, reject) => {
     let donors = {}
     let annualDonations = {}
+    let allTimeDonations = 0
     // We expect filenames to be kebab-case'd versions of the candidates names
     const file = `data/alltime/${candidate.name.replace(' ','-').toLowerCase()}.csv`
     fs.createReadStream(file)
@@ -55,6 +56,8 @@ const processAllTime = (candidate) => {
         const year = row.Date.slice(-4)
         const amt = +row.Amount.replace('$','').replace(',','')
         const { Contributor, City, State } = row
+
+        allTimeDonations += amt
 
         if (year in annualDonations) {
           annualDonations[year] += amt
@@ -95,6 +98,7 @@ const processAllTime = (candidate) => {
       .on('end', () => {
         resolve({
           ...candidate,
+          allTimeDonations,
           annualDonations,
           topDonorsAllTime: sortDonors(donors).slice(0,20)
         })
@@ -193,6 +197,7 @@ Promise.all(currentPromises).then((x) => {
       const allTime = y.find((el) => el.name === candidate.name)
       return {
         ...candidate,
+        allTimeDonations: allTime.allTimeDonations,
         annualDonations: allTime.annualDonations,
         topDonorsAllTime: allTime.topDonorsAllTime
       }
