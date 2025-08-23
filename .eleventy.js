@@ -19,12 +19,12 @@ module.exports = function (eleventyConfig) {
     if (v[0] && v[0] === 'atlarge') {
       return v[0].replace("atlarge", "At-Large")
     } else {
-      return v[0] && v[0].toUppercase
+      return v[0] ? v[0].toUpperCase() : ''
     }
   })
 
   eleventyConfig.addFilter("money", (v) => {
-    return v.toFixed(2)
+    return '$' + Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
   })
 
   eleventyConfig.addFilter("percent", (v) => {

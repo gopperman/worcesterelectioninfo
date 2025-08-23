@@ -53,7 +53,7 @@ title: "Worcester City Council 2025 Election Guide"
               {% assign candidate = collections.candidates | find: "data.name", c.name %}
               <tr>
                 <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">${{c.totalDonations | money}}</td>
+                <td class="table__value">{{c.totalDonations | money}}</td>
                 <td class="table__district">{{candidate.data.tags | district }}</td>
               </tr>
             {%- endfor %}
@@ -85,58 +85,93 @@ title: "Worcester City Council 2025 Election Guide"
               {% assign candidate = collections.candidates | find: "data.name", c.name %}
               <tr>
                 <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">${{c.averageDonation | money}}</td>
+                <td class="table__value">{{c.averageDonation | money}}</td>
                 <td class="table__district">{{c.donations}}</td>
               </tr>
             {%- endfor %}
           </table>
         </div>
         <div class="center container container--sm">
-          <h3>WINNER: Satya Mitra</h3>
-          <span class="crown">
-            <img class="header__head header__head--crown" src="images/head-sample.png" alt="" />
-          </span>
-          <p>Joe Petty's individual donors gave an average of $122.67 from 666 individual donors, almost double the average of the next candidate. They must be rich!</p>
+          {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
+          <p>Satya has raised an incredible amount of money, mostly from the Chamber of Commerce.</p>
 
-          <div class="bottom-link"><a href="/">Learn more about Joe Petty &gt;</a></div>
+          <div class="bottom-link"><a href="/candidates/satya-mitra">Learn more about Satra Mitra &gt;</a></div>
         </div>
       </div>
     </div>
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
   </section>
   <section>
-    <h2>Townie Index: Who gets most of their donations from Worcester residents?</h2>
-     <div class="grid grid--2">
-        <div>
-          <table>
-            <caption class="table__title">Percentage of Local, In-state, and Out-of-State Donations</caption>
+    <h2>Where do the candidates donors come from?</h2>
+     <div class="grid grid--3">
+      <div>
+        <h3>Townie's Choice</h3>
+        <div class="center">
+          {% render "winner.liquid", name: "Owura Sarkodieh" slug: "sarkodieh" %}
+        </div>
+        <table>
+          <caption class="table__title">Percentage of donations from Worcester</caption>
+          <tr>
+            <th>Candidate</th>
+            <th>%</th>
+            <th>Total</th>
+          </tr>
+          {% assign candidatesByWorc = candidates | sort: "worcPct" | reverse %}
+          {%- for c in candidatesByWorc %}
+            {% assign candidate = collections.candidates | find: "data.name", c.name %}
             <tr>
-              <th>Candidate</th>
-              <th>Worc.</th>
-              <th>MA</th>
-              <th>Out-of-State</th>
+              <td class="table__candidate">{{c.name}}</td>
+              <td class="table__value">{{c.worcPct | percent}}%</td>
+              <td class="table__value">{{c.worcDonations | money}}</td>
             </tr>
-            {% assign candidatesByPct = candidates | sort: "worcPct" | reverse %}
-            {%- for c in candidatesByPct %}
-              {% assign candidate = collections.candidates | find: "data.name", c.name %}
-              <tr>
-                <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">{{c.worcPct | percent}}%</td>
-                <td class="table__value">{{c.maPct | percent}}%</td>
-                <td class="table__value">{{c.oosPct | percent}}%</td>
-              </tr>
-            {%- endfor %}
-          </table>
+          {%- endfor %}
+        </table>
+      </div>
+      <div>
+        <h3>Suburban Influence</h3>
+        <div class="center">
+          {% render "winner.liquid", name: "Jessica Pepple" slug: "pepple" %}
         </div>
-        <div class="center container container--sm">
-          <h3>WINNER: Gary Rosen</h3>
-          <span class="crown">
-            <img class="header__head header__head--crown" src="images/head-sample.png" alt="" />
-          </span>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-          <div class="bottom-link"><a href="/">Learn more about Joe Petty &gt;</a></div>
+        <table>
+          <caption class="table__title">Percentage of donations from MA (excluding Worcester)</caption>
+          <tr>
+            <th>Candidate</th>
+            <th>%</th>
+            <th>Total</th>
+          </tr>
+          {% assign candidatesByMA = candidates | sort: "maPct" | reverse %}
+          {%- for c in candidatesByMA %}
+            {% assign candidate = collections.candidates | find: "data.name", c.name %}
+            <tr>
+              <td class="table__candidate">{{c.name}}</td>
+              <td class="table__value">{{c.maPct | percent}}%</td>
+              <td class="table__value">{{c.maDonations | money}}</td>
+            </tr>
+          {%- endfor %}
+        </table>
+      </div>
+      <div>
+        <h3>Foreign Agents</h3>
+        <div class="center">
+          {% render "winner.liquid", name: "Charles Luster" slug: "luster" %}
         </div>
+        <table>
+          <caption class="table__title">Percentage of donations from Out-of-State</caption>
+          <tr>
+            <th>Candidate</th>
+            <th>%</th>
+            <th>Total</th>
+          </tr>
+          {% assign candidatesByOos = candidates | sort: "oosPct" | reverse %}
+          {%- for c in candidatesByOos %}
+            {% assign candidate = collections.candidates | find: "data.name", c.name %}
+            <tr>
+              <td class="table__candidate">{{c.name}}</td>
+              <td class="table__value">{{c.oosPct | percent}}%</td>
+              <td class="table__value">{{c.oosDonations | money}}</td>
+            </tr>
+          {%- endfor %}
+        </table>
       </div>
     </div>
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>

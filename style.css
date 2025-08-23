@@ -201,6 +201,19 @@ a:hover, a:active {
   transform: rotate(-8deg) scale(0.24);
 }
 
+.crown--sarkodieh:after,
+.crown--pepple:after {
+  top: -70px;
+  right: 155px;
+  transform: rotate(-8deg) scale(0.25);
+}
+
+.crown--luster:after {
+  top: -65px;
+  right: 150px;
+  transform: rotate(-8deg) scale(0.24);
+}
+
 /** Footer */
 footer {
   background: var(--black);
@@ -248,7 +261,7 @@ table {
 }
 
 caption {
-  font-size: 1.1em;
+  font-size: .8em;
   font-weight: bold;
 }
 
@@ -284,6 +297,10 @@ tr:first-child {
 
 .table__district {
   font-size: .9em;
+}
+
+.table__title {
+  min-height: 3em;
 }
 
 /** Pills */
