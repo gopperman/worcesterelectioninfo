@@ -131,6 +131,10 @@ a:hover, a:active {
     max-width: 800px;
     margin: 0 auto;
   }
+
+  .header__smalltext--margin {
+    margin-top: 1em;
+  }
 }
 
 .header__presents {
@@ -169,11 +173,18 @@ a:hover, a:active {
 .header__head--wide {
   max-width: 125px;
 }
+
+.header__smalltext {
+  font-size: .7em;
+  font-style: italic;
+}
+
 .crown {
   margin: 75px 0 0 0;
   position: relative;
   display: inline-block;
 }
+
 .crown:after {
   content:url('images/crown.png');
   position: absolute;
@@ -182,6 +193,12 @@ a:hover, a:active {
   transform: rotate(-5deg) scale(0.18);
   width: 0px;
   height: 0px;
+}
+
+.crown--mitra:after {
+  top: -65px;
+  right: 156px;
+  transform: rotate(-8deg) scale(0.24);
 }
 
 /** Footer */
@@ -294,7 +311,7 @@ tr:first-child {
 
 /** Cards **/
 .card {
-  border: 2px solid var(--teal-dark);
+  border: 2px solid var(--mudkip);
   border-radius: 30px;
   padding: 10px;
   margin-bottom: 15px;
@@ -317,6 +334,31 @@ tr:first-child {
   text-decoration: underline;
 }
 
+.race-card {
+  border-width: 4px;
+  max-width: 800px;
+  margin: 0 auto 25px;
+
+  h4 a {
+    font-size: 1.4em;
+    color: var(--black);
+  }
+
+  .wavy-line {
+    margin: 0 auto;
+  }
+}
+
+.race-card__title {
+  font-size: 1.6em;
+}
+
+.race-card__vs {
+  color: var(--mudkip);
+  font-size: 3em;
+  font-weight: bold;
+  text-shadow: 4px 4px 0px var(--teal);
+}
 /** Utilities **/
 .center {
   text-align: center;
@@ -375,6 +417,21 @@ tr:first-child {
   }
   .grid--2, .grid--4 {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .race-card__grid {
+    display: grid;
+    grid-template-columns: 1fr 100px 1fr;
+    grid-gap: 10px;
+
+    .wavy-line {
+      max-width: 100px;
+      margin: -10px 0;
+    }
+  }
+
+  .race-card__vs {
+    padding-top: 40px;
   }
 }
 

@@ -10,10 +10,7 @@ title: "Worcester City Council 2025 Election Guide"
       {% assign candidatesByName = collections.atlarge | sort: "data.sortOrder" %}
       {%- for candidate in candidatesByName -%}
         <div class="card">
-          <h3><a href="{{site.url}}{{candidate.url}}">{{candidate.data.name}}</a></h3>
-          {% render "headshot.liquid", candidate: candidate %}
-          <p>{{candidate.data.description}}</p>
-          <p><a href="{{site.url}}{{candidate.url}}" class="card__cta">Learn more about {{candidate.data.name}}</a>
+          {% render "candidate/summary.liquid", candidate: candidate, tag: "h3" %}
         </div>
       {%- endfor -%}
     </div>
@@ -22,11 +19,21 @@ title: "Worcester City Council 2025 Election Guide"
   <section>
     <h2>Who's Running for Worcester District Council?</h2>
     <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h3>District 1</h3>
-    <h3>District 2</h3>
-    <h3>District 3</h3>
-    <h3>District 4</h3>
-    <h3>District 5</h3>
+    {% assign d1 = collections.d1 | sort: "data.sortOrder" %}
+    {% render "district-race.liquid", candidates: d1, district: "District 1" %}
+
+    {% assign d2 = collections.d2 | sort: "data.sortOrder" %}
+    {% render "district-race.liquid", candidates: d2, district: "District 2" %}
+
+    {% assign d3 = collections.d3 | sort: "data.sortOrder" %}
+    {% render "district-race.liquid", candidates: d3, district: "District 3" %}
+
+    {% assign d4 = collections.d4 | sort: "data.sortOrder" %}
+    {% render "district-race.liquid", candidates: d4, district: "District 4" %}
+
+    {% assign d5 = collections.d5 | sort: "data.sortOrder" %}
+    {% render "district-race.liquid", candidates: d5, district: "District 5" %}
+
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
   </section>
   <section>
@@ -53,13 +60,10 @@ title: "Worcester City Council 2025 Election Guide"
           </table>
         </div>
         <div class="center container container--sm">
-          <h3>WINNER: Satya Mitra</h3>
-          <span class="crown">
-            <img class="header__head header__head--crown" src="images/head-sample.png" alt="" />
-          </span>
+          {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
           <p>Satya has raised an incredible amount of money, mostly from the Chamber of Commerce.</p>
 
-          <div class="bottom-link"><a href="/">Learn more about Satra Mitra &gt;</a></div>
+          <div class="bottom-link"><a href="/candidates/satya-mitra">Learn more about Satra Mitra &gt;</a></div>
         </div>
       </div>
     </div>
