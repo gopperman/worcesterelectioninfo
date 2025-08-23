@@ -2,20 +2,29 @@ const fs = require('fs')
 const { parse } = require('csv-parse')
 
 let candidates = [
-  { name: 'Satya Mitra' },
-  { name: 'Joe Petty' },
-  { name: 'Moe Bergman' },
-  { name: 'Donna Colorio' },
+  { name: 'Candy Mero-Carlson'},
   { name: 'Cayden Davis' },
   { name: 'Charles Luster' },
+  { name: 'Donna Colorio' },
   { name: 'Edson Montero' },
+  { name: 'Etel Haxhiaj'},
   { name: 'Gary Rosen' },
   { name: 'Jermoh Kamara' },
   { name: 'Jessica Pepple' },
+  { name: 'Joe Petty' },
+  { name: 'John Fresolo' },
+  { name: 'Jose Rivera' },
   { name: 'Kate Toomey' },
-  { name: 'Candy Mero-Carlson'},
+  { name: 'Keith Linhares' },
+  { name: 'Khrystian King'},
+  { name: 'Luis Ojeda'},
+  { name: 'Moe Bergman' },
   { name: 'Owura Sarkodieh'},
-  { name: 'Khrystian King'}
+  { name: 'Rob Bilotta' },
+  { name: 'Robert Pezzella' },
+  { name: 'Satya Mitra' },
+  { name: 'Ted Kostas' },
+  { name: 'Tony Economou' },
 ]
 
 let allTimeDonors = {}
