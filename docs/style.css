@@ -184,6 +184,11 @@ a:hover, a:active {
   max-width: 125px;
 }
 
+.header__link,
+.header__link:visited {
+  color: var(--black);
+}
+
 .header__smalltext {
   font-size: .7em;
   font-style: italic;
@@ -396,6 +401,27 @@ tr:first-child {
   font-size: 3em;
   font-weight: bold;
   text-shadow: 4px 4px 0px var(--teal);
+}
+
+/**  Collapible **/
+.collapsible__container {
+  max-height: none;
+}
+.collapsible__container--collapsed {
+  max-height: 375px;
+  overflow:hidden;
+}
+
+.collapsible__trigger {
+  font-weight: bold;
+  padding: 5px 0;
+  text-align: center;
+  display: block;
+}
+
+.collapsible__trigger:hover {
+  cursor: pointer;
+  cursor: hand;
 }
 /** Utilities **/
 .center {

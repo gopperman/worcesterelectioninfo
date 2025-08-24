@@ -40,24 +40,27 @@ title: "Worcester City Council 2025 Election Guide"
     <h2>Which candidate has raised the most money in 2025?</h2>
     <p class="section__description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       <div class="grid grid--2">
-        <div>
-          <table>
-            <caption class="table__title">Total donations by candidate</caption>
-            <tr>
-              <th>Candidate</th>
-              <th>$ Raised</th>
-              <th>District</th>
-            </tr>
-            {% assign candidatesByTotal = candidates | sort: "totalDonations" | reverse %}
-            {%- for c in candidatesByTotal %}
-              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+        <div class="collapsible">
+          <div class="collapsible__container collapsible__container--collapsed">
+            <table>
+              <caption class="table__title">Total donations by candidate</caption>
               <tr>
-                <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">{{c.totalDonations | money}}</td>
-                <td class="table__district">{{candidate.data.tags | district }}</td>
+                <th>Candidate</th>
+                <th>$ Raised</th>
+                <th>District</th>
               </tr>
-            {%- endfor %}
-          </table>
+              {% assign candidatesByTotal = candidates | sort: "totalDonations" | reverse %}
+              {%- for c in candidatesByTotal %}
+                {% assign candidate = collections.candidates | find: "data.name", c.name %}
+                <tr>
+                  <td class="table__candidate">{{c.name}}</td>
+                  <td class="table__value">{{c.totalDonations | money}}</td>
+                  <td class="table__district">{{candidate.data.tags | district }}</td>
+                </tr>
+              {%- endfor %}
+            </table>
+          </div>
+          <a class="collapsible__trigger">Show More</a>
         </div>
         <div class="center container container--sm">
           {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
@@ -72,24 +75,27 @@ title: "Worcester City Council 2025 Election Guide"
   <section>
     <h2>Which candidate's donors have the deepest pockets?</h2>
      <div class="grid grid--2">
-        <div>
-          <table>
-            <caption class="table__title">Average Donation Amount</caption>
-            <tr>
-              <th>Candidate</th>
-              <th>Avg. Donation</th>
-              <th># of Donors</th>
-            </tr>
-            {% assign candidatesByAvg = candidates | sort: "averageDonation" | reverse  %}
-            {%- for c in candidatesByAvg %}
-              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+        <div class="collapsible">
+          <div class="collapsible__container collapsible__container--collapsed">
+            <table>
+              <caption class="table__title">Average Donation Amount</caption>
               <tr>
-                <td class="table__candidate">{{c.name}}</td>
-                <td class="table__value">{{c.averageDonation | money}}</td>
-                <td class="table__district">{{c.donations}}</td>
+                <th>Candidate</th>
+                <th>Avg. Donation</th>
+                <th># of Donors</th>
               </tr>
-            {%- endfor %}
-          </table>
+              {% assign candidatesByAvg = candidates | sort: "averageDonation" | reverse  %}
+              {%- for c in candidatesByAvg %}
+                {% assign candidate = collections.candidates | find: "data.name", c.name %}
+                <tr>
+                  <td class="table__candidate">{{c.name}}</td>
+                  <td class="table__value">{{c.averageDonation | money}}</td>
+                  <td class="table__district">{{c.donations}}</td>
+                </tr>
+              {%- endfor %}
+            </table>
+          </div>
+          <a class="collapsible__trigger">Show More</a>
         </div>
         <div class="center container container--sm">
           {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
@@ -109,69 +115,84 @@ title: "Worcester City Council 2025 Election Guide"
         <div class="center">
           {% render "winner.liquid", name: "Owura Sarkodieh" slug: "sarkodieh" %}
         </div>
-        <table>
-          <caption class="table__title">Percentage of donations from Worcester</caption>
-          <tr>
-            <th>Candidate</th>
-            <th>%</th>
-            <th>Total</th>
-          </tr>
-          {% assign candidatesByWorc = candidates | sort: "worcPct" | reverse %}
-          {%- for c in candidatesByWorc %}
-            {% assign candidate = collections.candidates | find: "data.name", c.name %}
-            <tr>
-              <td class="table__candidate">{{c.name}}</td>
-              <td class="table__value">{{c.worcPct | percent}}%</td>
-              <td class="table__value">{{c.worcDonations | money}}</td>
-            </tr>
-          {%- endfor %}
-        </table>
+        <div class="collapsible">
+          <div class="collapsible__container collapsible__container--collapsed">
+            <table>
+              <caption class="table__title">Percentage of donations from Worcester</caption>
+              <tr>
+                <th>Candidate</th>
+                <th>%</th>
+                <th>Total</th>
+              </tr>
+              {% assign candidatesByWorc = candidates | sort: "worcPct" | reverse %}
+              {%- for c in candidatesByWorc %}
+                {% assign candidate = collections.candidates | find: "data.name", c.name %}
+                <tr>
+                  <td class="table__candidate">{{c.name}}</td>
+                  <td class="table__value">{{c.worcPct | percent}}%</td>
+                  <td class="table__value">{{c.worcDonations | money}}</td>
+                </tr>
+              {%- endfor %}
+            </table>
+          </div>
+          <a class="collapsible__trigger">Show More</a>
+        </div>
       </div>
       <div>
         <h3>Suburban Influence</h3>
         <div class="center">
           {% render "winner.liquid", name: "Jessica Pepple" slug: "pepple" %}
         </div>
-        <table>
-          <caption class="table__title">Percentage of donations from MA (excluding Worcester)</caption>
-          <tr>
-            <th>Candidate</th>
-            <th>%</th>
-            <th>Total</th>
-          </tr>
-          {% assign candidatesByMA = candidates | sort: "maPct" | reverse %}
-          {%- for c in candidatesByMA %}
-            {% assign candidate = collections.candidates | find: "data.name", c.name %}
-            <tr>
-              <td class="table__candidate">{{c.name}}</td>
-              <td class="table__value">{{c.maPct | percent}}%</td>
-              <td class="table__value">{{c.maDonations | money}}</td>
-            </tr>
-          {%- endfor %}
-        </table>
+        <div class="collapsible">
+          <div class="collapsible__container collapsible__container--collapsed">
+            <table>
+              <caption class="table__title">Percentage of donations from MA (excluding Worcester)</caption>
+              <tr>
+                <th>Candidate</th>
+                <th>%</th>
+                <th>Total</th>
+              </tr>
+              {% assign candidatesByMA = candidates | sort: "maPct" | reverse %}
+              {%- for c in candidatesByMA %}
+                {% assign candidate = collections.candidates | find: "data.name", c.name %}
+                <tr>
+                  <td class="table__candidate">{{c.name}}</td>
+                  <td class="table__value">{{c.maPct | percent}}%</td>
+                  <td class="table__value">{{c.maDonations | money}}</td>
+                </tr>
+              {%- endfor %}
+            </table>
+          </div>
+          <a class="collapsible__trigger">Show More</a>
+        </div>
       </div>
       <div>
         <h3>Foreign Agents</h3>
         <div class="center">
           {% render "winner.liquid", name: "Charles Luster" slug: "luster" %}
         </div>
-        <table>
-          <caption class="table__title">Percentage of donations from Out-of-State</caption>
-          <tr>
-            <th>Candidate</th>
-            <th>%</th>
-            <th>Total</th>
-          </tr>
-          {% assign candidatesByOos = candidates | sort: "oosPct" | reverse %}
-          {%- for c in candidatesByOos %}
-            {% assign candidate = collections.candidates | find: "data.name", c.name %}
-            <tr>
-              <td class="table__candidate">{{c.name}}</td>
-              <td class="table__value">{{c.oosPct | percent}}%</td>
-              <td class="table__value">{{c.oosDonations | money}}</td>
-            </tr>
-          {%- endfor %}
-        </table>
+        <div class="collapsible">
+          <div class="collapsible__container collapsible__container--collapsed">
+            <table>
+              <caption class="table__title">Percentage of donations from Out-of-State</caption>
+              <tr>
+                <th>Candidate</th>
+                <th>%</th>
+                <th>Total</th>
+              </tr>
+              {% assign candidatesByOos = candidates | sort: "oosPct" | reverse %}
+              {%- for c in candidatesByOos %}
+                {% assign candidate = collections.candidates | find: "data.name", c.name %}
+                <tr>
+                  <td class="table__candidate">{{c.name}}</td>
+                  <td class="table__value">{{c.oosPct | percent}}%</td>
+                  <td class="table__value">{{c.oosDonations | money}}</td>
+                </tr>
+              {%- endfor %}
+            </table>
+          </div>
+          <a class="collapsible__trigger">Show More</a>
+        </div>
       </div>
     </div>
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
