@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         label: 'Annual Donations',
         data: Object.values(annualData),
         fill: false,
-        borderColor: 'rgb(75, 192, 192)',
+        borderColor: '#008c9e',
         tension: 0.1
       }]
     },
