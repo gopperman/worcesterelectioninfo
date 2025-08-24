@@ -41,7 +41,7 @@
     </div>
   </div>
   {% assign years = candidate.annualDonations | count %}
-  {% if years > 0 %}
+  {% if years > 1 %}
     <div>
       <h3>{{ candidate.name }}'s Donations by Year</h3>
       <canvas id="annualDonations" data-donations='{{candidate.annualDonations | json}}'>
