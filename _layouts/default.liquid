@@ -3,7 +3,7 @@
   {% render "head.liquid", site: site, title: title %}
   <body>
     {{ content }}
-    {% include "footer.liquid" %}
+    {% include "footer.liquid", site: site %}
   </body>
 </html>
 

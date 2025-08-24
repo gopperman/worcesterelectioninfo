@@ -8,7 +8,7 @@
       {{ content }}
       {% render "candidate/financials.liquid", site: site, candidate: candidate %}
     </main>
-    {% include "footer.liquid" %}
+    {% include "footer.liquid", site: site %}
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="{{site.url}}/charts.js"></script>
   </body>
