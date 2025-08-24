@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   // Passthroughs
   eleventyConfig.addPassthroughCopy("style.css")
+  eleventyConfig.addPassthroughCopy("charts.js")
   eleventyConfig.addPassthroughCopy("images")
 
   //Config
@@ -22,6 +23,15 @@ module.exports = function (eleventyConfig) {
       return v[0] ? v[0].toUpperCase() : ''
     }
   })
+
+  eleventyConfig.addFilter("count", (v) => {
+    return Object.keys(v).length
+  })
+
+  eleventyConfig.addFilter("json", (v) => {
+    return JSON.stringify(v, null, 2);
+  })
+
 
   eleventyConfig.addFilter("money", (v) => {
     return '$' + Math.round(v).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
