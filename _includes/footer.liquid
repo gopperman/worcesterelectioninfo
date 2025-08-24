@@ -8,35 +8,23 @@
       <div>
         <h3>At-Large Candidates</h3>
         <ul>
-          <li>Bernard Iandoli</li>
-          <li>Cayden Davis</li>
-          <li>Charles Luster</li>
-          <li>Donna Colorio</li>
-          <li>Edson Montero</li>
-          <li>Gary Rosen</li>
-          <li>Jermoh Kamara</li>
-          <li>Jessica Pepple</li>
-          <li>Joe Petty</li>
-          <li>Kate Toomey</li>
-          <li>Khrystian King</li>
-          <li>Morris Bergman</li>
-          <li>Owura-Kwaku Sarkodieh</li>
-          <li>Satya Mitra</li>
+          {% assign candidatesAlByName = collections.atlarge | sort: "data.sortOrder" %}
+          {% for candidate in candidatesAlByName %}
+            <li><a href="{{site.url}}{{candidate.url}}" class="footer_link">{{candidate.data.name}}</a></li>
+          {% endfor %}
         </ul>
       </div>
       <div>
         <h3>District Candidates</h3>
         <ul>
-          <li>Keith Linhares</li>
-          <li>Tony Economou</li>
-          <li>Candy-Mero Carlson</li>
-          <li>Robert Bilotta</li>
-          <li>John Fresolo</li>
-          <li>Robert Pezzella</li>
-          <li>Luis Ojeda</li>
-          <li>Ted Kostas</li>
-          <li>Etel Haxjhiaj</li>
-          <li>Jose Rivera</li>
+          {% assign allCandidates = collections.candidates | sort: "data.sortOrder" %}
+          {% for candidate in allCandidates %}
+            {% unless candidate | isAtLarge %}
+              <li>
+                <a href="{{site.url}}{{candidate.url}}" class="footer_link">{{candidate.data.name}}</a>
+              </li>
+            {% endunless %}
+          {% endfor %}
         </ul>
       </div>
     </div>

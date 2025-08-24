@@ -133,11 +133,8 @@ a:hover, a:active {
   }
 
   .header__smalltext {
-    font-size: 8em;
-  }
-
-  .header__smalltext--margin {
-    margin-top: 1em;
+    font-size: .8em;
+    margin: 1em auto;
   }
 }
 
@@ -521,14 +518,14 @@ tr:first-child {
 
   .footer__logo {
     width: auto;
-    max-width: 100%;
-    margin: 0 auto;
+    max-width: 225px;
+    margin: 0;
   }
 
   footer {
     .grid--3 {
       grid-gap: 50px;
-      grid-template-columns: 225px 1fr 1fr;
+      grid-template-columns: repeat(3, 1fr);
     }
   }
 }
