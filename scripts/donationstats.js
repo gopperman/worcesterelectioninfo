@@ -43,6 +43,14 @@ const sortDonors = (donors) => {
   return sortableDonors.map(d => Object.fromEntries(d))
 }
 
+const electionCycle = (y) => {
+  if (+y % 2 === 0) {
+    // Even year
+    return `${y}-${+y+1}`
+  } else {
+    return `${+y-1}-${y}`
+  }
+}
 const processAllTime = (candidate) => {
   return new Promise( (resolve, reject) => {
     let donors = {}
@@ -59,10 +67,11 @@ const processAllTime = (candidate) => {
 
         allTimeDonations += amt
 
-        if (year in annualDonations) {
-          annualDonations[year] += amt
+        const cycleYear = electionCycle(year)
+        if (cycleYear in annualDonations) {
+          annualDonations[cycleYear] += amt
         } else {
-          annualDonations[year] = amt
+          annualDonations[cycleYear] = amt
         }
 
         if (Contributor in donors) {
