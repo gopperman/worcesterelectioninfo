@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
   new Chart(annualEl, {
     type: 'line',
     data: {
-      labels: Object.keys(annualData),
+      labels: Object.keys(annualData).reverse(),
       datasets: [{
         label: 'Annual Donations',
-        data: Object.values(annualData),
+        data: Object.values(annualData).reverse(),
         fill: false,
         borderColor: '#008c9e',
         tension: 0.1

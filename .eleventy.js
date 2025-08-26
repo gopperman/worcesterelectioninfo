@@ -45,17 +45,22 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("firstlast", (v) => {
     if (v.includes(', ')) {
       const split = v.split(', ')
-      return `${split[1]} ${split[0]}`
-    } else {
-      return v
+      if (split.length === 2) {
+        return `${split[1]} ${split[0]}`
+      } else {
+        if (split.length === 3) {
+          return `${split[2]} ${split[0]} ${split[1]}`
+        }
+      }
     }
+    return v
   })
 
   eleventyConfig.addFilter("titlecase", (v) => {
     return v.replace(
-    /\w\S*/g,
-    text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
-  )
+      /\w\S*/g,
+      text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
+    )
   })
 
   eleventyConfig.addFilter("isAtLarge", (v) => {

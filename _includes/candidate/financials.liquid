@@ -43,7 +43,7 @@
   {% assign years = candidate.annualDonations | count %}
   {% if years > 1 %}
     <div>
-      <h3>{{ candidate.name }}'s Donations by Year</h3>
+      <h3>{{ candidate.name }}'s Donations by Election Cycle</h3>
       <canvas id="annualDonations" data-donations='{{candidate.annualDonations | json}}'>
       </canvas>
     </div>
@@ -55,7 +55,7 @@
   <div class="grid grid--4">
     {% for donor in candidate.topDonorsAllTime %}
       <div class="card">
-        <h3>{{donor.name | firstlast | titlecase }}</h3>
+        <h3>{{donor.name | firstlast }}</h3>
         {% if donor.city != '' %}
           <h4>{{donor.city}}, {{donor.state}}</h4>
         {% endif %}

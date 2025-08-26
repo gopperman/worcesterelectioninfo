@@ -51,6 +51,54 @@ const electionCycle = (y) => {
     return `${+y-1}-${y}`
   }
 }
+
+const titlecase = (v) => {
+  let name = v.replace(
+    /\w\S*/g,
+    text => text.charAt(0).toUpperCase() + text.substring(1).toLowerCase()
+  )
+  // Irish cases
+  name = name.replace("O'c", "O'C")
+  name = name.replace("O'h", "O'H")
+
+  // Corp cases
+  name = name.replace(" Pac", " PAC")
+  name = name.replace(" Llc", " LLC")
+
+  return name
+}
+
+const normalizeNames = (name) => {
+  let n = name
+
+  // Mello Rule
+  if (n.includes("Generations Mello All")) {
+    n = "Generations Mello All PAC"
+  }
+
+  // Chip Norton Rule
+  n = n.replace("Chip", "Charles")
+
+  // Candidate loan rule
+  n = n.replace (" (Candidate Loan)", "")
+  n = n.replace (" (Loan)", "")
+
+  // Joe Petty Rule
+  n = n.replace ("Joseph M.", "Joseph")
+
+  // Donna Colorio Rule
+  n = n.replace ("Donna M.", "Donna")
+
+  //Rosen Rule
+  n = n.replace ("S. Gary", "Gary")
+
+  // Sarkodieh rule
+  n = n.replace ("Owura-kwaku P.", "Owura")
+  n = n.replace ("Owura-kwaku", "Owura")
+
+
+  return n.trimEnd()
+}
 const processAllTime = (candidate) => {
   return new Promise( (resolve, reject) => {
     let donors = {}
@@ -63,7 +111,8 @@ const processAllTime = (candidate) => {
       .on('data', (row) => {
         const year = row.Date.slice(-4)
         const amt = +row.Amount.replace('$','').replace(',','')
-        const { Contributor, City, State } = row
+        const { City, State } = row
+        const Contributor = normalizeNames(titlecase(row.Contributor))
 
         allTimeDonations += amt
 
@@ -73,34 +122,35 @@ const processAllTime = (candidate) => {
         } else {
           annualDonations[cycleYear] = amt
         }
-
-        if (Contributor in donors) {
-          donors[Contributor].total += amt
-        } else {
-          donors[Contributor] = {
-            total: amt,
-            city: City,
-            state: State
+        if (Contributor !== "Aggregated Unitemized Receipts") {
+          if (Contributor in donors) {
+            donors[Contributor].total += amt
+          } else {
+            donors[Contributor] = {
+              total: amt,
+              city: City,
+              state: State
+            }
           }
-        }
 
-        if (Contributor in allTimeDonors) {
-          allTimeDonors[Contributor].total += amt
-          allTimeDonors[Contributor].donations.push({
-              name: candidate.name,
-              date: row.Date,
-              amount: amt
-          })
-        } else {
-          allTimeDonors[Contributor] = {
-            total: amt,
-            city: City,
-            state: State,
-            donations: [{
-              name: candidate.name,
-              date: row.Date,
-              amount: amt
-            }]
+          if (Contributor in allTimeDonors) {
+            allTimeDonors[Contributor].total += amt
+            allTimeDonors[Contributor].donations.push({
+                name: candidate.name,
+                date: row.Date,
+                amount: amt
+            })
+          } else {
+            allTimeDonors[Contributor] = {
+              total: amt,
+              city: City,
+              state: State,
+              donations: [{
+                name: candidate.name,
+                date: row.Date,
+                amount: amt
+              }]
+            }
           }
         }
       })
@@ -109,7 +159,7 @@ const processAllTime = (candidate) => {
           ...candidate,
           allTimeDonations,
           annualDonations,
-          topDonorsAllTime: sortDonors(donors).slice(0,20)
+          topDonorsAllTime: sortDonors(donors).slice(0,50)
         })
       })
       .on('error', (err) => {
@@ -134,7 +184,8 @@ const processfile = (candidate) => {
         const amount = +row.Amount.replace('$','').replace(',','')
         const year = row.Date.slice(-4)
         const amt = +row.Amount.replace('$','').replace(',','')
-        const { Contributor, City, State } = row
+        const { City, State } = row
+        const Contributor = normalizeNames(titlecase(row.Contributor))
         totalDonations += amount
         rows++
 
@@ -149,23 +200,25 @@ const processfile = (candidate) => {
         }
 
         // Track top donors
-        if (Contributor in currentCycleDonors) {
-          currentCycleDonors[Contributor].total += amount
-          currentCycleDonors[Contributor].donations.push({
-              name: candidate.name,
-              date: row.Date,
-              amount: amt
-          })
-        } else {
-          currentCycleDonors[Contributor] = {
-            total: amt,
-            city: City,
-            state: State,
-            donations: [{
-              name: candidate.name,
-              date: row.Date,
-              amount: amt
-            }]
+        if (Contributor !== "Aggregated Unitemized Receipts") {
+          if (Contributor in currentCycleDonors) {
+            currentCycleDonors[Contributor].total += amount
+            currentCycleDonors[Contributor].donations.push({
+                name: candidate.name,
+                date: row.Date,
+                amount: amt
+            })
+          } else {
+            currentCycleDonors[Contributor] = {
+              total: amt,
+              city: City,
+              state: State,
+              donations: [{
+                name: candidate.name,
+                date: row.Date,
+                amount: amt
+              }]
+            }
           }
         }
       })
