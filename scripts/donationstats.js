@@ -122,14 +122,14 @@ const processAllTime = (candidate) => {
         } else {
           annualDonations[cycleYear] = amt
         }
-        if (Contributor !== "Aggregated Unitemized Receipts") {
+        if (Contributor !== "Aggregated Unitemized Receipts" && Contributor !== "") {
           if (Contributor in donors) {
             donors[Contributor].total += amt
           } else {
             donors[Contributor] = {
               total: amt,
               city: City,
-              state: State
+              state: State.toUpperCase()
             }
           }
 
@@ -144,7 +144,7 @@ const processAllTime = (candidate) => {
             allTimeDonors[Contributor] = {
               total: amt,
               city: City,
-              state: State,
+              state: State.toUpperCase(),
               donations: [{
                 name: candidate.name,
                 date: row.Date,
@@ -189,7 +189,7 @@ const processfile = (candidate) => {
         totalDonations += amount
         rows++
 
-        if (State !== 'MA') {
+        if (State.toUpperCase() !== 'MA') {
           oosDonations += amount
         } else {
           if (City == 'Worcester') {
@@ -200,7 +200,7 @@ const processfile = (candidate) => {
         }
 
         // Track top donors
-        if (Contributor !== "Aggregated Unitemized Receipts") {
+        if (Contributor !== "Aggregated Unitemized Receipts" && Contributor !== "") {
           if (Contributor in currentCycleDonors) {
             currentCycleDonors[Contributor].total += amount
             currentCycleDonors[Contributor].donations.push({
@@ -212,7 +212,7 @@ const processfile = (candidate) => {
             currentCycleDonors[Contributor] = {
               total: amt,
               city: City,
-              state: State,
+              state: State.toUpperCase(),
               donations: [{
                 name: candidate.name,
                 date: row.Date,
