@@ -1,18 +1,18 @@
 [
   {
     "name": "Candy Mero-Carlson",
-    "worcPct": 0.47355119292405107,
-    "maPct": 0.509374490029048,
-    "oosPct": 0.01707431704690101,
-    "worcDonations": 29018.27,
-    "maDonations": 31213.45,
+    "worcPct": 0.4751468199624192,
+    "maPct": 0.5081921398770661,
+    "oosPct": 0.016661040160514666,
+    "worcDonations": 29838.27,
+    "maDonations": 31913.45,
     "oosDonations": 1046.28,
-    "totalDonations": 61278,
-    "averageDonation": 195.78,
-    "donations": 313,
-    "allTimeDonations": 273653.1,
+    "totalDonations": 62798,
+    "averageDonation": 196.86,
+    "donations": 319,
+    "allTimeDonations": 275173.1,
     "annualDonations": {
-      "2024-2025": 61278,
+      "2024-2025": 62798,
       "2022-2023": 70356.76,
       "2020-2021": 53317.94,
       "2018-2019": 32137.12,
@@ -165,6 +165,12 @@
         "state": "MA"
       },
       {
+        "name": "Voter Education Fund Local 170 Drive Pol Action Comm.",
+        "total": 2350,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
         "name": "Blais, Craig",
         "total": 2275,
         "city": "Worcester",
@@ -198,12 +204,6 @@
         "name": "North Atlantic States Regional Council Of Carpenters PAC",
         "total": 2000,
         "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Voter Education Fund Local 170 Drive Pol Action Comm.",
-        "total": 1950,
-        "city": "Worcester",
         "state": "MA"
       },
       {
@@ -324,18 +324,18 @@
   },
   {
     "name": "Cayden Davis",
-    "worcPct": 0.666484076106028,
-    "maPct": 0.1503547677533658,
-    "oosPct": 0.18316115614060613,
-    "worcDonations": 7787,
-    "maDonations": 1756.7,
-    "oosDonations": 2140,
-    "totalDonations": 11683.7,
-    "averageDonation": 54.34,
-    "donations": 215,
-    "allTimeDonations": 11683.7,
+    "worcPct": 0.6673788044430721,
+    "maPct": 0.15194405267594113,
+    "oosPct": 0.18067714288098674,
+    "worcDonations": 7997,
+    "maDonations": 1820.7,
+    "oosDonations": 2165,
+    "totalDonations": 11982.7,
+    "averageDonation": 52.56,
+    "donations": 228,
+    "allTimeDonations": 11982.7,
     "annualDonations": {
-      "2024-2025": 11683.7
+      "2024-2025": 11982.7
     },
     "topDonorsAllTime": [
       {
@@ -394,19 +394,19 @@
       },
       {
         "name": "Mackowiak, Jessica",
-        "total": 230,
+        "total": 240,
         "city": "Worcester",
         "state": "MA"
       },
       {
         "name": "Reticker, Mary",
-        "total": 225,
+        "total": 235,
         "city": "Cambridge",
         "state": "MA"
       },
       {
         "name": "Narkewicz, Emma",
-        "total": 200,
+        "total": 225,
         "city": "Worcester",
         "state": "MA"
       },
@@ -427,6 +427,12 @@
         "total": 172,
         "city": "Framingham",
         "state": "MA"
+      },
+      {
+        "name": "Davis, Justine",
+        "total": 150,
+        "city": "Lyman",
+        "state": "ME"
       },
       {
         "name": "Robertson, Marissa",
@@ -465,10 +471,10 @@
         "state": "MA"
       },
       {
-        "name": "Davis, Justine",
-        "total": 125,
-        "city": "Lyman",
-        "state": "ME"
+        "name": "Croke, Joshua",
+        "total": 120,
+        "city": "Worcester",
+        "state": "MA"
       },
       {
         "name": "Kaplan, Annie",
@@ -478,12 +484,6 @@
       },
       {
         "name": "Perrone, Domenica",
-        "total": 100,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Croke, Joshua",
         "total": 100,
         "city": "Worcester",
         "state": "MA"
@@ -1173,18 +1173,18 @@
   },
   {
     "name": "Edson Montero",
-    "worcPct": 0.9056603773584906,
-    "maPct": 0.09433962264150944,
+    "worcPct": 0.9514563106796117,
+    "maPct": 0.04854368932038835,
     "oosPct": 0,
-    "worcDonations": 240,
+    "worcDonations": 490,
     "maDonations": 25,
     "oosDonations": 0,
-    "totalDonations": 265,
-    "averageDonation": 44.17,
-    "donations": 6,
-    "allTimeDonations": 2830,
+    "totalDonations": 515,
+    "averageDonation": 64.38,
+    "donations": 8,
+    "allTimeDonations": 3080,
     "annualDonations": {
-      "2024-2025": 265,
+      "2024-2025": 515,
       "2022-2023": 2565
     },
     "topDonorsAllTime": [
@@ -1201,6 +1201,12 @@
         "state": "Ny"
       },
       {
+        "name": "Cigollen, Jesus",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
         "name": "Holmes, Ariel",
         "total": 300,
         "city": "Northborough",
@@ -1213,8 +1219,8 @@
         "state": "MA"
       },
       {
-        "name": "Cigollen, Jesus",
-        "total": 200,
+        "name": "Abreu, Julio",
+        "total": 150,
         "city": "Worcester",
         "state": "MA"
       },
@@ -4401,18 +4407,18 @@
   },
   {
     "name": "Luis Ojeda",
-    "worcPct": 0.4761171032357473,
-    "maPct": 0.5238828967642527,
+    "worcPct": 0.48497854077253216,
+    "maPct": 0.5150214592274678,
     "oosPct": 0,
-    "worcDonations": 1545,
-    "maDonations": 1700,
+    "worcDonations": 1695,
+    "maDonations": 1800,
     "oosDonations": 0,
-    "totalDonations": 3245,
-    "averageDonation": 129.8,
-    "donations": 25,
-    "allTimeDonations": 11320,
+    "totalDonations": 3495,
+    "averageDonation": 129.44,
+    "donations": 27,
+    "allTimeDonations": 11570,
     "annualDonations": {
-      "2024-2025": 3245,
+      "2024-2025": 3495,
       "2022-2023": 8075
     },
     "topDonorsAllTime": [
@@ -4507,9 +4513,21 @@
         "state": "MA"
       },
       {
+        "name": "Santiago, Luis",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
         "name": "Rodriguez Fay, Ruth",
         "total": 150,
         "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Weiss, Charles",
+        "total": 100,
+        "city": "Holden",
         "state": "MA"
       },
       {
@@ -4700,18 +4718,6 @@
       },
       {
         "name": "Zalauskas, Leonard",
-        "total": 50,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "O'sullivan, Mary",
-        "total": 50,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "O'sullivan, Michael",
         "total": 50,
         "city": "Worcester",
         "state": "MA"
@@ -6581,18 +6587,18 @@
   },
   {
     "name": "Tony Economou",
-    "worcPct": 0.7359162303664921,
-    "maPct": 0.25612565445026175,
-    "oosPct": 0.007958115183246073,
+    "worcPct": 0.7328467153284671,
+    "maPct": 0.25922836287799794,
+    "oosPct": 0.007924921793534932,
     "worcDonations": 17570,
-    "maDonations": 6115,
+    "maDonations": 6215,
     "oosDonations": 190,
-    "totalDonations": 23875,
-    "averageDonation": 130.46,
-    "donations": 183,
-    "allTimeDonations": 118303.07999999999,
+    "totalDonations": 23975,
+    "averageDonation": 130.3,
+    "donations": 184,
+    "allTimeDonations": 118403.07999999999,
     "annualDonations": {
-      "2024-2025": 23875,
+      "2024-2025": 23975,
       "2022-2023": 831.71,
       "2018-2019": 31621.59,
       "2014-2015": 15248.69,
