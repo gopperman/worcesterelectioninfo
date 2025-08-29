@@ -1,12 +1,12 @@
 [
   {
     "name": "Candy Mero-Carlson",
-    "worcPct": 0.4751468199624192,
+    "worcPct": 0.4756245421828721,
     "maPct": 0.5081921398770661,
-    "oosPct": 0.016661040160514666,
-    "worcDonations": 29838.27,
+    "oosPct": 0.016183317940061785,
+    "worcDonations": 29868.27,
     "maDonations": 31913.45,
-    "oosDonations": 1046.28,
+    "oosDonations": 1016.28,
     "totalDonations": 62798,
     "averageDonation": 196.86,
     "donations": 319,
@@ -642,12 +642,12 @@
   },
   {
     "name": "Charles Luster",
-    "worcPct": 0.4864864864864865,
-    "maPct": 0.1891891891891892,
-    "oosPct": 0.32432432432432434,
-    "worcDonations": 2700,
-    "maDonations": 1050,
-    "oosDonations": 1800,
+    "worcPct": 0.7027027027027027,
+    "maPct": 0.2972972972972973,
+    "oosPct": 0,
+    "worcDonations": 3900,
+    "maDonations": 1650,
+    "oosDonations": 0,
     "totalDonations": 5550,
     "averageDonation": 158.57,
     "donations": 35,
@@ -660,7 +660,7 @@
         "name": "Luster, Stacey",
         "total": 1000,
         "city": "Worcester",
-        "state": "ma"
+        "state": "MA"
       },
       {
         "name": "Fisher, Edward",
@@ -672,7 +672,7 @@
         "name": "Mello, Deborah",
         "total": 600,
         "city": "Uxbridge",
-        "state": "ma"
+        "state": "MA"
       },
       {
         "name": "Generations Mello All PAC",
@@ -702,7 +702,7 @@
         "name": "Murray, Timothy",
         "total": 200,
         "city": "Worcester",
-        "state": "ma"
+        "state": "MA"
       },
       {
         "name": "Wright, Mark",
@@ -1101,7 +1101,7 @@
         "name": "Breuer, Carol",
         "total": 700,
         "city": "Winchester",
-        "state": "Ma"
+        "state": "MA"
       },
       {
         "name": "Boylston Reptc (Refund On June 25,2021 $345 2021 Excess)",
@@ -1119,7 +1119,7 @@
         "name": "Reynolds, Daniel",
         "total": 650,
         "city": "Worcester",
-        "state": "Ma"
+        "state": "MA"
       },
       {
         "name": "Casey, Mary",
@@ -1198,7 +1198,7 @@
         "name": "Morillo, Eric",
         "total": 500,
         "city": "Brooklyn",
-        "state": "Ny"
+        "state": "NY"
       },
       {
         "name": "Cigollen, Jesus",
@@ -1800,12 +1800,6 @@
         "state": "MA"
       },
       {
-        "name": "",
-        "total": 460,
-        "city": "",
-        "state": ""
-      },
-      {
         "name": "Rosen, M. Jeffrey",
         "total": 450,
         "city": "Boxford",
@@ -1993,6 +1987,12 @@
       },
       {
         "name": "George, Donna",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Salloom George, Donna",
         "total": 150,
         "city": "Worcester",
         "state": "MA"
@@ -2791,326 +2791,317 @@
   },
   {
     "name": "John Fresolo",
-    "worcPct": 0.7275737016679499,
-    "maPct": 0.2569460068072002,
-    "oosPct": 0.015480291524849997,
-    "worcDonations": 14100,
-    "maDonations": 4979.48,
-    "oosDonations": 300,
+    "worcPct": 0.7404739446053248,
+    "maPct": 0.25952605539467516,
+    "oosPct": 0,
+    "worcDonations": 14350,
+    "maDonations": 5029.48,
+    "oosDonations": 0,
     "totalDonations": 19379.48,
     "averageDonation": 100.93,
     "donations": 192,
-    "allTimeDonations": 466931.05000000005,
+    "allTimeDonations": 19379.48,
     "annualDonations": {
-      "2024-2025": 19379.48,
-      "2018-2019": 3559.61,
-      "2016-2017": 12614.61,
-      "2012-2013": 42439.28,
-      "2010-2011": 53984.08000000001,
-      "2008-2009": 56691.18,
-      "2006-2007": 81365.27,
-      "2004-2005": 79905.62,
-      "2002-2003": 85944.69,
-      "2000-2001": 31047.23
+      "2024-2025": 19379.48
     },
     "topDonorsAllTime": [
       {
-        "name": "Fresolo, John P.",
-        "total": 7119.22,
+        "name": "Sweeney, Andria",
+        "total": 1000,
         "city": "Worcester",
         "state": "MA"
       },
       {
-        "name": "Retired Public Employees PAC",
-        "total": 3100,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Beer Distributors - PAC",
-        "total": 3000,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Simoncini, Kenneth",
-        "total": 2800,
-        "city": "Worcester",
-        "state": "Ma"
-      },
-      {
-        "name": "Teamsters Local 127 PAC",
-        "total": 2700,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "Professional Firefighters Of Ma People's Cttee",
-        "total": 2650,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Local R-291 Nage",
-        "total": 2250,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "Beer Distributors' PAC",
-        "total": 2000,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Remillard, Jr., Arthur",
-        "total": 2000,
-        "city": "Webster",
-        "state": "MA"
-      },
-      {
-        "name": "M.c.o.f.u. PAC",
-        "total": 1950,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Insurance Agents & Brokers Of Ma PAC",
-        "total": 1850,
-        "city": "Milford",
-        "state": "MA"
-      },
-      {
-        "name": "Mackoul, John L.",
-        "total": 1800,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Fresolo, Irene M",
-        "total": 1800,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Randell, William",
-        "total": 1750,
-        "city": "Holden",
-        "state": "MA"
-      },
-      {
-        "name": "Nat'l Assoc. Of Gov. Employees",
-        "total": 1750,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "United Assoc. Of Plumbers & Pipefitters Local 4 PAC",
-        "total": 1700,
-        "city": "West Boylston",
-        "state": "MA"
-      },
-      {
-        "name": "Ret. Public Emp. Comm. For P/a",
-        "total": 1700,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Fresolo, Irene M.",
-        "total": 1650,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Parvin, Kevin K",
-        "total": 1600,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "National Association Of Government Employees",
-        "total": 1500,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "Boston Police Patrolmens Assoc. Pol Action Comm.",
-        "total": 1500,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Bafaro, Joseph J",
-        "total": 1500,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "National Association Of Government Emplyees Local R1-282",
-        "total": 1500,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "National Association Of Government Emplyees",
-        "total": 1500,
-        "city": "Quincy",
-        "state": "MA"
-      },
-      {
-        "name": "Mass Academy Of Trial Attorneys PAC",
-        "total": 1500,
-        "city": "Burlington",
-        "state": "MA"
-      },
-      {
-        "name": "Mackoul, Gloria R.",
-        "total": 1500,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Corrigan, Edward R",
-        "total": 1450,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Kirsch, Robert M",
-        "total": 1450,
-        "city": "Paxton",
-        "state": "MA"
-      },
-      {
-        "name": "Salvidio, Michael A",
-        "total": 1400,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Carroll, Francis R",
-        "total": 1350,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Yatim, Hassan M",
-        "total": 1350,
-        "city": "Shrewsbury",
+        "name": "Asiamah, Kwabena",
+        "total": 729.48,
+        "city": "Oxford",
         "state": "MA"
       },
       {
         "name": "Bianculli, Jeremiah J",
-        "total": 1325,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Voter Education Fund Local 170 Drive Pol Action Comm.",
-        "total": 1300,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "O'grady, Myles",
-        "total": 1300,
-        "city": "Needham",
-        "state": "MA"
-      },
-      {
-        "name": "Fresolo, Joseph P",
-        "total": 1300,
-        "city": "Millbury",
-        "state": "MA"
-      },
-      {
-        "name": "Howlett, Peter W",
-        "total": 1300,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Sheet Metal Wkrs Local # 63- PAC",
-        "total": 1300,
-        "city": "Springfield",
-        "state": "MA"
-      },
-      {
-        "name": "Ma Independent PAC For Working Families A.k.a Mipac/wf",
-        "total": 1250,
-        "city": "Walpole",
-        "state": "MA"
-      },
-      {
-        "name": "Nat'l Assoc. Of Gov. Emp. R1-207",
-        "total": 1250,
-        "city": "DORCHESTER",
-        "state": "MA"
-      },
-      {
-        "name": "Speaker Finnerans House Victory Fund",
-        "total": 1250,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Prof. Fire Fighters Of Ma - PAC",
-        "total": 1225,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Ma Assoc. Of Realtors Pol Action Comm. - Ma Rpac",
-        "total": 1200,
-        "city": "Waltham",
-        "state": "MA"
-      },
-      {
-        "name": "White, Robert",
-        "total": 1200,
-        "city": "Boston",
-        "state": "MA"
-      },
-      {
-        "name": "Mass Police PAC",
-        "total": 1200,
-        "city": "MEDFORD",
-        "state": "MA"
-      },
-      {
-        "name": "Molinari, Dennis P",
-        "total": 1125,
-        "city": "Shrewsbury",
-        "state": "MA"
-      },
-      {
-        "name": "Massad, David G",
-        "total": 1100,
-        "city": "WORCESTER",
-        "state": "MA"
-      },
-      {
-        "name": "Robbins, Paul",
-        "total": 1100,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Ins. Agents & Brokers Of Ma PAC",
-        "total": 1100,
-        "city": "Framingham",
-        "state": "MA"
-      },
-      {
-        "name": "Colletta, Thomas A",
-        "total": 1000,
+        "total": 600,
         "city": "Worcester",
         "state": "MA"
       },
       {
         "name": "Courville, Barry",
-        "total": 1000,
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Randell, William",
+        "total": 500,
+        "city": "Holden",
+        "state": "MA"
+      },
+      {
+        "name": "Anziano, Paul",
+        "total": 500,
+        "city": "Belchertown",
+        "state": "MA"
+      },
+      {
+        "name": "Parvin, Kevin K",
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Groccia, Frank E",
+        "total": 500,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Kalogeropolous, James",
+        "total": 500,
+        "city": "Andover",
+        "state": "MA"
+      },
+      {
+        "name": "Aboody, George",
+        "total": 400,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Comeau, John",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Festa, John",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Decaire, Darlene",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Setaro, Robert",
+        "total": 300,
+        "city": "West Boylston",
+        "state": "MA"
+      },
+      {
+        "name": "Valeri, Chris",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Yatim, Hassan",
+        "total": 250,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      {
+        "name": "Genatossio, Matthew",
+        "total": 250,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      {
+        "name": "Dixon, Moses",
+        "total": 250,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Palley, Warren",
+        "total": 250,
+        "city": "Southborough",
+        "state": "MA"
+      },
+      {
+        "name": "Economou, Fred",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Tessier, Carol-ann",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Yskollari, Mario",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Simoncini, Kenneth",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Shine, Geraldine",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Bafaro, Joseph",
+        "total": 200,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      {
+        "name": "Beqiri, Mexhite",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Bonyani, Jamal",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Haddad, Alex",
+        "total": 200,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Mendelsohn, Bruce",
+        "total": 150,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      {
+        "name": "Girard, Maryann",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Fresolo, Irene",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Reilly, Karynsue",
+        "total": 150,
+        "city": "Auburn",
+        "state": "MA"
+      },
+      {
+        "name": "Algeri, Louis",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Panagiotou, George",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Porcaro, James",
+        "total": 150,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Leone, Rocco",
+        "total": 125,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Abdelnour, William F",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Ciccarelli, Diego",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Colletta, Thomas A",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Polito, Kenneth",
+        "total": 100,
+        "city": "Shrewsbury",
+        "state": "MA"
+      },
+      {
+        "name": "Marlborough, James",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Moynagh, Susan",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Peter, Carol",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Bucciaglia, Barbara",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Carlson, Candice",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Karalus, Richard M",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Mooradian, Authur",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Pappas, Glenn",
+        "total": 100,
+        "city": "Millbury",
+        "state": "MA"
+      },
+      {
+        "name": "Slavinskas, Daniel P",
+        "total": 100,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
+        "name": "Pellerin, Terrence",
+        "total": 100,
         "city": "Worcester",
         "state": "MA"
       }
@@ -5181,7 +5172,7 @@
         "name": "Joseph, Boasiako",
         "total": 100,
         "city": "Brooklyn",
-        "state": "ny"
+        "state": "NY"
       },
       {
         "name": "Amo, Mercy",
@@ -5217,7 +5208,7 @@
         "name": "Tweneboa-kodua, Akwasi",
         "total": 50,
         "city": "Fredericksburg",
-        "state": "va"
+        "state": "VA"
       },
       {
         "name": "Annin, Joyce",

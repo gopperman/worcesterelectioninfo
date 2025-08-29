@@ -217,7 +217,8 @@ a:hover, a:active {
 }
 
 .crown--sarkodieh:after,
-.crown--pepple:after {
+.crown--pepple:after,
+.crown--rosen:after {
   top: -70px;
   right: 155px;
   transform: rotate(-8deg) scale(0.25);
@@ -408,7 +409,7 @@ tr:first-child {
   max-height: none;
 }
 .collapsible__container--collapsed {
-  max-height: 375px;
+  max-height: 450px;
   overflow:hidden;
 }
 
@@ -441,7 +442,7 @@ tr:first-child {
 }
 
 .container--sm {
-  max-width: 300px;
+  max-width: 320px;
 }
 
 .grid {

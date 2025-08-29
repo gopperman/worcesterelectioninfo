@@ -94,11 +94,6 @@
         "amount": 1000
       },
       {
-        "name": "Gary Rosen",
-        "date": "11/7/2007",
-        "amount": 300
-      },
-      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 1000
@@ -114,6 +109,11 @@
         "amount": 1000
       },
       {
+        "name": "Gary Rosen",
+        "date": "11/7/2007",
+        "amount": 300
+      },
+      {
         "name": "Candy Mero-Carlson",
         "date": "5/19/2023",
         "amount": 1000
@@ -124,14 +124,14 @@
         "amount": 1000
       },
       {
-        "name": "Khrystian King",
-        "date": "5/11/2023",
-        "amount": 1000
-      },
-      {
         "name": "Kate Toomey",
         "date": "4/2/2019",
         "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/11/2023",
+        "amount": 1000
       },
       {
         "name": "Candy Mero-Carlson",
@@ -159,6 +159,11 @@
         "amount": 1000
       },
       {
+        "name": "Moe Bergman",
+        "date": "12/30/2020",
+        "amount": 500
+      },
+      {
         "name": "Khrystian King",
         "date": "1/17/2023",
         "amount": 1000
@@ -166,11 +171,6 @@
       {
         "name": "Khrystian King",
         "date": "12/29/2020",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/30/2020",
         "amount": 500
       },
       {
@@ -310,7 +310,7 @@
   },
   {
     "name": "Ma & Northern Ne Laborers' District Council Pol Action Comm",
-    "total": 18350,
+    "total": 18250,
     "city": "Hopkinton",
     "state": "MA",
     "donations": [
@@ -350,21 +350,6 @@
         "amount": 500
       },
       {
-        "name": "Luis Ojeda",
-        "date": "7/1/2025",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/8/2012",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "6/30/2025",
-        "amount": 500
-      },
-      {
         "name": "Kate Toomey",
         "date": "6/27/2025",
         "amount": 500
@@ -372,6 +357,16 @@
       {
         "name": "Moe Bergman",
         "date": "6/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/30/2025",
+        "amount": 500
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "7/1/2025",
         "amount": 500
       },
       {
@@ -435,6 +430,21 @@
         "amount": 500
       },
       {
+        "name": "Moe Bergman",
+        "date": "6/18/2021",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/10/2020",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/19/2019",
+        "amount": 500
+      },
+      {
         "name": "Khrystian King",
         "date": "9/20/2022",
         "amount": 500
@@ -455,21 +465,6 @@
         "amount": 500
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/18/2021",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/10/2020",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/19/2019",
-        "amount": 500
-      },
-      {
         "name": "Candy Mero-Carlson",
         "date": "6/15/2015",
         "amount": 500
@@ -480,14 +475,14 @@
         "amount": 500
       },
       {
-        "name": "Khrystian King",
-        "date": "7/20/2017",
-        "amount": 500
-      },
-      {
         "name": "Moe Bergman",
         "date": "10/9/2018",
         "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/20/2017",
+        "amount": 500
       },
       {
         "name": "Joe Petty",
@@ -508,7 +503,7 @@
   },
   {
     "name": "Yatim, Hassan",
-    "total": 17450,
+    "total": 17350,
     "city": "Shrewsbury",
     "state": "MA",
     "donations": [
@@ -548,6 +543,11 @@
         "amount": 500
       },
       {
+        "name": "John Fresolo",
+        "date": "5/15/2025",
+        "amount": 250
+      },
+      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 1000
@@ -556,31 +556,6 @@
         "name": "Joe Petty",
         "date": "2/15/2024",
         "amount": 1000
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "7/25/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "2/27/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "8/14/2023",
-        "amount": 1000
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/15/2025",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/17/2013",
-        "amount": 100
       },
       {
         "name": "Kate Toomey",
@@ -606,6 +581,21 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "7/25/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "2/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "8/14/2023",
+        "amount": 1000
       },
       {
         "name": "Moe Bergman",
@@ -759,7 +749,7 @@
   },
   {
     "name": "Direnzo, John",
-    "total": 12925,
+    "total": 12525,
     "city": "Millbury",
     "state": "MA",
     "donations": [
@@ -882,16 +872,6 @@
         "name": "Joe Petty",
         "date": "10/22/2021",
         "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/19/2006",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/11/2004",
-        "amount": 200
       },
       {
         "name": "Joe Petty",
@@ -1160,219 +1140,6 @@
     ]
   },
   {
-    "name": "United Assoc. Of Plumbers & Pipefitters Local 4 PAC",
-    "total": 10150,
-    "city": "West Boylston",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/18/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/22/2024",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/26/2025",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/6/2024",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/8/2012",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/7/2012",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/17/2025",
-        "amount": 100
-      },
-      {
-        "name": "Robert Pezzella",
-        "date": "7/18/2025",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "2/4/2025",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/15/2023",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "8/8/2022",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/6/2011",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/5/2011",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/4/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/6/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/13/2009",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "12/5/2008",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "11/30/2021",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/22/2021",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/13/2020",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/23/2019",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/17/2018",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/23/2017",
-        "amount": 250
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "11/20/2021",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/26/2022",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/5/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/15/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/7/2007",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/12/2007",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/18/2021",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/25/2016",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/17/2015",
-        "amount": 350
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/27/2015",
-        "amount": 150
-      },
-      {
-        "name": "Khrystian King",
-        "date": "7/1/2015",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "5/12/2007",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/19/2007",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/30/2018",
-        "amount": 250
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "7/15/2019",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "3/17/2017",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "4/30/2015",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/14/2015",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Blais, Craig",
     "total": 10100,
     "city": "Worcester",
@@ -1424,16 +1191,6 @@
         "amount": 500
       },
       {
-        "name": "Robert Pezzella",
-        "date": "3/10/2025",
-        "amount": 250
-      },
-      {
-        "name": "Satya Mitra",
-        "date": "1/31/2025",
-        "amount": 250
-      },
-      {
         "name": "Moe Bergman",
         "date": "7/9/2025",
         "amount": 150
@@ -1442,6 +1199,16 @@
         "name": "Moe Bergman",
         "date": "12/23/2024",
         "amount": 100
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/10/2025",
+        "amount": 250
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 250
       },
       {
         "name": "Tony Economou",
@@ -1662,16 +1429,6 @@
         "amount": 50
       },
       {
-        "name": "Jermoh Kamara",
-        "date": "4/1/2025",
-        "amount": 25
-      },
-      {
-        "name": "Jermoh Kamara",
-        "date": "3/18/2025",
-        "amount": 100
-      },
-      {
         "name": "Etel Haxhiaj",
         "date": "8/10/2025",
         "amount": 25
@@ -1715,6 +1472,16 @@
         "name": "Etel Haxhiaj",
         "date": "2/16/2025",
         "amount": 25
+      },
+      {
+        "name": "Jermoh Kamara",
+        "date": "4/1/2025",
+        "amount": 25
+      },
+      {
+        "name": "Jermoh Kamara",
+        "date": "3/18/2025",
+        "amount": 100
       },
       {
         "name": "Keith Linhares",
@@ -1802,21 +1569,6 @@
         "amount": 50
       },
       {
-        "name": "Khrystian King",
-        "date": "9/30/2023",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "9/30/2023",
-        "amount": 250
-      },
-      {
-        "name": "Khrystian King",
-        "date": "6/26/2023",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "4/2/2019",
         "amount": 100
@@ -1835,6 +1587,21 @@
         "name": "Kate Toomey",
         "date": "10/30/2015",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/30/2023",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/30/2023",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/26/2023",
+        "amount": 250
       },
       {
         "name": "Rob Bilotta",
@@ -2069,152 +1836,19 @@
     ]
   },
   {
-    "name": "Ironworkers Union Local 7 Pol Action Comm",
-    "total": 9450,
-    "city": "South Boston",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/11/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/22/2024",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/1/2024",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "8/31/2023",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "2/24/2023",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "8/8/2022",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/24/2023",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/24/2011",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "9/23/2009",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "8/4/2018",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "11/9/2013",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/10/2021",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/5/2020",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/2/2019",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "6/5/2017",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "8/12/2022",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/17/2008",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/14/2008",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/25/2016",
-        "amount": 150
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/31/2015",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/3/2021",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/6/2019",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/12/2018",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "6/23/2017",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Rafferty, Jeanne",
     "total": 9300,
     "city": "Northboro",
     "state": "MA",
     "donations": [
       {
-        "name": "Luis Ojeda",
-        "date": "5/16/2023",
+        "name": "Moe Bergman",
+        "date": "12/3/2024",
         "amount": 1000
       },
       {
-        "name": "Moe Bergman",
-        "date": "12/3/2024",
+        "name": "Luis Ojeda",
+        "date": "5/16/2023",
         "amount": 1000
       },
       {
@@ -2270,6 +1904,272 @@
       {
         "name": "Joe Petty",
         "date": "10/16/2007",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "Ironworkers Union Local 7 Pol Action Comm",
+    "total": 8600,
+    "city": "South Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/31/2023",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "2/24/2023",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "8/8/2022",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/24/2023",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/4/2018",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "11/9/2013",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/10/2021",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/5/2020",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/2/2019",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "6/5/2017",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/12/2022",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/25/2016",
+        "amount": 150
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/31/2015",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2021",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/6/2019",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/12/2018",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2017",
+        "amount": 500
+      }
+    ]
+  },
+  {
+    "name": "United Assoc. Of Plumbers & Pipefitters Local 4 PAC",
+    "total": 8450,
+    "city": "West Boylston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/18/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/26/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/6/2024",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/17/2025",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "2/4/2025",
+        "amount": 250
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "7/18/2025",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/15/2023",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "8/8/2022",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "11/30/2021",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/22/2021",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/13/2020",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/23/2019",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/17/2018",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/23/2017",
+        "amount": 250
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "11/20/2021",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/26/2022",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/18/2021",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/25/2016",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/17/2015",
+        "amount": 350
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/27/2015",
+        "amount": 150
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/12/2007",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/19/2007",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/30/2018",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/1/2015",
+        "amount": 100
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "7/15/2019",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "3/17/2017",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "4/30/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/14/2015",
         "amount": 500
       }
     ]
@@ -2346,41 +2246,6 @@
         "amount": 100
       },
       {
-        "name": "Luis Ojeda",
-        "date": "8/6/2025",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "6/30/2025",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "5/2/2025",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "10/3/2023",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "9/20/2023",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "8/21/2023",
-        "amount": 100
-      },
-      {
-        "name": "Luis Ojeda",
-        "date": "6/2/2023",
-        "amount": 100
-      },
-      {
         "name": "Khrystian King",
         "date": "7/30/2025",
         "amount": 100
@@ -2414,6 +2279,41 @@
         "name": "Khrystian King",
         "date": "11/6/2023",
         "amount": 200
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "8/6/2025",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "6/30/2025",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "5/2/2025",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "10/3/2023",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "9/20/2023",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "8/21/2023",
+        "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "6/2/2023",
+        "amount": 100
       },
       {
         "name": "Rob Bilotta",
@@ -2638,79 +2538,6 @@
     ]
   },
   {
-    "name": "Seiu Mass State Council",
-    "total": 8250,
-    "city": "Boston",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Khrystian King",
-        "date": "5/1/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "9/16/2017",
-        "amount": 250
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "8/21/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "8/26/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "9/23/2019",
-        "amount": 1000
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/13/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "7/29/2013",
-        "amount": 2500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "7/11/2013",
-        "amount": 500
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "9/15/2019",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/23/2001",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "3/19/2001",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/15/2017",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/2/2015",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Angelini, Michael",
     "total": 7800,
     "city": "Worcester",
@@ -2732,24 +2559,24 @@
         "amount": 200
       },
       {
-        "name": "Jose Rivera",
-        "date": "7/20/2023",
-        "amount": 200
-      },
-      {
         "name": "Kate Toomey",
         "date": "3/7/2025",
         "amount": 100
       },
       {
-        "name": "Satya Mitra",
-        "date": "1/7/2025",
-        "amount": 500
+        "name": "Jose Rivera",
+        "date": "7/20/2023",
+        "amount": 200
       },
       {
         "name": "Moe Bergman",
         "date": "11/6/2023",
         "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 500
       },
       {
         "name": "Tony Economou",
@@ -2934,150 +2761,35 @@
     ]
   },
   {
-    "name": "Voter Education Fund Local 170 Drive Pol Action Comm.",
+    "name": "Seiu Mass State Council",
     "total": 7750,
-    "city": "Worcester",
+    "city": "Boston",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "date": "8/27/2025",
-        "amount": 400
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/15/2025",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/2/2012",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/4/2012",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/7/2025",
+        "name": "Khrystian King",
+        "date": "5/1/2025",
         "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "5/28/2024",
+        "name": "Candy Mero-Carlson",
+        "date": "9/16/2017",
         "amount": 250
-      },
-      {
-        "name": "Robert Pezzella",
-        "date": "7/18/2025",
-        "amount": 200
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/24/2023",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/24/2023",
-        "amount": 250
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "5/20/2021",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "6/28/2023",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/6/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/4/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "9/9/2009",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/19/2009",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/3/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/27/2008",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/16/2019",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/5/2020",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/17/2018",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/6/2017",
-        "amount": 500
       },
       {
         "name": "Etel Haxhiaj",
-        "date": "10/23/2021",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/8/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/15/2007",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "7/17/2007",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/6/2007",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/13/2016",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/21/2022",
+        "date": "8/21/2021",
         "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "8/26/2021",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/23/2019",
+        "amount": 1000
       },
       {
         "name": "Joe Petty",
@@ -3086,332 +2798,28 @@
       },
       {
         "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 250
+        "date": "7/29/2013",
+        "amount": 2500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "7/11/2013",
+        "amount": 500
       },
       {
         "name": "Etel Haxhiaj",
-        "date": "10/28/2019",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/12/2018",
+        "date": "9/15/2019",
         "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "6/23/2017",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/21/2015",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/27/2012",
-        "amount": 100
-      }
-    ]
-  },
-  {
-    "name": "Int'l Union Of Operating Engineers Local 4 Social Pol Action Committee",
-    "total": 7450,
-    "city": "Medway",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/11/2025",
+        "date": "9/15/2017",
         "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "12/2/2024",
+        "date": "11/2/2015",
         "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/16/2012",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "4/11/2025",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/9/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "2/24/2023",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "6/1/2023",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "7/1/2011",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/5/2019",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "8/4/2018",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "2/27/2019",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "6/3/2018",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/9/2017",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/23/2017",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "8/12/2022",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/26/2022",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/14/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/14/2007",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/4/2016",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/5/2015",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/31/2018",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/1/2015",
-        "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "5/13/2015",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/14/2015",
-        "amount": 250
-      }
-    ]
-  },
-  {
-    "name": "Central Massachusetts Afl-cio",
-    "total": 7125,
-    "city": "Auburn",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Gary Rosen",
-        "date": "11/1/2005",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/15/2024",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "8/26/2023",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/25/2025",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/20/2024",
-        "amount": 125
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/10/2011",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/25/2017",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/28/2023",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/21/2022",
-        "amount": 250
-      },
-      {
-        "name": "Khrystian King",
-        "date": "6/24/2019",
-        "amount": 200
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/25/2017",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/2/2021",
-        "amount": 250
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "5/27/2015",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/14/2019",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/11/2018",
-        "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/17/2017",
-        "amount": 300
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "3/21/2017",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/27/2015",
-        "amount": 300
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/9/2015",
-        "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "5/23/2014",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/17/2017",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/21/2016",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/24/2013",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/3/2012",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/3/2012",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/20/2005",
-        "amount": 100
-      }
-    ]
-  },
-  {
-    "name": "Fresolo, John P.",
-    "total": 7119.22,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "John Fresolo",
-        "date": "12/31/2019",
-        "amount": 3559.61
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/2/2016",
-        "amount": 3559.61
       }
     ]
   },
@@ -3447,11 +2855,6 @@
         "amount": 150
       },
       {
-        "name": "Robert Pezzella",
-        "date": "3/12/2025",
-        "amount": 200
-      },
-      {
         "name": "Moe Bergman",
         "date": "6/11/2025",
         "amount": 150
@@ -3465,6 +2868,11 @@
         "name": "Moe Bergman",
         "date": "11/21/2023",
         "amount": 150
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/12/2025",
+        "amount": 200
       },
       {
         "name": "Tony Economou",
@@ -3562,6 +2970,11 @@
         "amount": 500
       },
       {
+        "name": "Moe Bergman",
+        "date": "6/8/2021",
+        "amount": 125
+      },
+      {
         "name": "Khrystian King",
         "date": "12/29/2020",
         "amount": 150
@@ -3575,11 +2988,6 @@
         "name": "Khrystian King",
         "date": "12/4/2018",
         "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/8/2021",
-        "amount": 125
       },
       {
         "name": "Candy Mero-Carlson",
@@ -3602,16 +3010,6 @@
         "amount": 200
       },
       {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 125
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
-        "amount": 125
-      },
-      {
         "name": "Moe Bergman",
         "date": "10/11/2018",
         "amount": 125
@@ -3625,6 +3023,16 @@
         "name": "Moe Bergman",
         "date": "3/19/2017",
         "amount": 150
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 125
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/28/2015",
+        "amount": 125
       },
       {
         "name": "Moe Bergman",
@@ -3664,6 +3072,149 @@
       {
         "name": "Joe Petty",
         "date": "3/25/2010",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Central Massachusetts Afl-cio",
+    "total": 7025,
+    "city": "Auburn",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Kate Toomey",
+        "date": "6/15/2024",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/26/2023",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "11/1/2005",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/25/2025",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 125
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/25/2017",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/28/2023",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/21/2022",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/2/2021",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "6/24/2019",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/25/2017",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/14/2019",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/11/2018",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/17/2017",
+        "amount": 300
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "3/21/2017",
+        "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/27/2015",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/27/2015",
+        "amount": 300
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2015",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "5/23/2014",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/17/2017",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/21/2016",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/24/2013",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2012",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/3/2012",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/20/2005",
         "amount": 100
       }
     ]
@@ -3712,6 +3263,114 @@
     ]
   },
   {
+    "name": "Int'l Union Of Operating Engineers Local 4 Social Pol Action Committee",
+    "total": 6900,
+    "city": "Medway",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "2/24/2023",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/1/2023",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/5/2019",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/4/2018",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "2/27/2019",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "6/3/2018",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/9/2017",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/23/2017",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/12/2022",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/26/2022",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/4/2016",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/5/2015",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/31/2018",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/1/2015",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "5/13/2015",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/14/2015",
+        "amount": 250
+      }
+    ]
+  },
+  {
     "name": "Local 1009 Building Account",
     "total": 6825,
     "city": "Worcester",
@@ -3723,11 +3382,6 @@
         "amount": 500
       },
       {
-        "name": "Khrystian King",
-        "date": "11/9/2023",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "9/15/2023",
         "amount": 250
@@ -3736,6 +3390,11 @@
         "name": "Kate Toomey",
         "date": "7/14/2023",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "11/9/2023",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
@@ -3778,14 +3437,14 @@
         "amount": 1000
       },
       {
-        "name": "Khrystian King",
-        "date": "5/18/2018",
-        "amount": 500
-      },
-      {
         "name": "Kate Toomey",
         "date": "8/27/2013",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/18/2018",
+        "amount": 500
       },
       {
         "name": "Moe Bergman",
@@ -3969,11 +3628,6 @@
         "amount": 500
       },
       {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 250
-      },
-      {
         "name": "Kate Toomey",
         "date": "1/10/2008",
         "amount": 100
@@ -3994,82 +3648,14 @@
         "amount": 100
       },
       {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 250
+      },
+      {
         "name": "Kate Toomey",
         "date": "7/2/2005",
         "amount": 100
-      }
-    ]
-  },
-  {
-    "name": "1199 Seiu Ma PAC",
-    "total": 6500,
-    "city": "New York",
-    "state": "NY",
-    "donations": [
-      {
-        "name": "Etel Haxhiaj",
-        "date": "10/31/2023",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/27/2023",
-        "amount": 500
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "12/30/2021",
-        "amount": 500
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "10/25/2021",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/21/2007",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/23/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "2/26/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/25/2017",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/26/2015",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/27/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "1/3/2017",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "9/22/2015",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/23/2015",
-        "amount": 500
       }
     ]
   },
@@ -4130,16 +3716,6 @@
         "amount": 129.59
       },
       {
-        "name": "Jose Rivera",
-        "date": "12/19/2024",
-        "amount": 111.99
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "6/28/2023",
-        "amount": 109.59
-      },
-      {
         "name": "Kate Toomey",
         "date": "8/26/2023",
         "amount": 101.99
@@ -4150,14 +3726,14 @@
         "amount": 131.59
       },
       {
-        "name": "Robert Pezzella",
-        "date": "5/16/2025",
-        "amount": 109.99
+        "name": "Jose Rivera",
+        "date": "12/19/2024",
+        "amount": 111.99
       },
       {
-        "name": "Satya Mitra",
-        "date": "4/30/2025",
-        "amount": 109.99
+        "name": "Jose Rivera",
+        "date": "6/28/2023",
+        "amount": 109.59
       },
       {
         "name": "Moe Bergman",
@@ -4168,6 +3744,16 @@
         "name": "Moe Bergman",
         "date": "12/1/2023",
         "amount": 139.59
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "5/16/2025",
+        "amount": 109.99
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "4/30/2025",
+        "amount": 109.99
       },
       {
         "name": "Tony Economou",
@@ -4307,25 +3893,20 @@
     ]
   },
   {
-    "name": "Ibew Local 2325 Cttee For Political Education PAC",
-    "total": 6400,
+    "name": "Voter Education Fund Local 170 Drive Pol Action Comm.",
+    "total": 6450,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
         "name": "Candy Mero-Carlson",
-        "date": "4/11/2025",
-        "amount": 500
+        "date": "8/27/2025",
+        "amount": 400
       },
       {
         "name": "Candy Mero-Carlson",
-        "date": "5/8/2024",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "8/30/2023",
-        "amount": 500
+        "date": "5/15/2025",
+        "amount": 100
       },
       {
         "name": "Kate Toomey",
@@ -4333,64 +3914,109 @@
         "amount": 500
       },
       {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 250
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "7/18/2025",
+        "amount": 200
+      },
+      {
         "name": "Candy Mero-Carlson",
-        "date": "8/8/2022",
-        "amount": 500
+        "date": "7/24/2023",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/24/2023",
+        "amount": 250
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "5/20/2021",
+        "amount": 100
       },
       {
         "name": "Joe Petty",
-        "date": "10/18/2023",
+        "date": "6/28/2023",
         "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/31/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "4/28/2010",
-        "amount": 100
       },
       {
         "name": "Kate Toomey",
-        "date": "10/25/2017",
-        "amount": 500
+        "date": "10/16/2019",
+        "amount": 100
       },
       {
-        "name": "Tony Economou",
-        "date": "5/1/2015",
-        "amount": 500
+        "name": "Candy Mero-Carlson",
+        "date": "11/5/2020",
+        "amount": 100
       },
       {
-        "name": "Tony Economou",
-        "date": "10/28/2013",
+        "name": "Candy Mero-Carlson",
+        "date": "5/17/2018",
         "amount": 500
       },
       {
         "name": "Candy Mero-Carlson",
-        "date": "4/21/2017",
+        "date": "5/6/2017",
         "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "date": "2/22/2008",
-        "amount": 100
+        "name": "Etel Haxhiaj",
+        "date": "10/23/2021",
+        "amount": 200
       },
       {
-        "name": "John Fresolo",
-        "date": "9/26/2007",
+        "name": "Candy Mero-Carlson",
+        "date": "10/13/2016",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2022",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/13/2021",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 250
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "10/28/2019",
         "amount": 100
       },
       {
         "name": "Joe Petty",
-        "date": "10/22/2021",
+        "date": "10/28/2019",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/12/2018",
         "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "11/17/2017",
-        "amount": 500
+        "date": "6/23/2017",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/21/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/27/2012",
+        "amount": 100
       }
     ]
   },
@@ -4404,11 +4030,6 @@
         "name": "Candy Mero-Carlson",
         "date": "4/11/2025",
         "amount": 100
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "10/23/2013",
-        "amount": 50
       },
       {
         "name": "Joe Petty",
@@ -4431,6 +4052,16 @@
         "amount": 100
       },
       {
+        "name": "Gary Rosen",
+        "date": "10/23/2013",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/25/2025",
+        "amount": 150
+      },
+      {
         "name": "Satya Mitra",
         "date": "1/24/2025",
         "amount": 1000
@@ -4439,11 +4070,6 @@
         "name": "Satya Mitra",
         "date": "12/31/2024",
         "amount": 1000
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/25/2025",
-        "amount": 150
       },
       {
         "name": "Tony Economou",
@@ -4694,268 +4320,138 @@
     ]
   },
   {
-    "name": "Carroll, Francis",
-    "total": 5750,
+    "name": "Ibew Local 2325 Cttee For Political Education PAC",
+    "total": 6000,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
         "name": "Candy Mero-Carlson",
-        "date": "7/24/2023",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/8/2024",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "8/30/2023",
         "amount": 500
       },
       {
         "name": "Kate Toomey",
-        "date": "4/25/2022",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/30/2021",
-        "amount": 200
-      },
-      {
-        "name": "Tony Economou",
-        "date": "6/24/2019",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/20/2009",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/18/2021",
-        "amount": 100
-      },
-      {
-        "name": "Tony Economou",
-        "date": "5/30/2013",
-        "amount": 200
+        "date": "3/7/2025",
+        "amount": 500
       },
       {
         "name": "Candy Mero-Carlson",
-        "date": "4/2/2019",
-        "amount": 100
+        "date": "8/8/2022",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/18/2023",
+        "amount": 500
       },
       {
         "name": "Kate Toomey",
-        "date": "4/12/2012",
-        "amount": 150
+        "date": "10/25/2017",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "11/1/2011",
-        "amount": 100
+        "name": "Tony Economou",
+        "date": "5/1/2015",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/18/2011",
-        "amount": 100
+        "name": "Tony Economou",
+        "date": "10/28/2013",
+        "amount": 500
       },
       {
         "name": "Candy Mero-Carlson",
-        "date": "10/17/2015",
-        "amount": 100
+        "date": "4/21/2017",
+        "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "4/20/2022",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/7/2009",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "2/23/2009",
-        "amount": 200
+        "date": "10/22/2021",
+        "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "7/12/2021",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/7/2020",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/25/2005",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/22/2019",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/21/2018",
-        "amount": 125
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/28/2002",
-        "amount": 300
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/10/2002",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "6/30/2017",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/21/2016",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/4/2016",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/22/2016",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/21/2015",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/21/2015",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/24/2013",
-        "amount": 300
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2011",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/18/2009",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/16/2007",
-        "amount": 100
+        "date": "11/17/2017",
+        "amount": 500
       }
     ]
   },
   {
-    "name": "Massad, David",
-    "total": 5700,
-    "city": "Westborough",
-    "state": "MA",
+    "name": "1199 Seiu Ma PAC",
+    "total": 6000,
+    "city": "New York",
+    "state": "NY",
     "donations": [
       {
-        "name": "Kate Toomey",
-        "date": "9/8/2018",
-        "amount": 200
+        "name": "Etel Haxhiaj",
+        "date": "10/31/2023",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "5/19/2017",
-        "amount": 200
+        "name": "Khrystian King",
+        "date": "10/27/2023",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "6/14/2015",
-        "amount": 250
+        "name": "Etel Haxhiaj",
+        "date": "12/30/2021",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "12/4/2013",
-        "amount": 200
+        "name": "Etel Haxhiaj",
+        "date": "10/25/2021",
+        "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "date": "1/28/2007",
-        "amount": 200
+        "name": "Khrystian King",
+        "date": "12/23/2021",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "5/28/2012",
-        "amount": 200
+        "name": "Khrystian King",
+        "date": "2/26/2021",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "10/20/2011",
-        "amount": 200
+        "name": "Khrystian King",
+        "date": "10/25/2017",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "10/26/2009",
-        "amount": 150
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/16/2009",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/17/2007",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/3/2007",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/16/2017",
+        "name": "Candy Mero-Carlson",
+        "date": "10/26/2015",
         "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "4/22/2016",
+        "date": "10/27/2021",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "1/3/2017",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "9/22/2015",
         "amount": 500
       },
       {
         "name": "Joe Petty",
-        "date": "10/21/2015",
-        "amount": 1000
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/21/2015",
+        "date": "9/23/2015",
         "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/22/2014",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/13/2013",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/7/2005",
-        "amount": 100
       }
     ]
   },
@@ -5179,100 +4675,95 @@
     ]
   },
   {
-    "name": "I.b.e.w Local Union 96 PAC",
-    "total": 5450,
-    "city": "Worcester",
+    "name": "Massad, David",
+    "total": 5500,
+    "city": "Westborough",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "date": "4/11/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "12/27/2024",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/22/2024",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/26/2024",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/31/2012",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/30/2012",
-        "amount": 100
-      },
-      {
         "name": "Kate Toomey",
-        "date": "4/11/2025",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "7/14/2023",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "2/24/2023",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "8/8/2022",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/8/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/2/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/4/2008",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/22/2021",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/13/2020",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/11/2019",
-        "amount": 250
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "11/5/2019",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/12/2018",
+        "date": "9/8/2018",
         "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/19/2017",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/14/2015",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "12/4/2013",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2012",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/20/2011",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/26/2009",
+        "amount": 150
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/16/2009",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/17/2007",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/3/2007",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/16/2017",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/21/2015",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/21/2015",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/22/2014",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/13/2013",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/7/2005",
+        "amount": 100
       }
     ]
   },
@@ -5451,6 +4942,159 @@
     ]
   },
   {
+    "name": "Carroll, Francis",
+    "total": 5150,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/24/2023",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/25/2022",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/30/2021",
+        "amount": 200
+      },
+      {
+        "name": "Tony Economou",
+        "date": "6/24/2019",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/18/2021",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "5/30/2013",
+        "amount": 200
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/2/2019",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/12/2012",
+        "amount": 150
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "11/1/2011",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/18/2011",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/17/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/20/2022",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/7/2009",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "2/23/2009",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/12/2021",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/7/2020",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/25/2005",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/22/2019",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/21/2018",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/30/2017",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/21/2016",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/4/2016",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/21/2015",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/21/2015",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/24/2013",
+        "amount": 300
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2011",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/18/2009",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/16/2007",
+        "amount": 100
+      }
+    ]
+  },
+  {
     "name": "Shalev, Micha",
     "total": 5150,
     "city": "Worcester",
@@ -5462,11 +5106,6 @@
         "amount": 200
       },
       {
-        "name": "Gary Rosen",
-        "date": "10/23/2013",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "date": "4/28/2025",
         "amount": 500
@@ -5475,6 +5114,11 @@
         "name": "Joe Petty",
         "date": "11/1/2023",
         "amount": 500
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "10/23/2013",
+        "amount": 200
       },
       {
         "name": "Joe Petty",
@@ -5857,10 +5501,83 @@
     ]
   },
   {
+    "name": "I.b.e.w Local Union 96 PAC",
+    "total": 4950,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/27/2024",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/26/2024",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/11/2025",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/14/2023",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "2/24/2023",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "8/8/2022",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/22/2021",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/13/2020",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/11/2019",
+        "amount": 250
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "11/5/2019",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/12/2018",
+        "amount": 200
+      }
+    ]
+  },
+  {
     "name": "Murray, Timothy",
     "total": 4950,
     "city": "Worcester",
-    "state": "ma",
+    "state": "MA",
     "donations": [
       {
         "name": "Charles Luster",
@@ -5875,6 +5592,16 @@
       {
         "name": "Joe Petty",
         "date": "2/15/2024",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/26/2023",
         "amount": 200
       },
       {
@@ -5898,14 +5625,14 @@
         "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "date": "5/28/2024",
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
         "amount": 200
       },
       {
-        "name": "Kate Toomey",
-        "date": "8/26/2023",
-        "amount": 200
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 150
       },
       {
         "name": "Robert Pezzella",
@@ -5921,16 +5648,6 @@
         "name": "Satya Mitra",
         "date": "1/7/2025",
         "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/9/2025",
-        "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/20/2024",
-        "amount": 150
       },
       {
         "name": "Tony Economou",
@@ -5973,13 +5690,13 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
+        "name": "Moe Bergman",
+        "date": "11/6/2017",
         "amount": 100
       },
       {
-        "name": "Moe Bergman",
-        "date": "11/6/2017",
+        "name": "Khrystian King",
+        "date": "10/28/2015",
         "amount": 100
       },
       {
@@ -6021,6 +5738,11 @@
     "state": "MA",
     "donations": [
       {
+        "name": "Jessica Pepple",
+        "date": "6/23/2025",
+        "amount": 96.05
+      },
+      {
         "name": "Joe Petty",
         "date": "4/28/2025",
         "amount": 150
@@ -6029,11 +5751,6 @@
         "name": "Joe Petty",
         "date": "2/26/2024",
         "amount": 200
-      },
-      {
-        "name": "Jessica Pepple",
-        "date": "6/23/2025",
-        "amount": 96.05
       },
       {
         "name": "Khrystian King",
@@ -6279,14 +5996,14 @@
         "amount": 500
       },
       {
-        "name": "Jose Rivera",
-        "date": "10/31/2023",
-        "amount": 500
-      },
-      {
         "name": "Kate Toomey",
         "date": "8/26/2023",
         "amount": 250
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "10/31/2023",
+        "amount": 500
       },
       {
         "name": "Candy Mero-Carlson",
@@ -6438,21 +6155,6 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Gary Rosen",
-        "date": "5/28/2025",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "8/13/2013",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "7/11/2007",
-        "amount": 250
-      },
-      {
         "name": "Joe Petty",
         "date": "2/15/2024",
         "amount": 500
@@ -6471,6 +6173,21 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 200
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "5/28/2025",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "8/13/2013",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "7/11/2007",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
@@ -6847,209 +6564,6 @@
     ]
   },
   {
-    "name": "Waxler, Mark",
-    "total": 4450,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Gary Rosen",
-        "date": "9/10/2007",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/17/2023",
-        "amount": 125
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/16/2010",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/25/2017",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/14/2015",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/9/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/10/2008",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/21/2022",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/22/2021",
-        "amount": 125
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/9/2009",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/16/2009",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "1/10/2008",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/17/2007",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "3/19/2017",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/12/2021",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 150
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/3/2007",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/3/2007",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/8/2019",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/21/2018",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/18/2018",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/27/2017",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/21/2016",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/22/2016",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/21/2015",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/6/2015",
-        "amount": 150
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/25/2014",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2013",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/24/2013",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/3/2013",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/3/2012",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/21/2012",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/17/2011",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/30/2011",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/25/2010",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/10/2009",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/16/2007",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/7/2005",
-        "amount": 100
-      }
-    ]
-  },
-  {
     "name": "Katz, Myron",
     "total": 4450,
     "city": "Worcester",
@@ -7189,11 +6703,6 @@
         "amount": 250
       },
       {
-        "name": "Khrystian King",
-        "date": "5/31/2023",
-        "amount": 100
-      },
-      {
         "name": "Moe Bergman",
         "date": "10/31/2022",
         "amount": 100
@@ -7201,6 +6710,11 @@
       {
         "name": "Moe Bergman",
         "date": "10/14/2021",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/31/2023",
         "amount": 100
       },
       {
@@ -7529,187 +7043,6 @@
     ]
   },
   {
-    "name": "Ibew Local 2325 Cope",
-    "total": 4375,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Joe Petty",
-        "date": "6/22/2022",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/31/2005",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/22/2005",
-        "amount": 125
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/2/2020",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/13/2004",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "4/30/2003",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/27/2018",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "1/27/2017",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/16/2013",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/21/2012",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/18/2009",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/1/2007",
-        "amount": 250
-      }
-    ]
-  },
-  {
-    "name": "Sheet Metal Workers' Local #63 International PAC",
-    "total": 4300,
-    "city": "Springfield",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "12/17/2024",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/22/2024",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 300
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/26/2024",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/22/2023",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/7/2023",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/15/2023",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/19/2022",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/17/2023",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/14/2022",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/21/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "9/18/2009",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/24/2008",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/10/2021",
-        "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/1/2019",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/5/2018",
-        "amount": 150
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/28/2016",
-        "amount": 200
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/21/2015",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/13/2021",
-        "amount": 250
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "10/28/2019",
-        "amount": 250
-      }
-    ]
-  },
-  {
     "name": "Painters District Council #35 PAC",
     "total": 4250,
     "city": "Roslindale",
@@ -7816,64 +7149,6 @@
     ]
   },
   {
-    "name": "Local 509 Service Employees Int'l Union Comm On Pol Ed, Ma Workers' Pol Action Comm.",
-    "total": 4200,
-    "city": "Marlborough",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Etel Haxhiaj",
-        "date": "8/2/2025",
-        "amount": 500
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "12/30/2024",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "7/29/2011",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "8/6/2021",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/8/2019",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "3/25/2019",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/4/2018",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/5/2015",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "1/3/2017",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "3/6/2015",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Fisher, Charran",
     "total": 4175,
     "city": "Worcester",
@@ -7915,11 +7190,6 @@
         "amount": 125
       },
       {
-        "name": "Jose Rivera",
-        "date": "6/28/2023",
-        "amount": 200
-      },
-      {
         "name": "Kate Toomey",
         "date": "3/7/2025",
         "amount": 200
@@ -7933,6 +7203,11 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 100
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "6/28/2023",
+        "amount": 200
       },
       {
         "name": "Satya Mitra",
@@ -7962,59 +7237,242 @@
     ]
   },
   {
-    "name": "Ma Laborers' District Council Pol Action Comm",
-    "total": 4100,
-    "city": "Hopkinton",
+    "name": "Waxler, Mark",
+    "total": 4150,
+    "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "John Fresolo",
-        "date": "7/27/2012",
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 125
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "9/10/2007",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/17/2023",
+        "amount": 125
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/25/2017",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/14/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2022",
         "amount": 150
       },
       {
-        "name": "Kate Toomey",
-        "date": "9/15/2023",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/19/2009",
-        "amount": 200
+        "name": "Joe Petty",
+        "date": "10/22/2021",
+        "amount": 125
       },
       {
         "name": "Kate Toomey",
-        "date": "5/29/2021",
-        "amount": 500
+        "date": "9/9/2009",
+        "amount": 100
       },
       {
         "name": "Kate Toomey",
-        "date": "7/11/2020",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "7/3/2019",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/8/2018",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "7/8/2017",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/10/2013",
-        "amount": 250
+        "date": "6/16/2009",
+        "amount": 100
       },
       {
         "name": "Kate Toomey",
         "date": "1/10/2008",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/17/2007",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "3/19/2017",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/12/2021",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 150
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/3/2007",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/3/2007",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/8/2019",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/21/2018",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/18/2018",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/27/2017",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/21/2016",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/21/2015",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/6/2015",
+        "amount": 150
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/25/2014",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2013",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/24/2013",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/3/2013",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2012",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2012",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/17/2011",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/30/2011",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/25/2010",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/10/2009",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/16/2007",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/7/2005",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Local 509 Service Employees Int'l Union Comm On Pol Ed, Ma Workers' Pol Action Comm.",
+    "total": 4100,
+    "city": "Marlborough",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Etel Haxhiaj",
+        "date": "8/2/2025",
+        "amount": 500
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "12/30/2024",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "8/6/2021",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/8/2019",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "3/25/2019",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/4/2018",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/5/2015",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "1/3/2017",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "3/6/2015",
         "amount": 500
       }
     ]
@@ -8053,6 +7511,132 @@
     ]
   },
   {
+    "name": "Lee, Patrick",
+    "total": 4000,
+    "city": "Boston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/18/2025",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/9/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/7/2023",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/23/2023",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Sheet Metal Workers' Local #63 International PAC",
+    "total": 4000,
+    "city": "Springfield",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/17/2024",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "4/22/2024",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 300
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/26/2024",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/22/2023",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/7/2023",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/15/2023",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/19/2022",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/17/2023",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/14/2022",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/10/2021",
+        "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "3/1/2019",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/5/2018",
+        "amount": 150
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "10/28/2016",
+        "amount": 200
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/21/2015",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/13/2021",
+        "amount": 250
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "10/28/2019",
+        "amount": 250
+      }
+    ]
+  },
+  {
     "name": "Dixon, Moses",
     "total": 4000,
     "city": "Worcester",
@@ -8069,14 +7653,14 @@
         "amount": 100
       },
       {
-        "name": "Joe Petty",
-        "date": "12/2/2024",
-        "amount": 1000
-      },
-      {
         "name": "John Fresolo",
         "date": "3/4/2025",
         "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 1000
       },
       {
         "name": "Joe Petty",
@@ -8152,122 +7736,6 @@
         "name": "Joe Petty",
         "date": "12/3/2012",
         "amount": 25
-      }
-    ]
-  },
-  {
-    "name": "Lee, Patrick",
-    "total": 4000,
-    "city": "Boston",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/18/2025",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "4/22/2024",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "7/9/2025",
-        "amount": 1000
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "7/7/2023",
-        "amount": 1000
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/23/2023",
-        "amount": 1000
-      }
-    ]
-  },
-  {
-    "name": "Roofer's Local 33",
-    "total": 4000,
-    "city": "Stoughton",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Gary Rosen",
-        "date": "10/21/2019",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/15/2023",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/20/2023",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/21/2021",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "7/23/2021",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/23/2019",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/6/2017",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/30/2015",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/22/2021",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/2/2021",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/28/2019",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/22/2021",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/19/2015",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/22/2016",
-        "amount": 500
       }
     ]
   },
@@ -8353,6 +7821,89 @@
     ]
   },
   {
+    "name": "Roofer's Local 33",
+    "total": 4000,
+    "city": "Stoughton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Kate Toomey",
+        "date": "9/15/2023",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/20/2023",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "10/21/2019",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/21/2021",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/23/2021",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/23/2019",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/6/2017",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/30/2015",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/22/2021",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/2/2021",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/28/2019",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/22/2021",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/19/2015",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 500
+      }
+    ]
+  },
+  {
     "name": "Feldhaus, Louise",
     "total": 4000,
     "city": "Worcester",
@@ -8429,70 +7980,55 @@
     ]
   },
   {
-    "name": "United Steelworkers Local 2936",
-    "total": 3900,
-    "city": "Auburn",
+    "name": "Ibew Local 2325 Cope",
+    "total": 3950,
+    "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "date": "2/27/2025",
-        "amount": 100
+        "name": "Joe Petty",
+        "date": "6/22/2022",
+        "amount": 500
       },
       {
-        "name": "Candy Mero-Carlson",
-        "date": "7/7/2023",
-        "amount": 100
+        "name": "Joe Petty",
+        "date": "11/2/2020",
+        "amount": 500
       },
       {
-        "name": "Candy Mero-Carlson",
-        "date": "3/28/2023",
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/27/2018",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "1/27/2017",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/16/2013",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2012",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/18/2009",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2007",
         "amount": 250
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "8/8/2022",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/28/2011",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "6/25/2021",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "11/27/2020",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "3/11/2019",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "6/3/2018",
-        "amount": 100
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/6/2017",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "10/4/2016",
-        "amount": 500
-      },
-      {
-        "name": "Candy Mero-Carlson",
-        "date": "5/27/2015",
-        "amount": 500
       }
     ]
   },
@@ -8663,193 +8199,65 @@
     ]
   },
   {
-    "name": "Worcester-fitchburg Building Trades Council",
-    "total": 3825,
-    "city": "West Boylston",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Moe Bergman",
-        "date": "3/21/2025",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/11/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/10/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/12/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "9/9/2009",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/12/2009",
-        "amount": 125
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/31/2023",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/28/2022",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "11/30/2021",
-        "amount": 250
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/11/2017",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/27/2017",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "8/31/2015",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/16/2013",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/3/2012",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2011",
-        "amount": 500
-      },
-      {
-        "name": "Joe Petty",
-        "date": "5/14/2010",
-        "amount": 100
-      }
-    ]
-  },
-  {
-    "name": "White, Robert",
+    "name": "United Steelworkers Local 2936",
     "total": 3800,
-    "city": "Dorchester",
+    "city": "Auburn",
     "state": "MA",
     "donations": [
       {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "2/27/2025",
+        "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/7/2025",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "7/7/2023",
+        "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "date": "4/25/2022",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "3/28/2023",
+        "amount": 250
       },
       {
-        "name": "Joe Petty",
-        "date": "10/17/2023",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "8/8/2022",
+        "amount": 250
       },
       {
-        "name": "John Fresolo",
-        "date": "5/25/2011",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "6/25/2021",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "10/8/2021",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "11/27/2020",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "6/22/2021",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "3/11/2019",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "10/23/2019",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "6/3/2018",
+        "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/13/2012",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "5/6/2017",
+        "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/9/2012",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "10/4/2016",
+        "amount": 500
       },
       {
-        "name": "Joe Petty",
-        "date": "4/20/2022",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/22/2021",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/27/2006",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "11/13/2019",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "4/20/2004",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "4/23/2003",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "7/31/2002",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "3/27/2001",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/26/2015",
-        "amount": 200
+        "name": "Candy Mero-Carlson",
+        "date": "5/27/2015",
+        "amount": 500
       }
     ]
   },
@@ -8980,6 +8388,54 @@
     ]
   },
   {
+    "name": "Ma Laborers' District Council Pol Action Comm",
+    "total": 3750,
+    "city": "Hopkinton",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Kate Toomey",
+        "date": "9/15/2023",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/29/2021",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/11/2020",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/3/2019",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/8/2018",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/8/2017",
+        "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/10/2013",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "1/10/2008",
+        "amount": 500
+      }
+    ]
+  },
+  {
     "name": "Monahan, John",
     "total": 3700,
     "city": "Worcester",
@@ -9098,144 +8554,6 @@
     ]
   },
   {
-    "name": "Randell, William",
-    "total": 3675,
-    "city": "Holden",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Donna Colorio",
-        "date": "6/23/2025",
-        "amount": 200
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "5/18/2022",
-        "amount": 100
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "10/25/2021",
-        "amount": 200
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "7/25/2025",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "3/31/2025",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/18/2025",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "10/30/2016",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/26/2012",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/11/2012",
-        "amount": 100
-      },
-      {
-        "name": "Satya Mitra",
-        "date": "1/22/2025",
-        "amount": 100
-      },
-      {
-        "name": "Ted Kostas",
-        "date": "2/13/2025",
-        "amount": 100
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "6/5/2021",
-        "amount": 200
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "10/18/2019",
-        "amount": 250
-      },
-      {
-        "name": "Donna Colorio",
-        "date": "5/28/2019",
-        "amount": 250
-      },
-      {
-        "name": "John Fresolo",
-        "date": "11/19/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/22/2010",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "9/29/2009",
-        "amount": 100
-      },
-      {
-        "name": "Tony Economou",
-        "date": "11/7/2011",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/20/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "2/11/2008",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "6/15/2006",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/26/2004",
-        "amount": 100
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "9/9/2009",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/31/2013",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "9/30/2007",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/10/2009",
-        "amount": 25
-      }
-    ]
-  },
-  {
     "name": "Glodis, Guy",
     "total": 3650,
     "city": "Yarmouth",
@@ -9252,11 +8570,6 @@
         "amount": 150
       },
       {
-        "name": "Gary Rosen",
-        "date": "10/24/2005",
-        "amount": 50
-      },
-      {
         "name": "Kate Toomey",
         "date": "3/4/2025",
         "amount": 200
@@ -9267,9 +8580,9 @@
         "amount": 150
       },
       {
-        "name": "Robert Pezzella",
-        "date": "5/15/2025",
-        "amount": 150
+        "name": "Gary Rosen",
+        "date": "10/24/2005",
+        "amount": 50
       },
       {
         "name": "Moe Bergman",
@@ -9280,6 +8593,11 @@
         "name": "Moe Bergman",
         "date": "12/27/2024",
         "amount": 100
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "5/15/2025",
+        "amount": 150
       },
       {
         "name": "Kate Toomey",
@@ -9698,59 +9016,6 @@
     ]
   },
   {
-    "name": "Tinsley, E Paul",
-    "total": 3550,
-    "city": "Andover",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Kate Toomey",
-        "date": "9/15/2023",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/23/2019",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "4/20/2019",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/30/2018",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/26/2013",
-        "amount": 500
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/20/2011",
-        "amount": 500
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/1/2006",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "5/10/2005",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "11/15/2009",
-        "amount": 250
-      }
-    ]
-  },
-  {
     "name": "Cohen, Julie",
     "total": 3500,
     "city": "Worcester",
@@ -9876,6 +9141,11 @@
         "amount": 100
       },
       {
+        "name": "John Fresolo",
+        "date": "7/24/2025",
+        "amount": 25
+      },
+      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 125
@@ -9894,11 +9164,6 @@
         "name": "Joe Petty",
         "date": "2/15/2024",
         "amount": 125
-      },
-      {
-        "name": "John Fresolo",
-        "date": "7/24/2025",
-        "amount": 25
       },
       {
         "name": "Kate Toomey",
@@ -9976,11 +9241,6 @@
         "amount": 100
       },
       {
-        "name": "Khrystian King",
-        "date": "4/24/2023",
-        "amount": 50
-      },
-      {
         "name": "Kate Toomey",
         "date": "10/8/2021",
         "amount": 50
@@ -10008,6 +9268,11 @@
       {
         "name": "Moe Bergman",
         "date": "10/22/2021",
+        "amount": 50
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/24/2023",
         "amount": 50
       },
       {
@@ -10177,11 +9442,6 @@
         "amount": 100
       },
       {
-        "name": "Luis Ojeda",
-        "date": "7/24/2025",
-        "amount": 200
-      },
-      {
         "name": "Khrystian King",
         "date": "6/30/2025",
         "amount": 250
@@ -10200,6 +9460,11 @@
         "name": "Khrystian King",
         "date": "12/31/2024",
         "amount": 100
+      },
+      {
+        "name": "Luis Ojeda",
+        "date": "7/24/2025",
+        "amount": 200
       },
       {
         "name": "Etel Haxhiaj",
@@ -10461,6 +9726,501 @@
         "name": "Joe Petty",
         "date": "10/17/2011",
         "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Novak, Paul",
+    "total": 3300,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "date": "1/22/2025",
+        "amount": 100
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "11/3/2023",
+        "amount": 100
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "12/8/2022",
+        "amount": 100
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "10/25/2021",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "11/10/2023",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/4/2022",
+        "amount": 100
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "5/12/2025",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "8/20/2025",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "10/9/2019",
+        "amount": 100
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "12/21/2020",
+        "amount": 100
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "12/19/2019",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/18/2021",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/16/2019",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/19/2017",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/19/2015",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "10/13/2015",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "3/26/2015",
+        "amount": 125
+      },
+      {
+        "name": "Tony Economou",
+        "date": "12/19/2011",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2022",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/22/2021",
+        "amount": 125
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "3/21/2017",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/7/2020",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/14/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/12/2018",
+        "amount": 25
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2017",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/22/2016",
+        "amount": 125
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/14/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2012",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/3/2012",
+        "amount": 25
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/21/2012",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/17/2011",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Worcester-fitchburg Building Trades Council",
+    "total": 3300,
+    "city": "West Boylston",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Moe Bergman",
+        "date": "3/21/2025",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/31/2023",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/28/2022",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "11/30/2021",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/11/2017",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/27/2017",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/31/2015",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/16/2013",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2012",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2011",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "5/14/2010",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Hargrove, Dorothy",
+    "total": 3270,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "11/24/2023",
+        "amount": 50
+      },
+      {
+        "name": "Donna Colorio",
+        "date": "7/14/2025",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/20/2023",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/25/2022",
+        "amount": 50
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/8/2023",
+        "amount": 50
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "5/21/2025",
+        "amount": 500
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "8/26/2015",
+        "amount": 200
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "7/1/2013",
+        "amount": 200
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "5/19/2007",
+        "amount": 500
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "10/25/2006",
+        "amount": 200
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "11/7/2005",
+        "amount": 100
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "5/10/2005",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "5/28/2025",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "11/21/2023",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/27/2023",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/21/2022",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/2/2012",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/18/2011",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/14/2021",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "9/17/2007",
+        "amount": 20
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/9/2007",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/14/2019",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "11/16/2005",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/9/2005",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "4/9/2015",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "5/14/2013",
+        "amount": 200
+      }
+    ]
+  },
+  {
+    "name": "Suarez, Jesus",
+    "total": 3250,
+    "city": "Sturbridge",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "12/6/2024",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "7/7/2023",
+        "amount": 1000
+      },
+      {
+        "name": "Khrystian King",
+        "date": "4/6/2023",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Murray, Tammy",
+    "total": 3250,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 500
+      },
+      {
+        "name": "Joe Petty",
+        "date": "11/1/2024",
+        "amount": 250
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "6/26/2025",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "10/31/2019",
+        "amount": 150
+      },
+      {
+        "name": "Tony Economou",
+        "date": "10/29/2019",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "10/19/2019",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/23/2023",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/1/2023",
+        "amount": 200
+      },
+      {
+        "name": "Tony Economou",
+        "date": "11/1/2015",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/22/2021",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/28/2019",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/31/2013",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/28/2017",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/23/2017",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/28/2016",
+        "amount": 250
       }
     ]
   }
