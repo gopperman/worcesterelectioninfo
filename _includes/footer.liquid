@@ -1,9 +1,9 @@
 <footer>
   <div class="container">
     <h2 class="footer__hed">Worcester City Council Election Guide</h2>
-    <div class="grid grid--3">
-      <div>
-        <img class="footer__logo" src="{{site.url}}/images/logo-bb.png" alt="Worcester Sucks & I Love It" />
+    <div class="footer__grid">
+      <div class="footer__logo-container">
+        <img loading="lazy" class="footer__logo" src="{{site.url}}/images/logo-bb.png" alt="Worcester Sucks & I Love It" />
       </div>
       <div>
         <h3>At-Large Candidates</h3>
@@ -29,6 +29,6 @@
       </div>
     </div>
     <p>This has been a special presentation of <a href="https://www.worcestersucks.email/" target="_blank">Worcester Sucks</a>. If you'd like to support more independent, local journalism, including this project, <a href="https://www.worcestersucks.email/" target="_blank">subscribe here</a>.</p>
-    <p class="timestamp">Last Updated August 10, 2025</p>
+    <p class="timestamp">Last updated {{ "now" | date: "%B %d, %Y" }}</p>
   </div>
 </footer>

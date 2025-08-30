@@ -9,9 +9,11 @@
     <div>
       <img class="header__head header__head--wide" src="{{site.url}}/images/{{headshot}}" alt="{{name}}"/>
     </div>
-    <div>
-      <h1>{{ name }}</h1>
-      <p>{{ status | capitalize }}, {{ district | district }}</p>
+    <div class="header__candidate-info">
+      <div>
+        <h1>{{ name }}</h1>
+        <p>{{ status | capitalize }}, {{ district | district }}</p>
+      </div>
     </div>
   </div>
 </header>
