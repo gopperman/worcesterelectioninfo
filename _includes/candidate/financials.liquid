@@ -59,11 +59,13 @@
   <h2>Who are {{candidate.name}}'s Top Donors?</h2>
   <div class="grid grid--4">
     {% for donor in candidate.topDonorsAllTime %}
-      <div class="card">
-        <h3>{{donor.name | firstlast }}</h3>
-        {% if donor.city != '' %}
-          <h4>{{donor.city}}, {{donor.state}}</h4>
-        {% endif %}
+      <div class="card card--donor">
+        <div>
+          <h3>{{donor.name | firstlast }}</h3>
+          {% if donor.city != '' %}
+            <h4>{{donor.city}}, {{donor.state}}</h4>
+          {% endif %}
+        </div>
         <p class="bignumber bignumber--donor">{{donor.total | money }}</p>
       </div>
     {% endfor %}

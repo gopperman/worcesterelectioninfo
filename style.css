@@ -379,6 +379,9 @@ tr:first-child {
 .card {
   border: 2px solid var(--mudkip);
   border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   padding: 10px;
   margin-bottom: 15px;
   text-align: center;
@@ -393,6 +396,18 @@ tr:first-child {
 
   h3 a {
     color: var(--black);
+  }
+
+  .header__head {
+    margin: 0 auto;
+  }
+}
+
+.card--donor {
+  padding: 5px;
+
+  h3 {
+    margin: 0;
   }
 }
 
@@ -510,7 +525,7 @@ tr:first-child {
 }
 
 .card .bignumber--donor {
-  margin: 10px 0;
+  margin: 0;
 }
 
 .bignumber--alt {

@@ -1,7 +1,10 @@
 {% assign candidate = candidates | find: 'name', name %}
 <!DOCTYPE html>
 <html lang="en">
-  {% render "head.liquid", site: site, title: title %}
+  {% capture description %}
+    Learn about {{name}}, their background, views, and most importantly, where they get their money, in the Worcester City Council 2025 Election Guide.
+  {% endcapture %}
+  {% render "head.liquid", site: site, title: title, description: description %}
   <body>
     {% render "candidate/header.liquid", site: site, name: name, status: status, headshot: headshot , district: tags %}
     <main>
