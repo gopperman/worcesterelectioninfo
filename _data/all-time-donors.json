@@ -94,6 +94,11 @@
         "amount": 1000
       },
       {
+        "name": "Gary Rosen",
+        "date": "11/7/2007",
+        "amount": 300
+      },
+      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 1000
@@ -107,11 +112,6 @@
         "name": "Kate Toomey",
         "date": "2/9/2024",
         "amount": 1000
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "11/7/2007",
-        "amount": 300
       },
       {
         "name": "Candy Mero-Carlson",
@@ -159,11 +159,6 @@
         "amount": 1000
       },
       {
-        "name": "Moe Bergman",
-        "date": "12/30/2020",
-        "amount": 500
-      },
-      {
         "name": "Khrystian King",
         "date": "1/17/2023",
         "amount": 1000
@@ -171,6 +166,11 @@
       {
         "name": "Khrystian King",
         "date": "12/29/2020",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/30/2020",
         "amount": 500
       },
       {
@@ -355,11 +355,6 @@
         "amount": 500
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/27/2025",
-        "amount": 500
-      },
-      {
         "name": "Khrystian King",
         "date": "6/30/2025",
         "amount": 500
@@ -367,6 +362,11 @@
       {
         "name": "Luis Ojeda",
         "date": "7/1/2025",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/27/2025",
         "amount": 500
       },
       {
@@ -430,21 +430,6 @@
         "amount": 500
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/18/2021",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/10/2020",
-        "amount": 500
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/19/2019",
-        "amount": 500
-      },
-      {
         "name": "Khrystian King",
         "date": "9/20/2022",
         "amount": 500
@@ -465,6 +450,21 @@
         "amount": 500
       },
       {
+        "name": "Moe Bergman",
+        "date": "6/18/2021",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/10/2020",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/19/2019",
+        "amount": 500
+      },
+      {
         "name": "Candy Mero-Carlson",
         "date": "6/15/2015",
         "amount": 500
@@ -475,14 +475,14 @@
         "amount": 500
       },
       {
-        "name": "Moe Bergman",
-        "date": "10/9/2018",
-        "amount": 250
-      },
-      {
         "name": "Khrystian King",
         "date": "7/20/2017",
         "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/9/2018",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
@@ -558,6 +558,21 @@
         "amount": 1000
       },
       {
+        "name": "Jose Rivera",
+        "date": "7/25/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "2/27/2025",
+        "amount": 500
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "8/14/2023",
+        "amount": 1000
+      },
+      {
         "name": "Kate Toomey",
         "date": "3/17/2025",
         "amount": 500
@@ -581,21 +596,6 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 200
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "7/25/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "2/27/2025",
-        "amount": 500
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "8/14/2023",
-        "amount": 1000
       },
       {
         "name": "Moe Bergman",
@@ -1842,13 +1842,13 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Moe Bergman",
-        "date": "12/3/2024",
+        "name": "Luis Ojeda",
+        "date": "5/16/2023",
         "amount": 1000
       },
       {
-        "name": "Luis Ojeda",
-        "date": "5/16/2023",
+        "name": "Moe Bergman",
+        "date": "12/3/2024",
         "amount": 1000
       },
       {
@@ -2143,14 +2143,14 @@
         "amount": 100
       },
       {
-        "name": "Moe Bergman",
-        "date": "10/30/2018",
-        "amount": 250
-      },
-      {
         "name": "Khrystian King",
         "date": "7/1/2015",
         "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/30/2018",
+        "amount": 250
       },
       {
         "name": "Etel Haxhiaj",
@@ -2559,14 +2559,14 @@
         "amount": 200
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/7/2025",
-        "amount": 100
-      },
-      {
         "name": "Jose Rivera",
         "date": "7/20/2023",
         "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 100
       },
       {
         "name": "Moe Bergman",
@@ -2970,11 +2970,6 @@
         "amount": 500
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/8/2021",
-        "amount": 125
-      },
-      {
         "name": "Khrystian King",
         "date": "12/29/2020",
         "amount": 150
@@ -2988,6 +2983,11 @@
         "name": "Khrystian King",
         "date": "12/4/2018",
         "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/8/2021",
+        "amount": 125
       },
       {
         "name": "Candy Mero-Carlson",
@@ -3010,6 +3010,16 @@
         "amount": 200
       },
       {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 125
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/28/2015",
+        "amount": 125
+      },
+      {
         "name": "Moe Bergman",
         "date": "10/11/2018",
         "amount": 125
@@ -3023,16 +3033,6 @@
         "name": "Moe Bergman",
         "date": "3/19/2017",
         "amount": 150
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 125
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
-        "amount": 125
       },
       {
         "name": "Moe Bergman",
@@ -3083,6 +3083,11 @@
     "state": "MA",
     "donations": [
       {
+        "name": "Gary Rosen",
+        "date": "11/1/2005",
+        "amount": 250
+      },
+      {
         "name": "Kate Toomey",
         "date": "6/15/2024",
         "amount": 200
@@ -3090,11 +3095,6 @@
       {
         "name": "Kate Toomey",
         "date": "8/26/2023",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "11/1/2005",
         "amount": 250
       },
       {
@@ -3123,11 +3123,6 @@
         "amount": 250
       },
       {
-        "name": "Moe Bergman",
-        "date": "6/2/2021",
-        "amount": 250
-      },
-      {
         "name": "Khrystian King",
         "date": "6/24/2019",
         "amount": 200
@@ -3135,6 +3130,21 @@
       {
         "name": "Khrystian King",
         "date": "10/25/2017",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/2/2021",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "12/20/2016",
+        "amount": 500
+      },
+      {
+        "name": "Khrystian King",
+        "date": "5/27/2015",
         "amount": 500
       },
       {
@@ -3156,16 +3166,6 @@
         "name": "Moe Bergman",
         "date": "3/21/2017",
         "amount": 200
-      },
-      {
-        "name": "Khrystian King",
-        "date": "12/20/2016",
-        "amount": 500
-      },
-      {
-        "name": "Khrystian King",
-        "date": "5/27/2015",
-        "amount": 500
       },
       {
         "name": "Joe Petty",
@@ -3716,16 +3716,6 @@
         "amount": 129.59
       },
       {
-        "name": "Kate Toomey",
-        "date": "8/26/2023",
-        "amount": 101.99
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/20/2023",
-        "amount": 131.59
-      },
-      {
         "name": "Jose Rivera",
         "date": "12/19/2024",
         "amount": 111.99
@@ -3734,6 +3724,16 @@
         "name": "Jose Rivera",
         "date": "6/28/2023",
         "amount": 109.59
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/26/2023",
+        "amount": 101.99
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/20/2023",
+        "amount": 131.59
       },
       {
         "name": "Moe Bergman",
@@ -4032,6 +4032,11 @@
         "amount": 100
       },
       {
+        "name": "Gary Rosen",
+        "date": "10/23/2013",
+        "amount": 50
+      },
+      {
         "name": "Joe Petty",
         "date": "3/15/2025",
         "amount": 200
@@ -4050,11 +4055,6 @@
         "name": "Kate Toomey",
         "date": "3/7/2025",
         "amount": 100
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "10/23/2013",
-        "amount": 50
       },
       {
         "name": "Moe Bergman",
@@ -5106,6 +5106,11 @@
         "amount": 200
       },
       {
+        "name": "Gary Rosen",
+        "date": "10/23/2013",
+        "amount": 200
+      },
+      {
         "name": "Joe Petty",
         "date": "4/28/2025",
         "amount": 500
@@ -5114,11 +5119,6 @@
         "name": "Joe Petty",
         "date": "11/1/2023",
         "amount": 500
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "10/23/2013",
-        "amount": 200
       },
       {
         "name": "Joe Petty",
@@ -5574,164 +5574,6 @@
     ]
   },
   {
-    "name": "Murray, Timothy",
-    "total": 4950,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Charles Luster",
-        "date": "3/20/2025",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/15/2024",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "5/28/2024",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "8/26/2023",
-        "amount": 200
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "3/17/2025",
-        "amount": 200
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "12/19/2024",
-        "amount": 200
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "6/28/2023",
-        "amount": 100
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "3/8/2023",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "7/9/2025",
-        "amount": 200
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "12/20/2024",
-        "amount": 150
-      },
-      {
-        "name": "Robert Pezzella",
-        "date": "3/10/2025",
-        "amount": 200
-      },
-      {
-        "name": "Satya Mitra",
-        "date": "1/31/2025",
-        "amount": 200
-      },
-      {
-        "name": "Satya Mitra",
-        "date": "1/7/2025",
-        "amount": 200
-      },
-      {
-        "name": "Tony Economou",
-        "date": "2/14/2025",
-        "amount": 200
-      },
-      {
-        "name": "Tony Economou",
-        "date": "6/24/2019",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "2/17/2023",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/6/2017",
-        "amount": 200
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "11/1/2013",
-        "amount": 100
-      },
-      {
-        "name": "Tony Economou",
-        "date": "11/1/2015",
-        "amount": 200
-      },
-      {
-        "name": "Tony Economou",
-        "date": "3/26/2015",
-        "amount": 100
-      },
-      {
-        "name": "Tony Economou",
-        "date": "12/5/2013",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "11/6/2017",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
-        "amount": 100
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "4/9/2015",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/22/2019",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/17/2017",
-        "amount": 200
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/21/2015",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "3/31/2015",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/25/2014",
-        "amount": 200
-      }
-    ]
-  },
-  {
     "name": "Leary, James",
     "total": 4892.1,
     "city": "Worcester",
@@ -5996,14 +5838,14 @@
         "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "date": "8/26/2023",
-        "amount": 250
-      },
-      {
         "name": "Jose Rivera",
         "date": "10/31/2023",
         "amount": 500
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/26/2023",
+        "amount": 250
       },
       {
         "name": "Candy Mero-Carlson",
@@ -6096,6 +5938,159 @@
     ]
   },
   {
+    "name": "Murray, Timothy",
+    "total": 4750,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/15/2024",
+        "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/17/2025",
+        "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "12/19/2024",
+        "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "6/28/2023",
+        "amount": 100
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/8/2023",
+        "amount": 100
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "5/28/2024",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "8/26/2023",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "7/9/2025",
+        "amount": 200
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "12/20/2024",
+        "amount": 150
+      },
+      {
+        "name": "Robert Pezzella",
+        "date": "3/10/2025",
+        "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/31/2025",
+        "amount": 200
+      },
+      {
+        "name": "Satya Mitra",
+        "date": "1/7/2025",
+        "amount": 200
+      },
+      {
+        "name": "Tony Economou",
+        "date": "2/14/2025",
+        "amount": 200
+      },
+      {
+        "name": "Tony Economou",
+        "date": "6/24/2019",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "2/17/2023",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/6/2017",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "11/1/2013",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "11/1/2015",
+        "amount": 200
+      },
+      {
+        "name": "Tony Economou",
+        "date": "3/26/2015",
+        "amount": 100
+      },
+      {
+        "name": "Tony Economou",
+        "date": "12/5/2013",
+        "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/28/2015",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "11/6/2017",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "4/9/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/22/2019",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/17/2017",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/21/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/31/2015",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/25/2014",
+        "amount": 200
+      }
+    ]
+  },
+  {
     "name": "Sabo, Nathan",
     "total": 4750,
     "city": "Worcester",
@@ -6155,6 +6150,21 @@
     "state": "MA",
     "donations": [
       {
+        "name": "Gary Rosen",
+        "date": "5/28/2025",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "8/13/2013",
+        "amount": 250
+      },
+      {
+        "name": "Gary Rosen",
+        "date": "7/11/2007",
+        "amount": 250
+      },
+      {
         "name": "Joe Petty",
         "date": "2/15/2024",
         "amount": 500
@@ -6173,21 +6183,6 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 200
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "5/28/2025",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "8/13/2013",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "7/11/2007",
-        "amount": 250
       },
       {
         "name": "Joe Petty",
@@ -6703,6 +6698,11 @@
         "amount": 250
       },
       {
+        "name": "Khrystian King",
+        "date": "5/31/2023",
+        "amount": 100
+      },
+      {
         "name": "Moe Bergman",
         "date": "10/31/2022",
         "amount": 100
@@ -6710,11 +6710,6 @@
       {
         "name": "Moe Bergman",
         "date": "10/14/2021",
-        "amount": 100
-      },
-      {
-        "name": "Khrystian King",
-        "date": "5/31/2023",
         "amount": 100
       },
       {
@@ -7190,6 +7185,11 @@
         "amount": 125
       },
       {
+        "name": "Jose Rivera",
+        "date": "6/28/2023",
+        "amount": 200
+      },
+      {
         "name": "Kate Toomey",
         "date": "3/7/2025",
         "amount": 200
@@ -7203,11 +7203,6 @@
         "name": "Kate Toomey",
         "date": "4/25/2022",
         "amount": 100
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "6/28/2023",
-        "amount": 200
       },
       {
         "name": "Satya Mitra",
@@ -7243,14 +7238,14 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Joe Petty",
-        "date": "3/15/2025",
-        "amount": 125
-      },
-      {
         "name": "Gary Rosen",
         "date": "9/10/2007",
         "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "3/15/2025",
+        "amount": 125
       },
       {
         "name": "Joe Petty",
@@ -7637,105 +7632,85 @@
     ]
   },
   {
-    "name": "Dixon, Moses",
+    "name": "Roofer's Local 33",
     "total": 4000,
-    "city": "Worcester",
+    "city": "Stoughton",
     "state": "MA",
     "donations": [
       {
-        "name": "Charles Luster",
-        "date": "6/10/2025",
-        "amount": 100
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "6/15/2025",
-        "amount": 100
-      },
-      {
-        "name": "John Fresolo",
-        "date": "3/4/2025",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "12/2/2024",
-        "amount": 1000
-      },
-      {
-        "name": "Joe Petty",
-        "date": "8/29/2023",
-        "amount": 1000
-      },
-      {
-        "name": "Joe Petty",
-        "date": "9/14/2022",
+        "name": "Gary Rosen",
+        "date": "10/21/2019",
         "amount": 250
       },
       {
         "name": "Kate Toomey",
-        "date": "6/18/2021",
-        "amount": 100
+        "date": "9/15/2023",
+        "amount": 250
       },
       {
-        "name": "Candy Mero-Carlson",
-        "date": "5/22/2021",
-        "amount": 100
+        "name": "Kate Toomey",
+        "date": "3/20/2023",
+        "amount": 250
       },
       {
-        "name": "Joe Petty",
-        "date": "7/19/2022",
+        "name": "Kate Toomey",
+        "date": "10/21/2021",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "7/23/2021",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/23/2019",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/6/2017",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/30/2015",
         "amount": 250
       },
       {
         "name": "Moe Bergman",
-        "date": "6/18/2021",
-        "amount": 100
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "4/30/2021",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/20/2022",
+        "date": "10/22/2021",
         "amount": 250
       },
       {
-        "name": "Khrystian King",
-        "date": "10/28/2015",
-        "amount": 50
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "date": "4/3/2019",
-        "amount": 100
-      },
-      {
-        "name": "Joe Petty",
+        "name": "Moe Bergman",
         "date": "6/2/2021",
-        "amount": 100
+        "amount": 250
       },
       {
         "name": "Moe Bergman",
-        "date": "10/14/2015",
-        "amount": 50
+        "date": "10/28/2019",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
-        "date": "10/21/2015",
-        "amount": 50
+        "date": "10/22/2021",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
-        "date": "4/21/2015",
-        "amount": 25
+        "date": "10/28/2019",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/19/2015",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
-        "date": "12/3/2012",
-        "amount": 25
+        "date": "4/22/2016",
+        "amount": 500
       }
     ]
   },
@@ -7816,89 +7791,6 @@
       {
         "name": "Joe Petty",
         "date": "4/3/2013",
-        "amount": 500
-      }
-    ]
-  },
-  {
-    "name": "Roofer's Local 33",
-    "total": 4000,
-    "city": "Stoughton",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Kate Toomey",
-        "date": "9/15/2023",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "3/20/2023",
-        "amount": 250
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "10/21/2019",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/21/2021",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "7/23/2021",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/23/2019",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "6/6/2017",
-        "amount": 250
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/30/2015",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/22/2021",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/2/2021",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "10/28/2019",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/22/2021",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "10/28/2019",
-        "amount": 250
-      },
-      {
-        "name": "Moe Bergman",
-        "date": "6/19/2015",
-        "amount": 250
-      },
-      {
-        "name": "Joe Petty",
-        "date": "4/22/2016",
         "amount": 500
       }
     ]
@@ -8029,6 +7921,104 @@
         "name": "Joe Petty",
         "date": "11/1/2007",
         "amount": 250
+      }
+    ]
+  },
+  {
+    "name": "Dixon, Moses",
+    "total": 3900,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Etel Haxhiaj",
+        "date": "6/15/2025",
+        "amount": 100
+      },
+      {
+        "name": "John Fresolo",
+        "date": "3/4/2025",
+        "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/2/2024",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "8/29/2023",
+        "amount": 1000
+      },
+      {
+        "name": "Joe Petty",
+        "date": "9/14/2022",
+        "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "6/18/2021",
+        "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "date": "5/22/2021",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "7/19/2022",
+        "amount": 250
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "6/18/2021",
+        "amount": 100
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "4/30/2021",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/20/2022",
+        "amount": 250
+      },
+      {
+        "name": "Khrystian King",
+        "date": "10/28/2015",
+        "amount": 50
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "date": "4/3/2019",
+        "amount": 100
+      },
+      {
+        "name": "Joe Petty",
+        "date": "6/2/2021",
+        "amount": 100
+      },
+      {
+        "name": "Moe Bergman",
+        "date": "10/14/2015",
+        "amount": 50
+      },
+      {
+        "name": "Joe Petty",
+        "date": "10/21/2015",
+        "amount": 50
+      },
+      {
+        "name": "Joe Petty",
+        "date": "4/21/2015",
+        "amount": 25
+      },
+      {
+        "name": "Joe Petty",
+        "date": "12/3/2012",
+        "amount": 25
       }
     ]
   },
@@ -8570,6 +8560,11 @@
         "amount": 150
       },
       {
+        "name": "Gary Rosen",
+        "date": "10/24/2005",
+        "amount": 50
+      },
+      {
         "name": "Kate Toomey",
         "date": "3/4/2025",
         "amount": 200
@@ -8578,11 +8573,6 @@
         "name": "Kate Toomey",
         "date": "3/20/2023",
         "amount": 150
-      },
-      {
-        "name": "Gary Rosen",
-        "date": "10/24/2005",
-        "amount": 50
       },
       {
         "name": "Moe Bergman",
@@ -9256,6 +9246,11 @@
         "amount": 75
       },
       {
+        "name": "Khrystian King",
+        "date": "4/24/2023",
+        "amount": 50
+      },
+      {
         "name": "Moe Bergman",
         "date": "6/27/2023",
         "amount": 50
@@ -9268,11 +9263,6 @@
       {
         "name": "Moe Bergman",
         "date": "10/22/2021",
-        "amount": 50
-      },
-      {
-        "name": "Khrystian King",
-        "date": "4/24/2023",
         "amount": 50
       },
       {
@@ -9982,26 +9972,6 @@
         "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "date": "3/7/2025",
-        "amount": 50
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "10/20/2023",
-        "amount": 50
-      },
-      {
-        "name": "Kate Toomey",
-        "date": "4/25/2022",
-        "amount": 50
-      },
-      {
-        "name": "Jose Rivera",
-        "date": "3/8/2023",
-        "amount": 50
-      },
-      {
         "name": "Gary Rosen",
         "date": "5/21/2025",
         "amount": 500
@@ -10035,6 +10005,26 @@
         "name": "Gary Rosen",
         "date": "5/10/2005",
         "amount": 100
+      },
+      {
+        "name": "Jose Rivera",
+        "date": "3/8/2023",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "3/7/2025",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "10/20/2023",
+        "amount": 50
+      },
+      {
+        "name": "Kate Toomey",
+        "date": "4/25/2022",
+        "amount": 50
       },
       {
         "name": "Moe Bergman",

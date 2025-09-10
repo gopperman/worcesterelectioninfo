@@ -4,7 +4,6 @@ const { parse } = require('csv-parse')
 let candidates = [
   { name: 'Candy Mero-Carlson'},
   { name: 'Cayden Davis' },
-  { name: 'Charles Luster' },
   { name: 'Donna Colorio' },
   { name: 'Edson Montero' },
   { name: 'Etel Haxhiaj'},
