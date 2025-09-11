@@ -1,5 +1,6 @@
 const fs = require('fs')
 const { parse } = require('csv-parse')
+const converter = require('json-2-csv')
 
 let candidates = [
   { name: 'Candy Mero-Carlson'},
@@ -270,13 +271,19 @@ Promise.all(currentPromises).then((x) => {
     // Write All-time Donor Data
     writeFile('all-time-donors.json', sortDonors(allTimeDonors).slice(1,101))
 
-    writeFile('current-cycle-top-donors.json', sortDonors(currentCycleDonors).slice(0,100))
+    // Write Current Donor Files
+    const sortedCurrentDonors = sortDonors(currentCycleDonors)
+    writeFile('current-cycle-top-donors.json', sortedCurrentDonors.slice(0,100))
+
+    // Remove donors for CSV export
+    const currentDonorsForCSV = sortedCurrentDonors.map(({donations, ...keep}) => keep)
+    writeFile('current-cycle-all-donors.csv', converter.json2csv(currentDonorsForCSV), false)
   })
 })
 
-const writeFile = (filename, data) => {
+const writeFile = (filename, data, stringify = true) => {
   const filePath = `../_data/${filename}`
-  const dataString = JSON.stringify(data, null, 2)
+  const dataString = stringify ? JSON.stringify(data, null, 2) : data
 
   fs.writeFile(filePath, dataString, (err) => {
       if (err) {
