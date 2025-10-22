@@ -1,30 +1,59 @@
 Date,Contributor,Address,City,State,Zip,Occupation,Employer,Principal Officer,Amount,CPF ID,Recipient,Tender Type ID,Tender Type Description,Record Type ID,Record Type Description,Source Description
-8/13/2025,"Boasiako, Mishana",,Leominster,MA,01453,Rehab Support Staff,Worcester Recovery Center,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/13/25 Deposit Report
-8/11/2025,"Missah, Ellamarie",,,MA,,,,,$10.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/11/25 Deposit Report
-8/7/2025,"Akande, Abisola",,Worcester,MA,01601,,,,$21.10,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/7/25 Deposit Report
+10/10/2025,"Acheampong, Samuel",4 Gilman Street,Worcester,MA,01605,Nurse,St. Vincent Hospital,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/10/25 Deposit Report
+10/8/2025,"Acheampong Jr., Emmanuel",4 Gilman Street,Worcester,MA,01605,Student,,,$51.99,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Agyeman, Bismark",31a Acton Street,Worcester,MA,01604,Home Health Aide,Self-employed,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Amanfo Gyimah, Eric",32 Randall Street,Worcester,MA,01606,Driver,UBER,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Amoah-Dankwah, Georgina",121 Coolidge Road,Worcester,MA,01602,Nurse,Jewish Home,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Awuah, Charles",229 Vernon Street #10,Worcester,MA,01610,Machine Technician,ALPHA ANALYTICAL,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Duah, Deborah",21 Kalmar Street,Worcester,MA,01606,CNA,Visiting Angels,,$40.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Nantwi, George",11 Goldthwaite Road #11f,Worcester,MA,01605,Machine Technician,ALPHA ANALYTICAL,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Nantwi, Sharon",89 Harrison Street,Worcester,MA,01604,Child Care Specialist,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Oppong, John",16 Allston Street,Worcester,MA,01604,Machine Technician,Self-employed,,$40.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Oppong, Rita",16 Allston Avenue,Worcester,MA,01604,Mental Health Counselor,Worcester Recovery Center,,$40.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Sarkodieh, Kwame A",37 Superior Road,Worcester,MA,01604,Home Health Aide,Beaumont,,$40.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Tiwaa, Rita",89 Harrison Street,Worcester,MA,01604,Machine Technician,ALPHA ANALYTICAL,,$20.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/8/2025,"Twum Barima, Daniel",21 Kalmar Street,Worcester,MA,01606,Driver,UBER,,$40.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,10/8/25 Deposit Report
+10/7/2025,"Acheampong, Emmanuel",4 Gilman Street,Worcester,MA,01605,Patient Care Associate,Assisted Living,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/7/25 Deposit Report
+10/7/2025,"Opoku, Gabriel",10 Garland Street,Worcester,MA,01601,Computer Engineer,UMASS Memorial Medical Center,,$51.99,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/7/25 Deposit Report
+10/6/2025,"Acheampong, Sarah",14 State Street,Oxford,MA,01540,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",1,Check,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Amissah, Samuel",100 Park Avenue,Webster,MA,01570,Mental Health Counselor,UMASS Memorial Medical Center,,$50.00,17125,"Sarkodieh, Owura-Kwaku",1,Check,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Antwi, Justice",56 White Avenue,Worcester,MA,01605,Mental Health Counselor,Group Home,,$50.00,17125,"Sarkodieh, Owura-Kwaku",1,Check,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Artey, Pamela",,Dudley,MA,01571,Nurse,,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Mburu, Caroline",,Worcester,MA,01601,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Penn, Noella",255 Park Avenue,Worcester,MA,01609,Financial Advisor,WFG,,$515.38,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Phillips, Caley",9 Main Circle,Shrewsbury,MA,01545,Rehab C,Worcester Recovery Center,,$21.10,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/6/25 Deposit Report
+10/6/2025,"Sarkodieh, Jojo",22 Wayside Road,Worcester,MA,01605,Mental Health Counselor,Worcester Recovery Center,,$200.00,17125,"Sarkodieh, Owura-Kwaku",1,Check,201,Individual,10/6/25 Deposit Report
+10/3/2025,"Asensoh, Isaac",184 Greenville Street,Spencer,MA,01562,Rehab Support Staff,UMASS Memorial Medical Center,,$51.99,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/3/25 Deposit Report
+10/3/2025,"Salifu, Mariam",,Worcester,MA,01601,,,,$31.40,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,10/3/25 Deposit Report
+9/15/2025,"Shea, J. Tim",118 Parker Street Unit 26,Acton,MA,01720,Industry Analyst,Jts Market Intelligence,,$257.94,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,9/15/25 Deposit Report
+9/11/2025,"Kusi-appouh, Abel",259 East 45th Street #2,Brooklyn,NY,11203,Engineer,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,9/11/25 Deposit Report
+9/10/2025,"Crawford, Ayieta",9124 Autovile Drive,College Park,MD,20740,Practice Manager,Tails and Scales Veterinary Center,,$5.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,9/10/25 Deposit Report
+9/2/2025,"Oppong, Gifty",16d Kennebec Street,Worcester,MA,01606,Nurse,Seven Hills Foundation,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,9/2/25 Deposit Report
+8/14/2025,"Boasiako, Mishana",,Leominster,MA,01453,Rehab Support Staff,Worcester Recovery Center,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/14/25 Deposit Report
+8/13/2025,"Missah, Ellamarie",,,MA,,,,,$10.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/13/25 Deposit Report
+8/11/2025,"Akande, Abisola",,Worcester,MA,01601,,,,$21.10,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/11/25 Deposit Report
 8/7/2025,"Vandyke, Yaw",,,MA,,,,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/7/25 Deposit Report
-8/3/2025,"Gyimah, Eric",32 Randall Street,Worcester,MA,01606,Nurse,Babette Home Care,,$200.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/3/25 Deposit Report
+8/4/2025,"Gyimah, Eric",32 Randall Street,Worcester,MA,01606,Nurse,Babette Home Care,,$200.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/4/25 Deposit Report
+8/1/2025,"Adu-gyamfi, Frank",20331 Scarlett Saddle Ct,Crpress,TX,77433,Sales Associate,Davis Chevrolet,,$103.48,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
+8/1/2025,"Annin, Joyce",36 Nutmeg Drive,Worcester,MA,01601,Nurse,,,$41.69,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
+8/1/2025,"Boakye, Janet",10 Garland Street,Worcester,MA,01601,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
+8/1/2025,"Bonah, Christina",3 Tyson Terrace,Worcester,MA,01606,Retailer,Ewura's Fashion,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
+8/1/2025,"Gyimah, Eric",32 Randall Street,Worcester,MA,01606,Nurse,,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
+8/1/2025,"Opoku, Gabriel",10 Garland Street,Worcester,MA,01601,Computer Engineer,UMASS Memorial Medical Center,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
 8/1/2025,"Owusu, Berko",280 S. Schmidt,Bolingbrook,IL,60440,Newspaper Editor,African Spectrum Newspaper,,$500.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
 8/1/2025,"Owusu, Joseph",4701 Kenmore Avenue Apt. 817,Alexandria,VA,22304,Shipper,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,8/1/25 Deposit Report
-7/31/2025,"Adu-gyamfi, Frank",20331 Scarlett Saddle Ct,Crpress,TX,77433,Sales Associate,Davis Chevrolet,,$103.48,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
-7/31/2025,"Annin, Joyce",36 Nutmeg Drive,Worcester,MA,01601,Nurse,,,$41.69,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
-7/31/2025,"Boakye, Janet",10 Garland Street,Worcester,MA,01601,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
-7/31/2025,"Bonah, Christina",3 Tyson Terrace,Worcester,MA,01606,Retailer,Ewura's Fashion,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
-7/31/2025,"Gyimah, Eric",32 Randall Street,Worcester,MA,01606,Nurse,,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
-7/31/2025,"Opoku, Gabriel",10 Garland Street,Worcester,MA,01601,Computer Engineer,UMASS Memorial Medical Center,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/31/25 Deposit Report
 7/30/2025,"Sarkodieh, Owura-Kwaku",32 Randall Street,Worcester,MA,01606,,,,$700.00,17125,"Sarkodieh, Owura-Kwaku",4,Transfer,206,Candidate Loan,7/30/25 Deposit Report
-7/23/2025,"Boakye, Janet",10 Garland Street,Worcester,MA,01601,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/23/25 Deposit Report
+7/24/2025,"Boakye, Janet",10 Garland Street,Worcester,MA,01601,Nurse,Beaumont,,$50.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/24/25 Deposit Report
+7/24/2025,"Twumasi, Esther",9 Arrowhead Way,Rutland,MA,01543,Realtor,Century 21 Xsell Realty,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/24/25 Deposit Report
 7/23/2025,"Sarkodieh, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Beaumont,,$500.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/23/25 Deposit Report
-7/23/2025,"Twumasi, Esther",,Worcester,MA,01601,Nurse,,,$20.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/23/25 Deposit Report
-7/20/2025,"Dotse, Christopher",8 Sever Street,Worcester,MA,01609,Shipper,Self-employed,,$103.48,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/20/25 Deposit Report
-7/20/2025,"Sarkodieh, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Beaumont,,$500.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/20/25 Deposit Report
+7/21/2025,"Dotse, Christopher",8 Sever Street,Worcester,MA,01609,Shipper,Self-employed,,$103.48,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/21/25 Deposit Report
 7/16/2025,"Asafu-adjaye, J. N.",384 Sunderland Road,Worcester,MA,01604,Facilities Maintenance Worker,Worcester Polytechnic Institute,,$50.00,17125,"Sarkodieh, Owura-Kwaku",1,Check,201,Individual,7/16/25 Deposit Report
-7/13/2025,"Agyeman, Kofi",,Worcester,MA,01601,,,,$26.25,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/13/25 Deposit Report
-7/12/2025,"Tiku-henry, Roseline",Elnora Street,Worcester,MA,01606,Nurse,Beaumont,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/12/25 Deposit Report
+7/15/2025,"Agyeman, Kofi",,Worcester,MA,01601,,,,$26.25,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/15/25 Deposit Report
+7/15/2025,"Tiku-henry, Roseline",Elnora Street,Worcester,MA,01606,Nurse,Beaumont,,$100.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/15/25 Deposit Report
+7/14/2025,"Acheampong, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Jewish Home,,$97.74,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/14/25 Deposit Report
 7/9/2025,"Agyeman, Kofi",,Worcester,MA,01601,,,,$0.01,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/9/25 Deposit Report
+7/7/2025,"Acheampong, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Jewish Home,,$300.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/7/25 Deposit Report
 7/7/2025,"Sarkodieh, Owura-Kwaku",32 Randall Street,Worcester,MA,01606,,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,206,Candidate Loan,7/7/25 Deposit Report
 7/7/2025,"Sarkodieh, Owura-kwaku",32 Randall Street,Worcester,MA,01606,Rehab Counselor,Worcester Recovery Center,,$200.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,201,Individual,7/7/25 Deposit Report
 7/7/2025,"Sarkodieh, Owura-Kwaku",32 Randall Street,Worcester,MA,01606,,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,206,Candidate Loan,7/7/25 Deposit Report
-7/3/2025,"Acheampong, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Jewish Home,,$400.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/3/25 Deposit Report
-7/3/2025,"Acheampong, Charity",32 Randall Street,Worcester,MA,01606,Nurse,Jewish Home,,$10.00,17125,"Sarkodieh, Owura-Kwaku",3,Credit Card,201,Individual,7/3/25 Deposit Report
 5/19/2025,"Sarkodieh, Owura-Kwaku",32 Randall Street,Worcester,MA,01606,,,,$50.00,17125,"Sarkodieh, Owura-Kwaku",6,Cash,206,Candidate Loan,5/19/25 Deposit Report
