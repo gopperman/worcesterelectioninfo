@@ -60,6 +60,7 @@ const titlecase = (v) => {
   // Irish cases
   name = name.replace("O'c", "O'C")
   name = name.replace("O'h", "O'H")
+  name = name.replace("O'd", "O'D")
 
   // Corp cases
   name = name.replace(" Pac", " PAC")
@@ -83,6 +84,11 @@ const normalizeNames = (name) => {
   n = n.replace (" (Candidate Loan)", "")
   n = n.replace (" (Loan)", "")
 
+  // Normalize Committees
+  n = n.replace ("Commitee", "Committee")
+  n = n.replace ("Comm ", "Committee ")
+  n = n.replace ("Comm.", "Committee")
+
   // Joe Petty Rule
   n = n.replace ("Joseph M.", "Joseph")
 
@@ -96,6 +102,42 @@ const normalizeNames = (name) => {
   n = n.replace ("Owura-kwaku P.", "Owura")
   n = n.replace ("Owura-kwaku", "Owura")
 
+  // The Krocks
+  n = n.replace ("Janet, Krock", "Krock, Janet") // Janet appears in the wrong order for one donation
+  n = n.replace ("Krock, Kathryn E", "Krock, Kathryn")
+  n = n.replace ("Krock, Kathryn", "Parvin, Kathryn (Crock)")
+  n = n.replace ("Parvin, Kathryn", "Parvin, Kathryn (Crock)")
+
+  n = n.replace ("Gavel, Adam", "Gaval, Adam")
+
+  // Sallooms
+  // // Donna's more recently listed as Salloom, not Salloom George
+  n = n.replace ("George, Donna Saloom", "Salloom, Donna")
+  n = n.replace ("George, Donna Salloom", "Salloom, Donna")
+  n = n.replace ("Salloom George", "Salloom")
+
+  n = n.replace ("Saloom, Jr., Edwards", "Salloom Jr., Edward")
+  n = n.replace ("Salloom, Jr., Edward", "Salloom Jr., Edward")
+  n = n.replace ("Saloom, Jr.", "Salloom Jr.")
+  n = n.replace ("Salloom, Edward Jr", "Salloom Jr., Edward")
+
+  n = n.replace ("Salloom, Edward G", "Salloom Sr., Edward")
+  if (n === "Salloom, Edward") n = "Salloom Sr., Edward"
+
+  // O'Connors
+  n = n.replace ("O'Conner, Daniel", "O'Connor, Daniel")
+  n = n.replace ("O'Connor, Dan", "O'Connor, Daniel")
+  n = n.replace ("O'Conner, Claire", "O'Connor, Claire")
+
+  // Rucker Rule
+  n = n.replace ("Rucker, Clifford", "Rucker, Cliff")
+
+  // O'Days
+  n = n.replace ("James  O'Day", "James O'Day")
+  n = n.replace ("Murphy-o'day", "O'Day")
+  n = n.replace ("Elect James J. O'Day", "Elect James O'Day")
+  n = n.replace ("James J O'Day", "James O'Day")
+  if (n === "O'Day Committee") n = "James O'Day Committee"
 
   return n.trimEnd()
 }
@@ -140,6 +182,11 @@ const processAllTime = (candidate) => {
                 date: row.Date,
                 amount: amt
             })
+            if (candidate.name in allTimeDonors[Contributor].donationTotals) {
+              allTimeDonors[Contributor].donationTotals[candidate.name] += amt
+            } else {
+              allTimeDonors[Contributor].donationTotals[candidate.name] = amt
+            }
           } else {
             allTimeDonors[Contributor] = {
               total: amt,
@@ -149,7 +196,10 @@ const processAllTime = (candidate) => {
                 name: candidate.name,
                 date: row.Date,
                 amount: amt
-              }]
+              }],
+              donationTotals: {
+                [candidate.name]: amt
+              }
             }
           }
         }
@@ -269,7 +319,7 @@ Promise.all(currentPromises).then((x) => {
     writeFile('candidates.json', z)
 
     // Write All-time Donor Data
-    writeFile('all-time-donors.json', sortDonors(allTimeDonors).slice(1,101))
+    writeFile('all-time-donors.json', sortDonors(allTimeDonors))
 
     // Write Current Donor Files
     const sortedCurrentDonors = sortDonors(currentCycleDonors)
