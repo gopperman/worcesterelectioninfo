@@ -105,8 +105,8 @@ const normalizeNames = (name) => {
   // The Krocks
   n = n.replace ("Janet, Krock", "Krock, Janet") // Janet appears in the wrong order for one donation
   n = n.replace ("Krock, Kathryn E", "Krock, Kathryn")
-  n = n.replace ("Krock, Kathryn", "Parvin, Kathryn (Crock)")
-  n = n.replace ("Parvin, Kathryn", "Parvin, Kathryn (Crock)")
+  n = n.replace ("Parvin, Kathryn", "Parvin, Kathryn (Krock)")
+  n = n.replace ("Krock, Kathryn", "Parvin, Kathryn (Krock)")
 
   n = n.replace ("Gavel, Adam", "Gaval, Adam")
 
@@ -125,8 +125,8 @@ const normalizeNames = (name) => {
   if (n === "Salloom, Edward") n = "Salloom Sr., Edward"
 
   // O'Connors
-  n = n.replace ("O'Conner, Daniel", "O'Connor, Daniel")
-  n = n.replace ("O'Connor, Dan", "O'Connor, Daniel")
+  n = n.replace ("O'Connor, Daniel", "O'Connor, Dan")
+  n = n.replace ("O'Conner, Daniel", "O'Connor, Dan")
   n = n.replace ("O'Conner, Claire", "O'Connor, Claire")
 
   // Rucker Rule
@@ -138,6 +138,15 @@ const normalizeNames = (name) => {
   n = n.replace ("Elect James J. O'Day", "Elect James O'Day")
   n = n.replace ("James J O'Day", "James O'Day")
   if (n === "O'Day Committee") n = "James O'Day Committee"
+
+  // Tim Murray
+  n = n.replace ("Murray, Timothy", "Murray, Tim")
+
+  // Jeremiah Bianculi
+  n = n.replace ("Bianculli, Jeremiah J", "Bianculli, Jeremiah")
+
+  // Jeff Burk
+  n = n.replace ("Burk, Jeffrey", "Burk, Jeff")
 
   return n.trimEnd()
 }
@@ -253,11 +262,25 @@ const processfile = (candidate) => {
         if (Contributor !== "Aggregated Unitemized Receipts" && Contributor !== "") {
           if (Contributor in currentCycleDonors) {
             currentCycleDonors[Contributor].total += amount
+
+            const canIndex = currentCycleDonors[Contributor].donations.findIndex((v) => v.name === candidate.name)
+            if (canIndex !== -1) {
+              currentCycleDonors[Contributor].donations[canIndex].amount += amt
+            } else {
+              currentCycleDonors[Contributor].donations.push({
+                name: candidate.name,
+                amount: amt
+              })
+            }
+
+            /* Flip this back on if you want granular donations, by date */
+            /*
             currentCycleDonors[Contributor].donations.push({
                 name: candidate.name,
                 date: row.Date,
                 amount: amt
             })
+            */
           } else {
             currentCycleDonors[Contributor] = {
               total: amt,
@@ -265,7 +288,6 @@ const processfile = (candidate) => {
               state: State.toUpperCase(),
               donations: [{
                 name: candidate.name,
-                date: row.Date,
                 amount: amt
               }]
             }
@@ -295,7 +317,7 @@ const processfile = (candidate) => {
       })
       .on('error', (err) => {
         reject(err)
-    })
+      })
   })
 }
 
@@ -319,10 +341,17 @@ Promise.all(currentPromises).then((x) => {
     writeFile('candidates.json', z)
 
     // Write All-time Donor Data
-    writeFile('all-time-donors.json', sortDonors(allTimeDonors))
+    const sortedAllTimeDonors = sortDonors(allTimeDonors)
+    writeFile('all-time-donors.json', sortedAllTimeDonors)
+
+    //Build Current Donors
+    const sortedCurrentDonors = sortDonors(currentCycleDonors)
+    aggregateDonorData(sortedCurrentDonors, sortedAllTimeDonors).then((data) => {
+      writeFile('current-cycle-donors.json', data.donors)
+      writeFile('current-cycle-stats.json', data.donorStats)
+    })
 
     // Write Current Donor Files
-    const sortedCurrentDonors = sortDonors(currentCycleDonors)
     writeFile('current-cycle-top-donors.json', sortedCurrentDonors.slice(0,100))
 
     // Remove donors for CSV export
@@ -330,6 +359,109 @@ Promise.all(currentPromises).then((x) => {
     writeFile('current-cycle-all-donors.csv', converter.json2csv(currentDonorsForCSV), false)
   })
 })
+
+
+/**
+ * Add lifetime donation totals to current cycle donors, and metadata from external spreadsheet
+ * @param  {array} currentCycleDonors [description]
+ * @param  {array} allTimeDonors      [description]
+ * @return {array}                    [description]
+ */
+const aggregateDonorData = (currentCycleDonors, allTimeDonors) => {
+  return new Promise( (resolve, reject) => {
+    let donorStats = {
+      tags: {},
+      CoC: {
+        total: 0,
+        count: 0
+      }
+    }
+
+    let aggregate = currentCycleDonors.map( (donor) => {
+      const donorMatch = allTimeDonors.find(d => d.name === donor.name)
+      if (donorMatch) {
+        return {
+          ...donor,
+          lifetimeTotal: donorMatch.total,
+          donationTotals: donorMatch.donationTotals
+        }
+      } else {
+        let donationTotals = {}
+        donor.donations.forEach( i => {
+          if (donationTotals[donor.name]) {
+            donationTotals[donor.name] += i.amount
+          } else {
+            donationTotals[donoor.name] = amount
+          }
+        })
+        return {
+          ...donor,
+          lifetimeTotal: donor.total,
+          donationTotals
+        }
+      }
+    })
+
+    // Add metadata
+    const donorMetaFile = './data/donor-info.csv'
+    fs.createReadStream(donorMetaFile)
+      .pipe(parse({ columns: true, skip_empty_lines: true }))
+      .on('data', (row) => {
+        const index = aggregate.findIndex( d => d.name === normalizeNames(titlecase(row.Name)))
+        if (index !== -1) {
+          aggregate[index] = {
+            ...aggregate[index],
+            CoC: row['Chamber of Commerce?'] === 'TRUE' ? true : false,
+            job: row.Job,
+            company: row.Company,
+            source: row.Source,
+            description: row.Description,
+            notes: row['Additional Notes']
+          }
+          if (row['Category 1']) {
+            aggregate[index].tags = [row['Category 1']]
+            if (row['Category 1'] in donorStats.tags) {
+              donorStats.tags[row['Category 1']].total += aggregate[index].total
+              donorStats.tags[row['Category 1']].count++
+            } else {
+              donorStats.tags[row['Category 1']] = {
+                total: aggregate[index].total,
+                count: 1
+              }
+            }
+          }
+          if (row['Category 2']) {
+            aggregate[index].tags.push(row['Category 2'])
+
+            if (row['Category 2'] in donorStats.tags) {
+              donorStats.tags[row['Category 2']]['total'] += aggregate[index].total
+              donorStats.tags[row['Category 2']].count++
+            } else {
+              donorStats.tags[row['Category 2']] = {
+                total: aggregate[index].total,
+                count: 0
+              }
+            }
+          }
+
+          // Chamber of Commerce Stats
+          if (row['Chamber of Commerce?'] === 'TRUE') {
+            donorStats.CoC.total += aggregate[index].total
+            donorStats.CoC.count++
+          }
+        }
+      })
+      .on('end', () => {
+        resolve({
+          donorStats,
+          donors: aggregate
+        })
+      })
+      .on('error', (err) => {
+        reject(err)
+      })
+  })
+}
 
 const writeFile = (filename, data, stringify = true) => {
   const filePath = `../_data/${filename}`

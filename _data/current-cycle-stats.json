@@ -1,0 +1,108 @@
+{
+  "tags": {
+    "Business": {
+      "total": 48651.89,
+      "count": 35
+    },
+    "Education": {
+      "total": 18200,
+      "count": 9
+    },
+    "PAC": {
+      "total": 22350,
+      "count": 13
+    },
+    "Real Estate": {
+      "total": 64745.48,
+      "count": 47
+    },
+    "Finance": {
+      "total": 15050,
+      "count": 11
+    },
+    "Construction": {
+      "total": 10425,
+      "count": 5
+    },
+    "Medicine": {
+      "total": 18962,
+      "count": 18
+    },
+    "Government": {
+      "total": 10325,
+      "count": 9
+    },
+    "Retired": {
+      "total": 2000,
+      "count": 1
+    },
+    "Family": {
+      "total": 12850,
+      "count": 12
+    },
+    "Tech": {
+      "total": 20400,
+      "count": 21
+    },
+    "Labor": {
+      "total": 11375,
+      "count": 12
+    },
+    "Law": {
+      "total": 10850,
+      "count": 12
+    },
+    "Healthcare": {
+      "total": 18016.05,
+      "count": 18
+    },
+    "Social Services": {
+      "total": 6080,
+      "count": 3
+    },
+    "Insurance": {
+      "total": 2350,
+      "count": 2
+    },
+    "Non-profit": {
+      "total": 1700,
+      "count": 1
+    },
+    "Sports": {
+      "total": 4000,
+      "count": 1
+    },
+    "Biotech": {
+      "total": 2000,
+      "count": 2
+    },
+    "Police": {
+      "total": 3175,
+      "count": 4
+    },
+    "Media": {
+      "total": 1800,
+      "count": 2
+    },
+    "Politics": {
+      "total": 600,
+      "count": 1
+    },
+    "Transportation": {
+      "total": 500,
+      "count": 1
+    },
+    "Cannabis": {
+      "total": 500,
+      "count": 1
+    },
+    "Journalism": {
+      "total": 160,
+      "count": 1
+    }
+  },
+  "CoC": {
+    "total": 102877.94,
+    "count": 64
+  }
+}

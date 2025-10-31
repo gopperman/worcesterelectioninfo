@@ -1,0 +1,62 @@
+---
+title: "2025 Election: The Donors"
+description: "Find out Worcester's major donors, who they are, and who they're supporting"
+layout: generic
+---
+<main>
+  <section>
+    {% assign donors = current-cycle-donors | slice: 0, 200 %}
+    <h2>Who are the biggest donors in the 2025 City Council Election?</h2>
+    <p class="section__description">To get a sense of Worcester’s largest political donor base, we aggregated all campaign contributions from 2024-2025. We research each and every one of the top 200 donors: who they are, where they work, and their business connections. Every single one of these donors has a story. While this research barely scratches the surface of Worcester’s complex patronage network, the data definitively shows who our City Council candidates serve, and who stands to profit from the influence that comes with relatively modest donations to those candidates.</p>
+    {% for donor in donors %}
+      <div class="card donor">
+        <div class="donor__grid">
+          <div class="donor__info">
+            <h3 class="donor__name">#{{ forloop.index }}: {{donor.name | firstlast }}</h3>
+            {% if donor.city != '' %}
+              <h4>{{donor.city}}, {{donor.state}}</h4>
+            {% endif %}
+            <div class="donor__tags">
+              {% for tag in donor.tags %}
+                <span class="tag tag--{{tag | downcase | kebab }}">{{tag}}</span>
+              {% endfor %}
+            </div>
+            <p class="donor__description">{{donor.description}}</p>
+          </div>
+          <div class="donor__donations">
+            <h3>Total Contributions</h3>
+            <div class="donor__totals">
+              {% assign donor_size = donor.donations | size %}
+              {% unless donor_size == 1 %}
+                <div class="bignumber__container grid grid--2">
+                  <div>
+                    <h4 class="donor__contrib-hed">2024-2025</h4>
+                    <p class="bignumber">{{donor.total | money}}</p>
+                  </div>
+                  <div>
+                    <h4 class="donor__contrib-hed">Lifetime</h4>
+                    <p class="bignumber bignumber--alt">{{donor.lifetimeTotal | money}}</p>
+                  </div>
+                </div>
+              {% endunless %}
+            </div>
+          </div>
+        </div>
+        <table>
+          <tr>
+            <th>Candidate</th>
+            <th>2024-25</th>
+            <th>Lifetime</th>
+          </tr>
+          {% for candidate in donor.donations %}
+          <tr>
+            <td class="table__candidate">{{candidate.name}}</td>
+            <td class="table__value">{{candidate.amount | money}}</td>
+            <td class="table__percent">{{donor.donationTotals[candidate.name] | money }}</td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+    {% endfor %}
+  </section>
+</main>

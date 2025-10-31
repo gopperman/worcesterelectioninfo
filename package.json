@@ -21,6 +21,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "csv": "^6.4.1",
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^5.5.9"
   }
 }

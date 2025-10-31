@@ -219,6 +219,12 @@ a:hover, a:active {
   transform: rotate(-8deg) scale(0.24);
 }
 
+.crown--petty:after {
+  top: -68px;
+  right: 146px;
+  transform: rotate(-8deg) scale(0.24);
+}
+
 .crown--sarkodieh:after,
 .crown--pepple:after,
 .crown--rosen:after {

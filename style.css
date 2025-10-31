@@ -18,6 +18,8 @@
   --mint: #dafdbf;
   --olive: #99b186;
   --green: #38c495;
+  --orange: #F0802B;
+  --red: #C43C39;
 }
 
 /** Layout **/
@@ -217,6 +219,12 @@ a:hover, a:active {
   transform: rotate(-8deg) scale(0.24);
 }
 
+.crown--petty:after {
+  top: -68px;
+  right: 146px;
+  transform: rotate(-8deg) scale(0.24);
+}
+
 .crown--sarkodieh:after,
 .crown--pepple:after,
 .crown--rosen:after {
@@ -375,6 +383,85 @@ tr:first-child {
   background: var(--lavender);
 }
 
+/** Donor */
+.donor {
+  &.card h3 {
+    margin-bottom: 0;
+  }
+
+  h4 {
+    font-weight: normal;
+    font-style: italic;
+    margin-top: 0;
+
+    &.donor__contrib-hed {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 1.1em;
+      margin-top: .5em;
+    }
+  }
+
+  .bignumber {
+    font-size: 3em;
+    margin: 0 auto;
+  }
+}
+
+.donor__info {
+  margin-bottom: 20px;
+}
+
+.donor__tags {
+  margin: 10px auto 20px;
+}
+
+.donor__name {
+  font-size: 1.8em;
+}
+
+/** Tags **/
+.tag {
+  color: var(--off-white);
+  padding: 5px 10px;
+  background: var(--black);
+  border-radius: 25px;
+  font-weight: bold;
+  margin: 15px auto;
+}
+
+.tag--finance {
+  background: var(--green);
+}
+
+.tag--real-estate {
+  background: var(--orange);
+}
+
+.tag--business {
+  background: var(--purple);
+}
+
+.tag--education {
+  background: var(--mudkip);
+}
+
+.tag--pac {
+  background: var(--black);
+}
+
+.tag--construction {
+  background: var(--red);
+}
+
+.tag--social-services {
+  background: var(--blue-light);
+  color: var(--black);
+}
+
+.tag--healthcare {
+  background: var(--blue);
+}
 /** Cards **/
 .card {
   border: 2px solid var(--mudkip);
@@ -524,6 +611,11 @@ tr:first-child {
   font-weight: bold;
 }
 
+.bignumber__container {
+  max-width: 440px;
+  margin: 0 auto;
+}
+
 .card .bignumber--donor {
   margin: 0;
 }
@@ -644,6 +736,18 @@ tr:first-child {
   .down {
     margin-bottom: 25px;
   }
+
+  .donor__grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+
+  }
+
+  .grid--donor {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .grid--3, .grid--4 {
     grid-template-columns: repeat(3, 1fr);
   }

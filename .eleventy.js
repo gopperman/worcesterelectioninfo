@@ -63,6 +63,10 @@ module.exports = function (eleventyConfig) {
     )
   })
 
+  eleventyConfig.addFilter("kebab", (v) => {
+    return v.replace(' ', '-')
+  })
+
   eleventyConfig.addFilter("isAtLarge", (v) => {
     return v.data.tags.includes("atlarge")
   })
