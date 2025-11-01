@@ -1,7 +1,7 @@
 Name,Total,City,State,Category 1,Category 2,Chamber of Commerce?,Job,Company,Source,Description,Additional Notes
 "Yatim, Hassan",9500,Shrewsbury,MA,Business,,TRUE,COO,Yatco,https://www.linkedin.com/in/hassanyatim/,"Hassan co-owns over 20 gas stations (including 4 in Worcester) with his brother, Tarek.","https://archive.ph/WOikA
 https://archive.ph/yF6lc"
-"Pezzella, Robert",4850,Worcester,MA,Education,,FALSE,School Safety Director (Retired),Worcester Public Schools,https://www.robertpezzella.com/about,"In addition to funding his own campaign, Pezzella has given to Kate Toomey and Donna Colorio",
+"Robert Pezzella",4850,Worcester,MA,Candidate,,FALSE,"School Safety Director (Retired)","Worcester Public Schools",https://www.robertpezzella.com/about,"Robert Pezzella is the former school safety director for Worcester Public Schools. His tenure was marred by accusations that he enforced racially-disproportionate discipline models, i.e punished minority students more severerely than their counterparts. In addition to funding his own campaign, Pezzella has given to Kate Toomey and Donna Colorio",
 Ma & Northern Ne Laborers' District Council Pol Action Comm,4000,Hopkinton,MA,PAC,,FALSE,,,,,
 "Krock, Kathryn",4000,Worcester,MA,Real Estate,,TRUE,Owner,"Commerce Associates, Central Building Development Group",https://www.wbjournal.com/article/2020-power-50-kathryn-krock,"Kathryn Krock Parvin is one of the heirs of the Krock family real estate empire. Along with her husband Kevin and her brother Aaron, she owns millions of dollars of commercial and residential real estate around Worcester.",https://www.telegram.com/story/news/local/north/2015/01/03/worcester-family-s-vacant-land/35605386007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=z113632e004000v113632b0041xxd004165&gca-ft=177&gca-ds=sophi
 "Norton, Charles",4000,Dover,MA,Real Estate,,FALSE,Manager,Franklin Realty Advisors,,"Charles ""Chip"" Norton is the manager of  Franklin Realty Advisors and the largest commercial property owner in Central Massachusetts. He recently declared bankruptcy with over $70 million in unpaid taxes and debts.",https://www.wbjournal.com/article/chip-norton-owner-of-mercantile-center-files-for-bankruptcy-amid-lawsuits-70m-in-debt
@@ -29,7 +29,7 @@ Ironworkers Union Local 7 Pol Action Comm,2000,South Boston,MA,PAC,,FALSE,,,,,
 "Mitra, Abiskar",2000,Brooklyn,NY,Family,,FALSE,"SVP, Business Affairs",Major League Soccer,https://www.linkedin.com/in/abiskar-mitra-0a22a4100/,"Abiskar is the son of Satya Mitra,  and works as an executive at Major League Soccer in New York.",
 "Logan, Thomas",2000,Worcester,MA,Real Estate,,FALSE,"Actuary (Retired), Landlord",Allstate,,"Thomas J. Logan is a retired actuary and is listed as the president of T. Logan Enterprises, Inc., a real estate investment company. ",
 "Mitra, Alingon",2000,Worcester,MA,Family,,FALSE,Comedian,,https://www.alingonmitra.com/,Alingon Mitra is Satya Mitra's youngest son and a stand up comedian based in New York City. He appeared on Last Comic Standing and has written for The Daily Show with Trevor Noah.,Also on the board of Joy Guru humanitarian services? https://nebusinessmedia.uberflip.com/i/1476227-wbj-giving-guide-2022/31?
-"Jangareddi, Ramesh",2000,Franklin,MA,Tech,Real Estate,FALSE,Owner,Vigiboss,,"Ramesh Jangareddi is a multi-faceted businessman. Jangareddi owns a tech consulting company called Vigiboss, a software consultancy that utilizes offshore labor in India. He is listed as the owner of several generically-named real estate holding companies in Massachusetts. Since 2012, he has owned Mayuri Indian Cousine in Westborough. Full disclosure: I am a big fan of their lunch buffet.",
+"Jangareddi, Ramesh",2000,Franklin,MA,Tech,Real Estate,FALSE,Owner,Vigiboss,,"Jangareddi owns a tech consulting company called Vigiboss, a software consultancy that utilizes offshore labor in India. He is listed as the owner of several generically-named real estate holding companies in Massachusetts. Since 2012, he has owned Mayuri Indian Cousine in Westborough. Full disclosure: I am a big fan of their lunch buffet.",
 "Mitra, Supriya",2000,Worcester,MA,Family,,TRUE,Client Relations,The Guru Tax & Financial Services,,Supriya Mitra is the wife of Satya Mitra.,
 I.b.e.w Local Union 96 PAC,1750,Worcester,MA,PAC,,FALSE,,,,,
 "Bilotta, Robert",1625,Worcester,MA,,,FALSE,,,,,
@@ -102,7 +102,7 @@ Worcester-fitchburg Building Trades Councel,1000,West Boylston,MA,PAC,,FALSE,,,,
 "Direnzo , Jr., John",1000,Millbury,MA,Business,,TRUE,President,Direnzo Towing and Recovery,https://www.linkedin.com/in/john-direnzo-jr-69758217/,"John Direnzo Jr. is the owner of Direnzo Towing and Recovery, and president of the Statewide Towing Association. Direnzo has contracts with the City of Worcester and MA State Police.","https://case-law.vlex.com/vid/boulevard-garage-inc-v-894630047#:~:text=On%20December%2017%2C%202010%2C%20Direnzo,the%20City's%20award%20of...
 https://www.worcesterma.gov/sites/default/files/bids/CR-7908-W3-Bid-Summary-Towing-WPD-.pdf"
 "Hazard, Bessie",1000,Worcester,MA,Healthcare,,TRUE,Physician,Christopher House,,,
-"Rafferty, Jeanne",1000,Northboro,MA,,,FALSE,,,,,
+"Rafferty, Jeanne",1000,Northboro,MA,,,TRUE,,,"Jeanne Rafferty is the wife of attorney Richard Rafferty, partner at Eden Rafferty. In September 2025, Richard cut a $5,000 check to the Progress Worcester IEPAC, which has mainly supported Candy Mero-Carlson, Jose Rivera, and Joe Petty this election.",,
 "Mukherjee, Dilip",1000,Stoneham,MA,,,FALSE,,,,,
 "Nalla, Somashekar",1000,The Colony,TX,,,FALSE,,,,,
 "Krishnaswamy, Suneel",1000,Acton,MA,Tech,Business,FALSE,CPEO,GreyOrange,https://www.supplychain247.com/article/greyorange_announces_suneel_krishnaswamy_as_new_cpeo/envista,,Retired?
@@ -144,7 +144,7 @@ https://www.worcesterma.gov/sites/default/files/bids/CR-7908-W3-Bid-Summary-Towi
 "Trifone, Richard",1000,Worcester,MA,Real Estate,,FALSE,Real Estate Agent,RE/MAX,https://www.remax.com/real-estate-agents/rich-trifone-worcester-ma/100085465,,
 "Rucker, Clifford",1000,Danvers,MA,Finance,Sports,TRUE,Founder,NFS Capital,https://www.nfscapital.com/nfs-capital-our-story/,"Cliff Rucker is the owner of NFS Capital, the Worcester Railers Hockey team, and part-owner of Table Talk Pies",Captive leasing?
 "Sweeney, Andria",1000,Worcester,MA,Government,,FALSE,Project Manager,Worcester Housing Authority,,,
-"Zutshi, Anup",1000,Acton,MA,Biotech,,FALSE,Consultant,Chinar Pharmaceutical Sciences,https://www.linkedin.com/in/anupzutshi/,"Anup Zutshi is a self-employed pharmaceutical sciences consultant",
+"Zutshi, Anup",1000,Acton,MA,Biotech,,FALSE,Consultant,Chinar Pharmaceutical Sciences,https://www.linkedin.com/in/anupzutshi/,Anup Zutshi is a self-employed pharmaceutical sciences consultant,
 "Haddad, Abraham",950,Worcester,MA,,,FALSE,,,,,
 "Eddy, William",925,Worcester,MA,,,FALSE,,,https://www.linkedin.com/in/william-j-eddy-a0265a103/,,
 "Chang, Ignatius",900,Worcester,MA,Real Estate,,FALSE,Landlord,,,"Ignatius Change is a real estate investor, landlord, and owner of Nancy Chang's Restaurant. Chang owns over 20 properties in Worcester under several corporate entities. He's been fined for violating asbestos regulations in at least one of the multi-family homes that he manages. Chang was involved in a lengthy legal dispute against Cafe Neo owner Peter Tsigas. Chang bought the property where Cafe Neo was originally located from Tsigas, then evicted. ","https://patch.com/massachusetts/worcester/worcester-three-decker-owner-fined-nearly-52000-asbestos-violations-0
@@ -620,7 +620,7 @@ Int'l Brotherhood Of Electrical Workers Local Union 2222 Pol Action Comm,200,Qui
 "Slavinskas, Daniel",200,Worcester,MA,,,FALSE,,,,,
 "Wisboro, Joseph",200,Worcester,MA,,,FALSE,,,,,
 "Belanger, Douglas",200,Leicester,MA,,,FALSE,,,,,
-"Bergman, Morris",200,Worcester,MA,,,FALSE,,,,Bergman is currently running for re-election to at-large city council,
+"Bergman, Morris",200,Worcester,MA,,,FALSE,,,,Moe Bergman is an attorney and six-term at-large incumbent City Coucilor.,
 "Derderian, Seth",200,Worcester,MA,,,FALSE,,,,,
 "Goodrich, Doreen",200,Auburn,MA,,,FALSE,,,,,
 "King, Paul",200,Melrose,MA,,,FALSE,,,,,
@@ -1370,7 +1370,7 @@ Committee To Elect Jose A. Rivera,100,Worcester,MA,,,FALSE,,,,,
 "Cte Tony Economou For City Councill, Tony",100,Worcester,MA,,,FALSE,,,,,
 "Economou, Pamela",100,Worcester,MA,,,FALSE,,,,,
 "Freeman, Carol",100,West Boylston,MA,,,FALSE,,,,,
-"Colorio, Donna",100,Worcester,MA,,,FALSE,,,,,
+Donna Colorio,100,Worcester,MA,Candidate,,FALSE,,,,Donna Colorio is a former School Committee member and the lone Republican on the City Council. She chairs the Traffic & Parking committee. Most of her contributions come in the form of loans to her own campaign,
 "Carroll, Mary Ann",100,Worcester,MA,,,FALSE,,,,,
 "Culafi, Kosta",100,Paxton,MA,,,FALSE,,,,,
 "Freeman, Allan",100,West Boylston,MA,,,FALSE,,,,,
