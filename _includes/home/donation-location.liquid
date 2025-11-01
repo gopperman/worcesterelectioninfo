@@ -1,0 +1,93 @@
+<section>
+  <h2>Where do the candidates donors come from?</h2>
+  <div class="grid grid--3">
+    <div>
+      <h3>Townie's Choice</h3>
+      <div class="center">
+        {% render "winner.liquid", name: "Gary Rosen" slug: "rosen" %}
+      </div>
+      <div class="collapsible">
+        <div class="collapsible__container collapsible__container--collapsed">
+          <table>
+            <caption class="table__title">Percentage of donations from Worcester</caption>
+            <tr>
+              <th>Candidate</th>
+              <th>%</th>
+              <th>Total</th>
+            </tr>
+            {% assign candidatesByWorc = candidates | sort: "worcPct" | reverse %}
+            {%- for c in candidatesByWorc %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">{{c.worcPct | percent}}%</td>
+                <td class="table__value">{{c.worcDonations | money}}</td>
+              </tr>
+            {%- endfor %}
+          </table>
+        <a class="collapsible__trigger">Show More</a>
+        </div>
+      </div>
+      <p>Gary Rosen has the highest percentage of donations from within Worcester at 85%, or $3,668 out of $4,338 total. Despite his lack of campaign funds, Rosen put up a strong performance in the preliminary election. Of those who have raised over $10,000, runner up and incumbent Donna Colorio is the townie queen.</p>
+    </div>
+    <div>
+      <h3>Suburban Influence</h3>
+      <div class="center">
+        {% render "winner.liquid", name: "Jessica Pepple" slug: "pepple" %}
+      </div>
+      <div class="collapsible">
+        <div class="collapsible__container collapsible__container--collapsed">
+          <table>
+            <caption class="table__title">Percentage of donations from MA (excluding Worcester)</caption>
+            <tr>
+              <th>Candidate</th>
+              <th>%</th>
+              <th>Total</th>
+            </tr>
+            {% assign candidatesByMA = candidates | sort: "maPct" | reverse %}
+            {%- for c in candidatesByMA %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">{{c.maPct | percent}}%</td>
+                <td class="table__value">{{c.maDonations | money}}</td>
+              </tr>
+            {%- endfor %}
+          </table>
+        </div>
+        <a class="collapsible__trigger">Show More</a>
+      </div>
+      <p>Jessica Pepple is the suburban people’s princess, raising almost all of her money (80.5%) from co-workers at the <a href="https://www.rfkcommunity.org/" target="_blank">RFK Community Alliance</a>. Pepple's total donations are dwarfed by Satya Mitra's, who has raised $58,624 from surrounding areas in Massachusetts.</p>
+    </div>
+    <div>
+      <h3>Foreign Agents</h3>
+      <div class="center">
+        {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
+      </div>
+      <div class="collapsible">
+        <div class="collapsible__container collapsible__container--collapsed">
+          <table>
+            <caption class="table__title">Percentage of donations from Out-of-State</caption>
+            <tr>
+              <th>Candidate</th>
+              <th>%</th>
+              <th>Total</th>
+            </tr>
+            {% assign candidatesByOos = candidates | sort: "oosPct" | reverse %}
+            {%- for c in candidatesByOos %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
+              <tr>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">{{c.oosPct | percent}}%</td>
+                <td class="table__value">{{c.oosDonations | money}}</td>
+              </tr>
+            {%- endfor %}
+          </table>
+        </div>
+        <a class="collapsible__trigger">Show More</a>
+      </div>
+      <p>Luis Ojeda has the largest percentage of funds from out-of-state, due to low total fundraising ($5,531) and a single $1,000 check from a family member. We're giving the out-of-state influence award to Satya Mitra, who has raised the most money ($13,650) from out-of-state interests, 14.3% of his total funds raised.</p>
+    </div>
+  </div>
+  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+</section>

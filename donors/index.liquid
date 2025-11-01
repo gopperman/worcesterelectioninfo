@@ -16,6 +16,10 @@ layout: generic
             {% if donor.city != '' %}
               <h4>{{donor.city}}, {{donor.state}}</h4>
             {% endif %}
+            {% if donor.job != '' %}
+              <p><b>{{donor.job}}{% if donor.company != '' %}, {{donor.company}}{% endif %}
+              </b></p>
+            {% endif %}
             <div class="donor__tags">
               {% for tag in donor.tags %}
                 <span class="tag tag--{{tag | downcase | kebab }}">{{tag}}</span>
@@ -26,19 +30,16 @@ layout: generic
           <div class="donor__donations">
             <h3>Total Contributions</h3>
             <div class="donor__totals">
-              {% assign donor_size = donor.donations | size %}
-              {% unless donor_size == 1 %}
-                <div class="bignumber__container grid grid--2">
-                  <div>
-                    <h4 class="donor__contrib-hed">2024-2025</h4>
-                    <p class="bignumber">{{donor.total | money}}</p>
-                  </div>
-                  <div>
-                    <h4 class="donor__contrib-hed">Lifetime</h4>
-                    <p class="bignumber bignumber--alt">{{donor.lifetimeTotal | money}}</p>
-                  </div>
+              <div class="bignumber__container grid grid--2">
+                <div>
+                  <h4 class="donor__contrib-hed">2024-2025</h4>
+                  <p class="bignumber">{{donor.total | money}}</p>
                 </div>
-              {% endunless %}
+                <div>
+                  <h4 class="donor__contrib-hed">Lifetime</h4>
+                  <p class="bignumber bignumber--alt">{{donor.lifetimeTotal | money}}</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>

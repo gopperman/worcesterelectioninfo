@@ -1,0 +1,12 @@
+<section>
+  <h2>Who's Running for Worcester City Council At-Large?</h2>
+  <div class="grid grid--4">
+    {% assign candidatesByName = collections.atlarge | sort: "data.sortOrder" %}
+    {%- for candidate in candidatesByName -%}
+      <div class="card">
+        {% render "candidate/summary.liquid", site: site, candidate: candidate, tag: "h3" %}
+      </div>
+    {%- endfor -%}
+  </div>
+  <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+</section>

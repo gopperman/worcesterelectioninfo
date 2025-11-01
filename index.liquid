@@ -3,67 +3,39 @@ title: "Worcester City Council 2025 Election Guide"
 ---
 {% render "header-home.liquid", site: site %}
 <main>
-  <section>
-    <h2>Who's Running for Worcester City Council At-Large?</h2>
-    <div class="grid grid--4">
-      {% assign candidatesByName = collections.atlarge | sort: "data.sortOrder" %}
-      {%- for candidate in candidatesByName -%}
-        <div class="card">
-          {% render "candidate/summary.liquid", site: site, candidate: candidate, tag: "h3" %}
-        </div>
-      {%- endfor -%}
-    </div>
-    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
-  </section>
-  <section>
-    <h2>Who's Running for Worcester District Council?</h2>
-    {% assign d1 = collections.d1 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d1, district: "District 1", site: site  %}
-
-    {% assign d2 = collections.d2 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d2, district: "District 2", site: site %}
-
-    {% assign d3 = collections.d3 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d3, district: "District 3", site: site %}
-
-    {% assign d4 = collections.d4 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d4, district: "District 4", site: site%}
-
-    {% assign d5 = collections.d5 | sort: "data.sortOrder" %}
-    {% render "district-race.liquid", candidates: d5, district: "District 5", site: site %}
-
-    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
-  </section>
+  {% include "home/at-large.liquid" %}
+  {% include "home/district.liquid" %}
   <section>
     <h2>Which candidate has raised the most money in 2025?</h2>
-      <div class="grid grid--2">
-        <div class="collapsible">
-          <div class="collapsible__container collapsible__container--collapsed">
-            <table>
-              <caption class="table__title">Total donations by candidate</caption>
+    <div class="grid grid--2">
+      <div class="collapsible">
+        <div class="collapsible__container collapsible__container--collapsed">
+          <table>
+            <caption class="table__title">Total donations by candidate</caption>
+            <tr>
+              <th>Candidate</th>
+              <th>$ Raised</th>
+              <th>District</th>
+            </tr>
+            {% assign candidatesByTotal = candidates | sort: "totalDonations" | reverse %}
+            {%- for c in candidatesByTotal %}
+              {% assign candidate = collections.candidates | find: "data.name", c.name %}
               <tr>
-                <th>Candidate</th>
-                <th>$ Raised</th>
-                <th>District</th>
+                <td class="table__candidate">{{c.name}}</td>
+                <td class="table__value">{{c.totalDonations | money}}</td>
+                <td class="table__district">{{candidate.data.tags | district }}</td>
               </tr>
-              {% assign candidatesByTotal = candidates | sort: "totalDonations" | reverse %}
-              {%- for c in candidatesByTotal %}
-                {% assign candidate = collections.candidates | find: "data.name", c.name %}
-                <tr>
-                  <td class="table__candidate">{{c.name}}</td>
-                  <td class="table__value">{{c.totalDonations | money}}</td>
-                  <td class="table__district">{{candidate.data.tags | district }}</td>
-                </tr>
-              {%- endfor %}
-            </table>
-          </div>
-          <a class="collapsible__trigger">Show More</a>
+            {%- endfor %}
+          </table>
         </div>
-        <div class="center container container--sm">
-          {% render "winner.liquid", name: "Joe Petty" slug: "petty" %}
-          <p>Mayor Joe Petty has recently overtaken Satya Mitra for the most donations overall. Petty collected over $11,000 in October, despite almost no campaign spending since September. Most of Petty's donors come from affiliates and members of the Worcester Regional Chamber of Commerce.</p>
+        <a class="collapsible__trigger">Show More</a>
+      </div>
+      <div class="center container container--sm">
+        {% render "winner.liquid", name: "Joe Petty" slug: "petty" %}
+        <p>Mayor Joe Petty has recently overtaken Satya Mitra for the most donations overall. Petty collected over $11,000 in October, despite almost no campaign spending since September. Most of Petty's donors come from affiliates and members of the Worcester Regional Chamber of Commerce.</p>
 
-          <div class="bottom-link"><a href="{{site.url}}/candidates/satya-mitra">Learn more about Satra Mitra &gt;</a></div>
+        <div class="bottom-link">
+          <a href="{{site.url}}/candidates/satya-mitra">Learn more about Satra Mitra &gt;</a>
         </div>
       </div>
     </div>
@@ -104,97 +76,5 @@ title: "Worcester City Council 2025 Election Guide"
     </div>
     <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
   </section>
-  <section>
-    <h2>Where do the candidates donors come from?</h2>
-     <div class="grid grid--3">
-      <div>
-        <h3>Townie's Choice</h3>
-        <div class="center">
-          {% render "winner.liquid", name: "Gary Rosen" slug: "rosen" %}
-        </div>
-        <div class="collapsible">
-          <div class="collapsible__container collapsible__container--collapsed">
-            <table>
-              <caption class="table__title">Percentage of donations from Worcester</caption>
-              <tr>
-                <th>Candidate</th>
-                <th>%</th>
-                <th>Total</th>
-              </tr>
-              {% assign candidatesByWorc = candidates | sort: "worcPct" | reverse %}
-              {%- for c in candidatesByWorc %}
-                {% assign candidate = collections.candidates | find: "data.name", c.name %}
-                <tr>
-                  <td class="table__candidate">{{c.name}}</td>
-                  <td class="table__value">{{c.worcPct | percent}}%</td>
-                  <td class="table__value">{{c.worcDonations | money}}</td>
-                </tr>
-              {%- endfor %}
-            </table>
-          </div>
-          <a class="collapsible__trigger">Show More</a>
-          <p>Gary Rosen has the highest percentage of donations from within Worcester at 85%, or $3,668 out of $4,338 total. Despite his lack of campaign funds, Rosen put up a strong performance in the preliminary election. Of those who have raised over $10,000, runner up and incumbent Donna Colorio is the townie queen.</p>
-        </div>
-      </div>
-      <div>
-        <h3>Suburban Influence</h3>
-        <div class="center">
-          {% render "winner.liquid", name: "Jessica Pepple" slug: "pepple" %}
-        </div>
-        <div class="collapsible">
-          <div class="collapsible__container collapsible__container--collapsed">
-            <table>
-              <caption class="table__title">Percentage of donations from MA (excluding Worcester)</caption>
-              <tr>
-                <th>Candidate</th>
-                <th>%</th>
-                <th>Total</th>
-              </tr>
-              {% assign candidatesByMA = candidates | sort: "maPct" | reverse %}
-              {%- for c in candidatesByMA %}
-                {% assign candidate = collections.candidates | find: "data.name", c.name %}
-                <tr>
-                  <td class="table__candidate">{{c.name}}</td>
-                  <td class="table__value">{{c.maPct | percent}}%</td>
-                  <td class="table__value">{{c.maDonations | money}}</td>
-                </tr>
-              {%- endfor %}
-            </table>
-          </div>
-          <a class="collapsible__trigger">Show More</a>
-          <p>Jessica Pepple is the suburban people’s princess, raising almost all of her money (80.5%) from co-workers at the <a href="https://www.rfkcommunity.org/" target="_blank">RFK Community Alliance</a>. Pepple's total donations are dwarfed by Satya Mitra's, who has raised $58,624 from surrounding areas in Massachusetts.</p>
-        </div>
-      </div>
-      <div>
-        <h3>Foreign Agents</h3>
-        <div class="center">
-          {% render "winner.liquid", name: "Satya Mitra" slug: "mitra" %}
-        </div>
-        <div class="collapsible">
-          <div class="collapsible__container collapsible__container--collapsed">
-            <table>
-              <caption class="table__title">Percentage of donations from Out-of-State</caption>
-              <tr>
-                <th>Candidate</th>
-                <th>%</th>
-                <th>Total</th>
-              </tr>
-              {% assign candidatesByOos = candidates | sort: "oosPct" | reverse %}
-              {%- for c in candidatesByOos %}
-                {% assign candidate = collections.candidates | find: "data.name", c.name %}
-                <tr>
-                  <td class="table__candidate">{{c.name}}</td>
-                  <td class="table__value">{{c.oosPct | percent}}%</td>
-                  <td class="table__value">{{c.oosDonations | money}}</td>
-                </tr>
-              {%- endfor %}
-            </table>
-          </div>
-          <a class="collapsible__trigger">Show More</a>
-          <p>Luis Ojeda has the largest percentage of funds from out-of-state, due to low total fundraising ($5,531) and a single $1,000 check from a family member. We're giving the out-of-state influence award to Satya Mitra, who has raised the most money ($13,650) from out-of-state interests, 14.3% of his total funds raised.</p>
-        </div>
-      </div>
-    </div>
-    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
-  </section>
+  {% include "home/donation-location.liquid" %}
 </main>

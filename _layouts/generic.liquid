@@ -3,12 +3,15 @@
 <html lang="en">
   {% render "head.liquid", site: site, title: title, description: description %}
   <body>
-    {% render "header-generic.liquid", site: site, title: title %}
-    <main>
-      {{ content }}
-    </main>
-    {% include "footer.liquid", site: site %}
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="{{site.url}}/js/charts.js"></script>
+    <div class="body__wrapper">
+      {% include "navigation.liquid" %}
+      {% render "header-generic.liquid", site: site, title: title %}
+      <main>
+        {{ content }}
+      </main>
+      {% include "footer.liquid", site: site %}
+      <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+      <script src="{{site.url}}/js/charts.js"></script>
+    </div>
   </body>
 </html>

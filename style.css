@@ -96,7 +96,6 @@ h2 {
 /** Links **/
 a, a:visited {
   color: var(--mudkip);
-  font-style: bold;
   text-decoration: none;
 }
 
@@ -114,6 +113,7 @@ a:hover, a:active {
   background-color: var(--lemon);
   padding: 15px 0;
   position: relative;
+  top: -15px;
 }
 
 .header--candidate {
@@ -150,25 +150,6 @@ a:hover, a:active {
   }
 }
 
-.header__presents {
-  display: block;
-  width: 100%;
-
-  img {
-    display: inline-block;
-    float: left;
-    height: 35px;
-  }
-
-  p {
-    display: inline-block;
-    font-weight: bold;
-    font-size: .9em;
-    line-height: 35px;
-    padding-left: 5px;
-  }
-}
-
 .header__heads {
   .header__head {
     margin: 0;
@@ -196,6 +177,67 @@ a:hover, a:active {
   font-size: .7em;
   font-style: italic;
 }
+
+/**
+ * Nav
+ */
+.navigation {
+  background: var(--lemon);
+  border-bottom: 2px solid var(--black);
+  display: inline-block;
+  width: 100%;
+  padding: 10px 5px;
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+
+  img {
+    display: inline-block;
+    float: left;
+    height: 35px;
+  }
+
+  p {
+    display: none;
+    font-weight: bold;
+    font-size: .9em;
+    line-height: 35px;
+    padding-left: 5px;
+  }
+
+  a,
+  a:visited {
+    color: var(--black);
+    font-weight: bold;
+    font-size: 1em;
+    margin-left: 10px;
+  }
+
+  a:hover,
+  a:active {
+    color: var(--teal-dark);
+    transition: color, .2s;
+  }
+}
+
+.navigation__wrapper {
+  display: block;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.navigation__title {
+  display: inline-block;
+  float: left;
+}
+
+.navigation__links {
+  display: inline-block;
+  float: right;
+  text-align: right;
+  line-height: 35px;
+}
+
 
 .crown {
   margin: 75px 0 0 0;
@@ -658,19 +700,20 @@ tr:first-child {
     position: relative;
   }
 
-  .header__presents {
-    position: absolute;
-    left: 15px;
-    top: 15px;
-
+  .navigation {
     img {
       height: 50px;
     }
 
     p {
+      display: inline-block;
       font-size: 1em;
       line-height: 50px;
     }
+  }
+
+  .navigation__links {
+    line-height: 50px;
   }
 
   .header__body--candidate {
@@ -716,6 +759,11 @@ tr:first-child {
 }
 
 @media screen and (min-width: 768px) {
+  .navigation {
+    a {
+      font-size: 1.2em;
+    }
+  }
   .header__body {
     padding: 25px 15px;
     font-size: 1.6em;

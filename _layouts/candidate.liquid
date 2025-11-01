@@ -6,12 +6,15 @@
   {% endcapture %}
   {% render "head.liquid", site: site, title: title, description: description %}
   <body>
-    {% render "candidate/header.liquid", site: site, name: name, status: status, headshot: headshot , district: tags %}
-    <main>
-      {{ content }}
-      {% render "candidate/financials.liquid", site: site, candidate: candidate %}
-    </main>
-    {% include "footer.liquid", site: site %}
+    <div class="body__wrapper">
+      {% include "navigation.liquid" %}
+      {% render "candidate/header.liquid", site: site, name: name, status: status, headshot: headshot , district: tags %}
+      <main>
+        {{ content }}
+        {% render "candidate/financials.liquid", site: site, candidate: candidate %}
+      </main>
+      {% include "footer.liquid", site: site %}
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="{{site.url}}/js/charts.js"></script>
   </body>

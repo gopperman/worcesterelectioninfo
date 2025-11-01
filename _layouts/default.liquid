@@ -2,8 +2,11 @@
 <html lang="en">
   {% render "head.liquid", site: site, title: title, description: "Your guide to the 2025 Worcester City Council Election. Find out who's running for council, their policy positions, and most importantly, who they get their money from." %}
   <body>
-    {{ content }}
-    {% include "footer.liquid", site: site %}
+    <div class="body__wrapper">
+      {% include "navigation.liquid" %}
+      {{ content }}
+      {% include "footer.liquid", site: site %}
+    </div>
   </body>
   <script src="{{site.url}}/js/home.js"></script>
 </html>
