@@ -5,7 +5,7 @@
   <body>
     <div class="body__wrapper">
       {% include "navigation.liquid" %}
-      {% render "header-generic.liquid", site: site, title: title %}
+      {% render "header-generic.liquid", site: site, title: title, description: description %}
       <main>
         {{ content }}
       </main>
