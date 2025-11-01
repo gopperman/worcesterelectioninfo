@@ -4,10 +4,6 @@
       "total": 48651.89,
       "count": 35
     },
-    "Education": {
-      "total": 18200,
-      "count": 9
-    },
     "PAC": {
       "total": 22350,
       "count": 13
@@ -19,6 +15,10 @@
     "Finance": {
       "total": 15050,
       "count": 11
+    },
+    "Education": {
+      "total": 13125,
+      "count": 8
     },
     "Construction": {
       "total": 10425,
@@ -102,7 +102,7 @@
     }
   },
   "CoC": {
-    "total": 102877.94,
-    "count": 64
+    "total": 105877.94,
+    "count": 65
   }
 }

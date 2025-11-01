@@ -5,11 +5,12 @@
   <body>
     <div class="body__wrapper">
       {% include "navigation.liquid" %}
+      <div>
       {% render "header-generic.liquid", site: site, title: title, description: description %}
       <main>
         {{ content }}
       </main>
-      {% include "footer.liquid", site: site %}
+      {% include "footer.liquid", site: site %}</div>
       <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
       <script src="{{site.url}}/js/charts.js"></script>
     </div>

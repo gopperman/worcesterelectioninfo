@@ -1,6 +1,6 @@
 ---
 title: "2025 Election: The Donors"
-description: "Worcester's major power players, who they are, who they're supporting, and why"
+description: "Worcester's major power players, who they're supporting, and why"
 layout: generic
 ---
 <main>
@@ -8,6 +8,11 @@ layout: generic
     {% assign donors = current-cycle-donors | slice: 0, 200 %}
     <h2>Who are the biggest donors in the 2025 City Council Election?</h2>
     <p class="section__description">To get a sense of Worcester’s largest political donor base, we aggregated all campaign contributions from 2024-2025. We research each and every one of the top 200 donors: who they are, where they work, and their business connections. Every single one of these donors has a story. While this research barely scratches the surface of Worcester’s complex patronage network, the data definitively shows who our City Council candidates serve, and who stands to profit from the influence that comes with relatively modest donations to those candidates.</p>
+    <p class="section__description">The majority of Worcester's top donors are real estate investors, landlords, and their lawyers. People and businesses affiliated with the Worcester Regional Chamber of Commerce dominate the top 200 donors in this election. 64 out of those 200 donors (32 percent) are members, board directors, or affiliated with businesses involved with the Chamber.</p>
+    <div role="img" aria-label="Wavy Line Shape" class="wavy-line"></div>
+  </section>
+  <section>
+    <h2>Worcester's Top 200 City Council Election Donors, Ranked</h2>
     {% for donor in donors %}
       <div class="card donor">
         <div class="donor__grid">
