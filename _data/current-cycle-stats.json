@@ -1,8 +1,12 @@
 {
   "tags": {
     "Business": {
-      "total": 48651.89,
-      "count": 35
+      "total": 50051.89,
+      "count": 36
+    },
+    "Candidate": {
+      "total": 13900,
+      "count": 3
     },
     "PAC": {
       "total": 22350,
@@ -49,8 +53,8 @@
       "count": 12
     },
     "Law": {
-      "total": 10850,
-      "count": 12
+      "total": 13850,
+      "count": 13
     },
     "Healthcare": {
       "total": 18016.05,
