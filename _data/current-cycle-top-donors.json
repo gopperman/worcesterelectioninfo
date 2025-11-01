@@ -6,40 +6,40 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 2000
-      },
-      {
         "name": "Donna Colorio",
         "amount": 1000
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 2000
       },
       {
         "name": "Joe Petty",
         "amount": 2000
       },
       {
-        "name": "John Fresolo",
-        "amount": 250
+        "name": "Kate Toomey",
+        "amount": 2000
       },
       {
         "name": "Jose Rivera",
         "amount": 1000
       },
       {
-        "name": "Kate Toomey",
-        "amount": 2000
+        "name": "John Fresolo",
+        "amount": 250
       },
       {
         "name": "Moe Bergman",
         "amount": 1000
       },
       {
-        "name": "Tony Economou",
-        "amount": 500
-      },
-      {
         "name": "Ted Kostas",
         "amount": 750
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 500
       }
     ]
   },
@@ -122,16 +122,16 @@
         "amount": 400
       },
       {
-        "name": "Khrystian King",
-        "amount": 1000
+        "name": "Keith Linhares",
+        "amount": 600
       },
       {
         "name": "Luis Ojeda",
         "amount": 400
       },
       {
-        "name": "Keith Linhares",
-        "amount": 600
+        "name": "Khrystian King",
+        "amount": 1000
       },
       {
         "name": "Rob Bilotta",
@@ -206,11 +206,11 @@
         "amount": 500
       },
       {
-        "name": "Khrystian King",
+        "name": "Luis Ojeda",
         "amount": 500
       },
       {
-        "name": "Luis Ojeda",
+        "name": "Khrystian King",
         "amount": 500
       },
       {
@@ -290,12 +290,12 @@
         "amount": 200
       },
       {
-        "name": "Khrystian King",
-        "amount": 1050
-      },
-      {
         "name": "Keith Linhares",
         "amount": 150
+      },
+      {
+        "name": "Khrystian King",
+        "amount": 1050
       },
       {
         "name": "Rob Bilotta",
@@ -326,11 +326,11 @@
         "amount": 250
       },
       {
-        "name": "Robert Pezzella",
+        "name": "Satya Mitra",
         "amount": 250
       },
       {
-        "name": "Satya Mitra",
+        "name": "Robert Pezzella",
         "amount": 250
       },
       {
@@ -354,11 +354,11 @@
         "amount": 1025
       },
       {
-        "name": "Jose Rivera",
+        "name": "Kate Toomey",
         "amount": 200
       },
       {
-        "name": "Kate Toomey",
+        "name": "Jose Rivera",
         "amount": 200
       },
       {
@@ -450,11 +450,11 @@
         "amount": 400
       },
       {
-        "name": "Jose Rivera",
+        "name": "Kate Toomey",
         "amount": 400
       },
       {
-        "name": "Kate Toomey",
+        "name": "Jose Rivera",
         "amount": 400
       },
       {
@@ -462,12 +462,12 @@
         "amount": 350
       },
       {
-        "name": "Robert Pezzella",
-        "amount": 200
-      },
-      {
         "name": "Satya Mitra",
         "amount": 400
+      },
+      {
+        "name": "Robert Pezzella",
+        "amount": 200
       },
       {
         "name": "Tony Economou",
@@ -486,16 +486,16 @@
         "amount": 100
       },
       {
+        "name": "Jermoh Kamara",
+        "amount": 100
+      },
+      {
         "name": "Joe Petty",
         "amount": 2000
       },
       {
         "name": "John Fresolo",
         "amount": 250
-      },
-      {
-        "name": "Jermoh Kamara",
-        "amount": 100
       },
       {
         "name": "Moe Bergman",
@@ -510,12 +510,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 1000
-      },
-      {
         "name": "Donna Colorio",
         "amount": 400
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 1000
       },
       {
         "name": "Kate Toomey",
@@ -548,6 +548,26 @@
       {
         "name": "Joe Petty",
         "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Salloom, Donna",
+    "total": 2500,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Joe Petty",
+        "amount": 1000
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 1000
+      },
+      {
+        "name": "Moe Bergman",
+        "amount": 500
       }
     ]
   },
@@ -764,18 +784,6 @@
     ]
   },
   {
-    "name": "Cohen, Julie",
-    "total": 2000,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Rob Bilotta",
-        "amount": 2000
-      }
-    ]
-  },
-  {
     "name": "Guin, Jayanta",
     "total": 2000,
     "city": "Natick",
@@ -860,6 +868,18 @@
     ]
   },
   {
+    "name": "Cohen, Julie",
+    "total": 2000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Rob Bilotta",
+        "amount": 2000
+      }
+    ]
+  },
+  {
     "name": "Sabo, Nathan",
     "total": 2000,
     "city": "Worcester",
@@ -922,12 +942,12 @@
         "amount": 200
       },
       {
-        "name": "Khrystian King",
-        "amount": 425
-      },
-      {
         "name": "Keith Linhares",
         "amount": 100
+      },
+      {
+        "name": "Khrystian King",
+        "amount": 425
       },
       {
         "name": "Rob Bilotta",
@@ -954,12 +974,12 @@
         "amount": 150
       },
       {
-        "name": "Khrystian King",
-        "amount": 250
-      },
-      {
         "name": "Keith Linhares",
         "amount": 150
+      },
+      {
+        "name": "Khrystian King",
+        "amount": 250
       },
       {
         "name": "Rob Bilotta",
@@ -973,40 +993,40 @@
   },
   {
     "name": "Piccolo, John",
-    "total": 1601.8899999999999,
+    "total": 1601.89,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 564.56
-      },
-      {
         "name": "Donna Colorio",
         "amount": 232.2
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 564.56
       },
       {
         "name": "Joe Petty",
         "amount": 129.59
       },
       {
-        "name": "Jose Rivera",
-        "amount": 223.98
-      },
-      {
         "name": "Kate Toomey",
         "amount": 113.59
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 223.98
       },
       {
         "name": "Moe Bergman",
         "amount": 117.99
       },
       {
-        "name": "Robert Pezzella",
+        "name": "Satya Mitra",
         "amount": 109.99
       },
       {
-        "name": "Satya Mitra",
+        "name": "Robert Pezzella",
         "amount": 109.99
       }
     ]
@@ -1018,12 +1038,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 500
-      },
-      {
         "name": "Donna Colorio",
         "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 500
       },
       {
         "name": "Kate Toomey",
@@ -1054,12 +1074,12 @@
         "amount": 200
       },
       {
-        "name": "Khrystian King",
-        "amount": 310
-      },
-      {
         "name": "Keith Linhares",
         "amount": 200
+      },
+      {
+        "name": "Khrystian King",
+        "amount": 310
       },
       {
         "name": "Rob Bilotta",
@@ -1220,22 +1240,6 @@
     ]
   },
   {
-    "name": "Salloom, Donna",
-    "total": 1500,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Jose Rivera",
-        "amount": 1000
-      },
-      {
-        "name": "Moe Bergman",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Salloom Jr., Edward",
     "total": 1500,
     "city": "Worcester",
@@ -1278,12 +1282,12 @@
         "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "amount": 25
-      },
-      {
         "name": "Kate Toomey",
         "amount": 250
+      },
+      {
+        "name": "John Fresolo",
+        "amount": 25
       },
       {
         "name": "Moe Bergman",
@@ -1306,12 +1310,12 @@
         "amount": 200
       },
       {
-        "name": "Jose Rivera",
-        "amount": 400
-      },
-      {
         "name": "Kate Toomey",
         "amount": 150
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 400
       },
       {
         "name": "Robert Pezzella",
@@ -1338,16 +1342,72 @@
         "amount": 250
       },
       {
-        "name": "Khrystian King",
-        "amount": 200
-      },
-      {
         "name": "Keith Linhares",
         "amount": 150
       },
       {
+        "name": "Khrystian King",
+        "amount": 200
+      },
+      {
         "name": "Rob Bilotta",
         "amount": 600
+      }
+    ]
+  },
+  {
+    "name": "Randell, William",
+    "total": 1400,
+    "city": "Holden",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "amount": 200
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 100
+      },
+      {
+        "name": "John Fresolo",
+        "amount": 900
+      },
+      {
+        "name": "Satya Mitra",
+        "amount": 100
+      },
+      {
+        "name": "Ted Kostas",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Lanava, Michael",
+    "total": 1400,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "amount": 150
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 550
+      },
+      {
+        "name": "Moe Bergman",
+        "amount": 350
+      },
+      {
+        "name": "Robert Pezzella",
+        "amount": 200
+      },
+      {
+        "name": "Joe Petty",
+        "amount": 150
       }
     ]
   },
@@ -1372,58 +1432,18 @@
     ]
   },
   {
-    "name": "Lanava, Michael",
+    "name": "Kahoro, Joseph",
     "total": 1400,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 550
-      },
-      {
-        "name": "Donna Colorio",
-        "amount": 150
-      },
-      {
-        "name": "Moe Bergman",
-        "amount": 350
-      },
-      {
-        "name": "Robert Pezzella",
-        "amount": 200
+        "name": "Jermoh Kamara",
+        "amount": 400
       },
       {
         "name": "Joe Petty",
-        "amount": 150
-      }
-    ]
-  },
-  {
-    "name": "Randell, William",
-    "total": 1400,
-    "city": "Holden",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Donna Colorio",
-        "amount": 200
-      },
-      {
-        "name": "John Fresolo",
-        "amount": 900
-      },
-      {
-        "name": "Jose Rivera",
-        "amount": 100
-      },
-      {
-        "name": "Satya Mitra",
-        "amount": 100
-      },
-      {
-        "name": "Ted Kostas",
-        "amount": 100
+        "amount": 1000
       }
     ]
   },
@@ -1448,34 +1468,18 @@
     ]
   },
   {
-    "name": "Kahoro, Joseph",
-    "total": 1400,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Joe Petty",
-        "amount": 1000
-      },
-      {
-        "name": "Jermoh Kamara",
-        "amount": 400
-      }
-    ]
-  },
-  {
     "name": "Mooradian, Donna",
     "total": 1375,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 350
-      },
-      {
         "name": "Donna Colorio",
         "amount": 250
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 350
       },
       {
         "name": "Gary Rosen",
@@ -1544,6 +1548,30 @@
     ]
   },
   {
+    "name": "Hargrove, Dorothy",
+    "total": 1250,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "amount": 100
+      },
+      {
+        "name": "Gary Rosen",
+        "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 50
+      },
+      {
+        "name": "Moe Bergman",
+        "amount": 100
+      }
+    ]
+  },
+  {
     "name": "Worcester Fitchburg Building Trades Council",
     "total": 1250,
     "city": "West Boylston",
@@ -1572,30 +1600,6 @@
       {
         "name": "Joe Petty",
         "amount": 1000
-      }
-    ]
-  },
-  {
-    "name": "Hargrove, Dorothy",
-    "total": 1250,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Donna Colorio",
-        "amount": 100
-      },
-      {
-        "name": "Gary Rosen",
-        "amount": 1000
-      },
-      {
-        "name": "Kate Toomey",
-        "amount": 50
-      },
-      {
-        "name": "Moe Bergman",
-        "amount": 100
       }
     ]
   },
@@ -1758,12 +1762,12 @@
         "amount": 50
       },
       {
-        "name": "Jose Rivera",
-        "amount": 550
-      },
-      {
         "name": "Kate Toomey",
         "amount": 50
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 550
       },
       {
         "name": "Tony Economou",
@@ -1778,16 +1782,16 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Khrystian King",
-        "amount": 550
+        "name": "Keith Linhares",
+        "amount": 100
       },
       {
         "name": "Luis Ojeda",
         "amount": 200
       },
       {
-        "name": "Keith Linhares",
-        "amount": 100
+        "name": "Khrystian King",
+        "amount": 550
       },
       {
         "name": "Rob Bilotta",
@@ -1910,12 +1914,12 @@
         "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "amount": 200
-      },
-      {
         "name": "Kate Toomey",
         "amount": 350
+      },
+      {
+        "name": "John Fresolo",
+        "amount": 200
       }
     ]
   },
@@ -1984,46 +1988,18 @@
     ]
   },
   {
-    "name": "Giorgio, Paul",
-    "total": 1025,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "amount": 375
-      },
-      {
-        "name": "Jose Rivera",
-        "amount": 150
-      },
-      {
-        "name": "Robert Pezzella",
-        "amount": 250
-      },
-      {
-        "name": "Satya Mitra",
-        "amount": 150
-      },
-      {
-        "name": "Tony Economou",
-        "amount": 100
-      }
-    ]
-  },
-  {
     "name": "Eddy, William",
     "total": 1025,
     "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Candy Mero-Carlson",
-        "amount": 300
-      },
-      {
         "name": "Donna Colorio",
         "amount": 100
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 300
       },
       {
         "name": "Joe Petty",
@@ -2040,6 +2016,58 @@
     ]
   },
   {
+    "name": "Giorgio, Paul",
+    "total": 1025,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 375
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 150
+      },
+      {
+        "name": "Satya Mitra",
+        "amount": 150
+      },
+      {
+        "name": "Robert Pezzella",
+        "amount": 250
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 100
+      }
+    ]
+  },
+  {
+    "name": "Shea, Cheryl",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "amount": 1000
+      }
+    ]
+  },
+  {
+    "name": "Costa, Vanessa",
+    "total": 1000,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Donna Colorio",
+        "amount": 1000
+      }
+    ]
+  },
+  {
     "name": "Patel, Rishi",
     "total": 1000,
     "city": "Springfield",
@@ -2052,30 +2080,6 @@
       {
         "name": "Joe Petty",
         "amount": 500
-      }
-    ]
-  },
-  {
-    "name": "Central Ma Afl-cio",
-    "total": 1000,
-    "city": "Auburn",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "amount": 1000
-      }
-    ]
-  },
-  {
-    "name": "Greaney, David",
-    "total": 1000,
-    "city": "Cohasset",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "amount": 1000
       }
     ]
   }

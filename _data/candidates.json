@@ -1632,6 +1632,12 @@
         "state": "MA"
       },
       {
+        "name": "Salloom, Donna",
+        "total": 300,
+        "city": "Worcester",
+        "state": "MA"
+      },
+      {
         "name": "Salloom Sr., Edward",
         "total": 300,
         "city": "Worcester",
@@ -1790,12 +1796,6 @@
       {
         "name": "Silverman, Marsha",
         "total": 180,
-        "city": "Worcester",
-        "state": "MA"
-      },
-      {
-        "name": "Resnick, Leon",
-        "total": 175,
         "city": "Worcester",
         "state": "MA"
       }

@@ -112,9 +112,14 @@ const normalizeNames = (name) => {
 
   // Sallooms
   // // Donna's more recently listed as Salloom, not Salloom George
+  n = n.replace ("Salloom George", "Salloom")
   n = n.replace ("George, Donna Saloom", "Salloom, Donna")
   n = n.replace ("George, Donna Salloom", "Salloom, Donna")
-  n = n.replace ("Salloom George", "Salloom")
+
+  if (n === "George, Donna") {
+    n = n.replace ("George, Donna", "Salloom, Donna")
+  }
+ // n = n.replace ()
 
   n = n.replace ("Saloom, Jr., Edwards", "Salloom Jr., Edward")
   n = n.replace ("Salloom, Jr., Edward", "Salloom Jr., Edward")
