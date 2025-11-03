@@ -126,8 +126,8 @@ const normalizeNames = (name) => {
   n = n.replace ("Saloom, Jr.", "Salloom Jr.")
   n = n.replace ("Salloom, Edward Jr", "Salloom Jr., Edward")
 
-  n = n.replace ("Salloom, Edward G", "Salloom Sr., Edward")
-  if (n === "Salloom, Edward") n = "Salloom Sr., Edward"
+  n = n.replace ("Salloom, Edward G", "Salloom Jr., Edward")
+  if (n === "Salloom, Edward") n = "Salloom Jr., Edward"
 
   // O'Connors
   n = n.replace ("O'Connor, Daniel", "O'Connor, Dan")
@@ -412,7 +412,9 @@ const aggregateDonorData = (currentCycleDonors, allTimeDonors) => {
     fs.createReadStream(donorMetaFile)
       .pipe(parse({ columns: true, skip_empty_lines: true }))
       .on('data', (row) => {
+
         const index = aggregate.findIndex( d => d.name === normalizeNames(titlecase(row.Name)))
+
         if (index !== -1) {
           aggregate[index] = {
             ...aggregate[index],

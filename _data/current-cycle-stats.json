@@ -13,7 +13,7 @@
       "count": 13
     },
     "Real Estate": {
-      "total": 65745.48000000001,
+      "total": 66745.48000000001,
       "count": 47
     },
     "Finance": {
@@ -53,8 +53,8 @@
       "count": 12
     },
     "Law": {
-      "total": 13850,
-      "count": 13
+      "total": 15850,
+      "count": 14
     },
     "Healthcare": {
       "total": 18016.05,
@@ -106,7 +106,7 @@
     }
   },
   "CoC": {
-    "total": 105877.94,
-    "count": 65
+    "total": 107877.94,
+    "count": 66
   }
 }
