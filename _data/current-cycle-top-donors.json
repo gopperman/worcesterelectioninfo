@@ -14,20 +14,20 @@
         "amount": 2000
       },
       {
-        "name": "Kate Toomey",
-        "amount": 2000
+        "name": "John Fresolo",
+        "amount": 250
       },
       {
         "name": "Joe Petty",
         "amount": 2000
       },
       {
-        "name": "John Fresolo",
-        "amount": 250
-      },
-      {
         "name": "Jose Rivera",
         "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 2000
       },
       {
         "name": "Moe Bergman",
@@ -80,6 +80,34 @@
     ]
   },
   {
+    "name": "Direnzo Jr., John",
+    "total": 5000,
+    "city": "Millbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 2000
+      },
+      {
+        "name": "Joe Petty",
+        "amount": 1000
+      },
+      {
+        "name": "Jose Rivera",
+        "amount": 500
+      },
+      {
+        "name": "Moe Bergman",
+        "amount": 1000
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 500
+      }
+    ]
+  },
+  {
     "name": "Parvin, Kathryn (Krock)",
     "total": 5000,
     "city": "Worcester",
@@ -90,12 +118,12 @@
         "amount": 1000
       },
       {
-        "name": "Kate Toomey",
-        "amount": 1000
-      },
-      {
         "name": "Joe Petty",
         "amount": 2000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 1000
       },
       {
         "name": "Khrystian King",
@@ -110,12 +138,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Etel Haxhiaj",
-        "amount": 700
-      },
-      {
         "name": "Cayden Davis",
         "amount": 800
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 700
       },
       {
         "name": "Jermoh Kamara",
@@ -160,30 +188,6 @@
     ]
   },
   {
-    "name": "Direnzo, John",
-    "total": 4000,
-    "city": "Millbury",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "amount": 2000
-      },
-      {
-        "name": "Joe Petty",
-        "amount": 1000
-      },
-      {
-        "name": "Jose Rivera",
-        "amount": 500
-      },
-      {
-        "name": "Tony Economou",
-        "amount": 500
-      }
-    ]
-  },
-  {
     "name": "Ma & Northern Ne Laborers' District Council Pol Action Comm",
     "total": 4000,
     "city": "Hopkinton",
@@ -198,12 +202,12 @@
         "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "amount": 500
-      },
-      {
         "name": "Joe Petty",
         "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 500
       },
       {
         "name": "Luis Ojeda",
@@ -230,12 +234,12 @@
         "amount": 1000
       },
       {
-        "name": "Kate Toomey",
-        "amount": 1000
-      },
-      {
         "name": "Joe Petty",
         "amount": 2000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 1000
       }
     ]
   },
@@ -250,40 +254,40 @@
         "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "amount": 100
-      },
-      {
         "name": "Joe Petty",
         "amount": 1200
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 100
       },
       {
         "name": "Moe Bergman",
         "amount": 150
       },
       {
-        "name": "Tony Economou",
-        "amount": 200
-      },
-      {
         "name": "Satya Mitra",
         "amount": 2000
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 200
       }
     ]
   },
   {
     "name": "Mailman, Susan",
     "total": 3400,
-    "city": "worcester",
+    "city": "Worcester",
     "state": "MA",
     "donations": [
       {
-        "name": "Etel Haxhiaj",
-        "amount": 950
-      },
-      {
         "name": "Cayden Davis",
         "amount": 175
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 950
       },
       {
         "name": "Jermoh Kamara",
@@ -330,12 +334,12 @@
         "amount": 250
       },
       {
-        "name": "Tony Economou",
-        "amount": 350
-      },
-      {
         "name": "Satya Mitra",
         "amount": 250
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 350
       }
     ]
   },
@@ -350,15 +354,15 @@
         "amount": 700
       },
       {
-        "name": "Kate Toomey",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "amount": 1025
       },
       {
         "name": "Jose Rivera",
+        "amount": 200
+      },
+      {
+        "name": "Kate Toomey",
         "amount": 200
       },
       {
@@ -398,12 +402,12 @@
         "amount": 1000
       },
       {
-        "name": "Kate Toomey",
-        "amount": 100
-      },
-      {
         "name": "Joe Petty",
         "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 100
       },
       {
         "name": "Moe Bergman",
@@ -446,15 +450,15 @@
         "amount": 200
       },
       {
-        "name": "Kate Toomey",
-        "amount": 400
-      },
-      {
         "name": "Joe Petty",
         "amount": 400
       },
       {
         "name": "Jose Rivera",
+        "amount": 400
+      },
+      {
+        "name": "Kate Toomey",
         "amount": 400
       },
       {
@@ -466,12 +470,12 @@
         "amount": 200
       },
       {
-        "name": "Tony Economou",
-        "amount": 200
-      },
-      {
         "name": "Satya Mitra",
         "amount": 400
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 200
       }
     ]
   },
@@ -490,12 +494,12 @@
         "amount": 100
       },
       {
-        "name": "Joe Petty",
-        "amount": 2000
-      },
-      {
         "name": "John Fresolo",
         "amount": 250
+      },
+      {
+        "name": "Joe Petty",
+        "amount": 2000
       },
       {
         "name": "Moe Bergman",
@@ -718,11 +722,11 @@
         "amount": 500
       },
       {
-        "name": "Kate Toomey",
+        "name": "Joe Petty",
         "amount": 500
       },
       {
-        "name": "Joe Petty",
+        "name": "Kate Toomey",
         "amount": 500
       },
       {
@@ -922,12 +926,12 @@
         "amount": 250
       },
       {
-        "name": "Kate Toomey",
-        "amount": 700
-      },
-      {
         "name": "Joe Petty",
         "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 700
       }
     ]
   },
@@ -1013,7 +1017,7 @@
   },
   {
     "name": "Piccolo, John",
-    "total": 1601.89,
+    "total": 1601.8899999999999,
     "city": "Worcester",
     "state": "MA",
     "donations": [
@@ -1026,16 +1030,16 @@
         "amount": 564.56
       },
       {
-        "name": "Kate Toomey",
-        "amount": 113.59
-      },
-      {
         "name": "Joe Petty",
         "amount": 129.59
       },
       {
         "name": "Jose Rivera",
         "amount": 223.98
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 113.59
       },
       {
         "name": "Moe Bergman",
@@ -1082,12 +1086,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Etel Haxhiaj",
-        "amount": 230
-      },
-      {
         "name": "Cayden Davis",
         "amount": 375
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 230
       },
       {
         "name": "Jermoh Kamara",
@@ -1104,6 +1108,30 @@
       {
         "name": "Rob Bilotta",
         "amount": 215
+      }
+    ]
+  },
+  {
+    "name": "Carpenters Local Union #336 Political Action Committee",
+    "total": 1500,
+    "city": "Millbury",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Cayden Davis",
+        "amount": 500
+      },
+      {
+        "name": "Candy Mero-Carlson",
+        "amount": 250
+      },
+      {
+        "name": "Keith Linhares",
+        "amount": 500
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 250
       }
     ]
   },
@@ -1172,30 +1200,6 @@
       {
         "name": "Candy Mero-Carlson",
         "amount": 1500
-      }
-    ]
-  },
-  {
-    "name": "Carpenters Local Union #336 Political Action Committee",
-    "total": 1500,
-    "city": "Millbury",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Candy Mero-Carlson",
-        "amount": 250
-      },
-      {
-        "name": "Cayden Davis",
-        "amount": 500
-      },
-      {
-        "name": "Keith Linhares",
-        "amount": 500
-      },
-      {
-        "name": "Etel Haxhiaj",
-        "amount": 250
       }
     ]
   },
@@ -1282,16 +1286,16 @@
         "amount": 500
       },
       {
-        "name": "Kate Toomey",
-        "amount": 250
+        "name": "John Fresolo",
+        "amount": 25
       },
       {
         "name": "Joe Petty",
         "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "amount": 25
+        "name": "Kate Toomey",
+        "amount": 250
       },
       {
         "name": "Moe Bergman",
@@ -1310,10 +1314,6 @@
         "amount": 300
       },
       {
-        "name": "Kate Toomey",
-        "amount": 150
-      },
-      {
         "name": "Joe Petty",
         "amount": 200
       },
@@ -1322,12 +1322,44 @@
         "amount": 400
       },
       {
+        "name": "Kate Toomey",
+        "amount": 150
+      },
+      {
         "name": "Robert Pezzella",
         "amount": 250
       },
       {
         "name": "Tony Economou",
         "amount": 150
+      }
+    ]
+  },
+  {
+    "name": "Bilotta, Denise",
+    "total": 1400,
+    "city": "Worcester",
+    "state": "MA",
+    "donations": [
+      {
+        "name": "Cayden Davis",
+        "amount": 200
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 250
+      },
+      {
+        "name": "Keith Linhares",
+        "amount": 150
+      },
+      {
+        "name": "Khrystian King",
+        "amount": 200
+      },
+      {
+        "name": "Rob Bilotta",
+        "amount": 600
       }
     ]
   },
@@ -1408,34 +1440,6 @@
     ]
   },
   {
-    "name": "Bilotta, Denise",
-    "total": 1400,
-    "city": "Worcester",
-    "state": "MA",
-    "donations": [
-      {
-        "name": "Etel Haxhiaj",
-        "amount": 250
-      },
-      {
-        "name": "Cayden Davis",
-        "amount": 200
-      },
-      {
-        "name": "Keith Linhares",
-        "amount": 150
-      },
-      {
-        "name": "Khrystian King",
-        "amount": 200
-      },
-      {
-        "name": "Rob Bilotta",
-        "amount": 600
-      }
-    ]
-  },
-  {
     "name": "Kahoro, Joseph",
     "total": 1400,
     "city": "Worcester",
@@ -1458,12 +1462,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Kate Toomey",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "amount": 1000
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 200
       },
       {
         "name": "Satya Mitra",
@@ -1490,12 +1494,12 @@
         "amount": 100
       },
       {
-        "name": "Kate Toomey",
-        "amount": 250
-      },
-      {
         "name": "Joe Petty",
         "amount": 425
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 250
       }
     ]
   },
@@ -1534,20 +1538,20 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Kate Toomey",
-        "amount": 100
-      },
-      {
         "name": "Joe Petty",
         "amount": 600
       },
       {
-        "name": "Tony Economou",
-        "amount": 150
+        "name": "Kate Toomey",
+        "amount": 100
       },
       {
         "name": "Satya Mitra",
         "amount": 500
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 150
       }
     ]
   },
@@ -1638,12 +1642,12 @@
         "amount": 500
       },
       {
-        "name": "Tony Economou",
-        "amount": 500
-      },
-      {
         "name": "Satya Mitra",
         "amount": 250
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 500
       }
     ]
   },
@@ -1682,12 +1686,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Etel Haxhiaj",
-        "amount": 425
-      },
-      {
         "name": "Cayden Davis",
         "amount": 270
+      },
+      {
+        "name": "Etel Haxhiaj",
+        "amount": 425
       },
       {
         "name": "Khrystian King",
@@ -1710,12 +1714,12 @@
         "amount": 525
       },
       {
-        "name": "Kate Toomey",
-        "amount": 150
-      },
-      {
         "name": "Joe Petty",
         "amount": 450
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 150
       },
       {
         "name": "Satya Mitra",
@@ -1762,16 +1766,16 @@
         "amount": 350
       },
       {
-        "name": "Kate Toomey",
-        "amount": 50
-      },
-      {
         "name": "Joe Petty",
         "amount": 50
       },
       {
         "name": "Jose Rivera",
         "amount": 550
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 50
       },
       {
         "name": "Tony Economou",
@@ -1914,16 +1918,16 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Kate Toomey",
-        "amount": 350
+        "name": "John Fresolo",
+        "amount": 200
       },
       {
         "name": "Joe Petty",
         "amount": 500
       },
       {
-        "name": "John Fresolo",
-        "amount": 200
+        "name": "Kate Toomey",
+        "amount": 350
       }
     ]
   },
@@ -1934,12 +1938,12 @@
     "state": "MA",
     "donations": [
       {
-        "name": "Kate Toomey",
-        "amount": 200
-      },
-      {
         "name": "Joe Petty",
         "amount": 250
+      },
+      {
+        "name": "Kate Toomey",
+        "amount": 200
       },
       {
         "name": "Rob Bilotta",
@@ -2038,12 +2042,12 @@
         "amount": 250
       },
       {
-        "name": "Tony Economou",
-        "amount": 100
-      },
-      {
         "name": "Satya Mitra",
         "amount": 150
+      },
+      {
+        "name": "Tony Economou",
+        "amount": 100
       }
     ]
   },

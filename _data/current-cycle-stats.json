@@ -1,8 +1,8 @@
 {
   "tags": {
     "Business": {
-      "total": 50051.89,
-      "count": 36
+      "total": 57551.89,
+      "count": 38
     },
     "Candidate": {
       "total": 13900,
@@ -13,20 +13,20 @@
       "count": 13
     },
     "Real Estate": {
-      "total": 66745.48000000001,
-      "count": 47
+      "total": 68770.48000000001,
+      "count": 49
     },
     "Finance": {
-      "total": 15050,
-      "count": 11
+      "total": 16050,
+      "count": 12
     },
     "Education": {
-      "total": 13125,
-      "count": 8
+      "total": 14150,
+      "count": 9
     },
     "Construction": {
-      "total": 10425,
-      "count": 5
+      "total": 11475,
+      "count": 6
     },
     "Medicine": {
       "total": 18962,
@@ -41,32 +41,32 @@
       "count": 1
     },
     "Family": {
-      "total": 12850,
-      "count": 12
+      "total": 14050,
+      "count": 13
     },
     "Tech": {
-      "total": 20400,
-      "count": 21
+      "total": 21400,
+      "count": 22
     },
     "Labor": {
       "total": 11375,
       "count": 12
     },
     "Law": {
-      "total": 15850,
-      "count": 14
+      "total": 17850,
+      "count": 15
     },
     "Healthcare": {
-      "total": 18016.05,
-      "count": 18
+      "total": 20216.05,
+      "count": 20
     },
     "Social Services": {
       "total": 6080,
       "count": 3
     },
     "Insurance": {
-      "total": 2350,
-      "count": 2
+      "total": 3350,
+      "count": 3
     },
     "Non-profit": {
       "total": 1700,
@@ -97,8 +97,8 @@
       "count": 1
     },
     "Cannabis": {
-      "total": 500,
-      "count": 1
+      "total": 2500,
+      "count": 2
     },
     "Journalism": {
       "total": 160,
@@ -106,7 +106,7 @@
     }
   },
   "CoC": {
-    "total": 107877.94,
-    "count": 66
+    "total": 118377.94,
+    "count": 70
   }
 }

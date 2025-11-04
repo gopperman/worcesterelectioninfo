@@ -2,14 +2,14 @@ name,total,city,state
 "Yatim, Hassan",10500,Shrewsbury,MA
 "Colorio, Donna",7100,Worcester,MA
 "Pezzella, Robert",5075,Worcester,MA
+"Direnzo Jr., John",5000,Millbury,MA
 "Parvin, Kathryn (Krock)",5000,Worcester,MA
 "Coyne, David",4600,Worcester,MA
 "Rhodes, Robin",4150,Worcester,MA
-"Direnzo, John",4000,Millbury,MA
 Ma & Northern Ne Laborers' District Council Pol Action Comm,4000,Hopkinton,MA
 "Norton, Charles",4000,Dover,MA
 "Mitra, Satya",3750,Worcester,MA
-"Mailman, Susan",3400,worcester,MA
+"Mailman, Susan",3400,Worcester,MA
 "Blais, Craig",3300,Worcester,MA
 "Fisher, Charran",3125,Worcester,MA
 "Rafferty, Jeanne",3000,Northborough,MA
@@ -46,15 +46,15 @@ Int'l Union Of Operating Engineers Local 4 Social Pol Action Committee,2000,Medw
 I.b.e.w Local Union 96 PAC,1750,Worcester,MA
 "Bilotta, Robert",1725,Worcester,MA
 "Rodman, Shelley",1700,Worcester,MA
-"Piccolo, John",1601.89,Worcester,MA
+"Piccolo, John",1601.8899999999999,Worcester,MA
 Voter Education Fund Local 170 Drive Pol Action Committee,1550,Worcester,MA
 "Davis, Janet",1530,Worcester,MA
+Carpenters Local Union #336 Political Action Committee,1500,Millbury,MA
 Painters District Council #35 PAC,1500,Roslindale,MA
 "Alexander, Lowell",1500,Worcester,MA
 Ibew Local 2325 Cttee For Political Education PAC,1500,Worcester,MA
 "Swartz, Ellen",1500,Paxton,MA
 "Durkee, Paul",1500,Shrewsbury,MA
-Carpenters Local Union #336 Political Action Committee,1500,Millbury,MA
 "O'Hara, Michael",1500,Shrewsbury,MA
 "Yatim, Maria",1500,Shrewsbury,MA
 "Rodriguez, Wilberto",1500,Norwich,CT
@@ -62,10 +62,10 @@ Carpenters Local Union #336 Political Action Committee,1500,Millbury,MA
 "Reis, Mona",1500,Palm Beach Gardens,FL
 "Pietrewicz, Edward",1475,Worcester,MA
 "Petrone, Anthony",1450,Worcester,MA
+"Bilotta, Denise",1400,Worcester,MA
 "Randell, William",1400,Holden,MA
 "Lanava, Michael",1400,Worcester,MA
 "Borenstein, Mark",1400,Worcester,MA
-"Bilotta, Denise",1400,Worcester,MA
 "Kahoro, Joseph",1400,Worcester,MA
 "Madigan, Francis",1400,Shrewsbury,MA
 "Mooradian, Donna",1375,Worcester,MA
@@ -123,7 +123,6 @@ Worcester-fitchburg Building Trades Councel,1000,West Boylston,MA
 "Powers, Willie",1000,Mechanicsville,VA
 "Candelaria, Efran",1000,Auburn,MA
 Ubc & Ja Local 336,1000,Worcester,MA
-"Direnzo , Jr., John",1000,Millbury,MA
 "Hazard, Bessie",1000,Worcester,MA
 "Kalogeropoulos, James",1000,Andover,MA
 "Lacanfora, Marianne",1000,Owings Mills,MD
@@ -169,8 +168,8 @@ Ubc & Ja Local 336,1000,Worcester,MA
 "Shah, Sanjay",1000,Westborough,MA
 "Lessard, Daniel",1000,Sutton,MA
 "Trifone, Richard",1000,Worcester,MA
-"Herlinger, Dorit",1000,Scottsdale,AZ
 "Sweeney, Andria",1000,Worcester,MA
+"Herlinger, Dorit",1000,Scottsdale,AZ
 "Zutshi, Anup",1000,Acton,MA
 "Depew, Mary",960,Worcester,MA
 "Mooradian, Arthur",950,Worcester,MA
@@ -179,29 +178,29 @@ Ubc & Ja Local 336,1000,Worcester,MA
 "Haddad, Abraham",950,Worcester,MA
 "Garnett, Yancy",950,Worcester,MA
 "Kamara, Kude",922,Worcester,MA
-"Falcone, Joseph",900,Worcester,MA
-"Glodis, Guy",900,Yarmouth Port,MA
 "Aiken, Cynthia",900,Worcester,MA
 "Maurice, Venette",900,Worcester,MA
-"Comparetto, Dante",875,Duluth,MN
+"Falcone, Joseph",900,Worcester,MA
+"Glodis, Guy",900,Yarmouth Port,MA
+"Comparetto, Dante",875,Worcester,MA
 "Kadish, William",862,Worcester,MA
+"Kissane, Jeanne",850,Worcester,MA
 "Freilich, Andrew",850,Shrewsbury,MA
 "Cohen, David",850,Worcester,MA
 "Rodolakis, Stephan",850,Shrewsbury,MA
-"Kissane, Jeanne",850,Worcester,MA
 "Fickert, Meridith",850,Franklin,MA
+"Arbetter, Douglas",800,Worcester,MA
 "Powell, Joanne",800,Worcester,MA
 "Gosnell, Thomas",800,Winchester,MA
-"Arbetter, Douglas",800,Worcester,MA
 "Pezzella, Paul",800,Boston,MA
 "Marzo, Michael",775,Worcester,MA
+"Hobart, Marie",750,Worcester,MA
 "Gemelli, Stephen",750,Worcester,MA
 "Ricciardi, James",750,Worcester,MA
 "Gove, Brendan",750,Shrewsbury,MA
 "Wally, Matthew",750,Worcester,MA
 Voter Education Fund Local 170,750,Worcester,MA
 "Kumar, Manisha",750,Worcester,MA
-"Hobart, Marie",750,Worcester,MA
 "Herlinger, Benjamin",750,Worcester,MA
 "Athy, Andrew",750,WASHINGTON,DC
 "Augustus, Edward",750,Boston,MA
@@ -222,13 +221,13 @@ Voter Education Fund Local 170,750,Worcester,MA
 "Bachour, Roger",700,Leicester,MA
 "Giangrande, Michele",700,Worcester,MA
 "Orzechowski, Daniel",700,Worcester,MA
-"Foley, John",700,Worcester,MA
 "Bianculli, Jeremiah",700,Worcester,MA
+"Foley, John",700,Worcester,MA
 Actblue,700,,MA
 "Brooks, Matthew",660,Worcester,MA
+"Robertson, Marissa",650,Worcester,MA
 "Moudios, Nickolas",650,Worcester,MA
 "Tsigas, Panagiotis",650,Worcester,MA
-"Robertson, Marissa",650,Worcester,MA
 "Leary, James",646.05,Worcester,MA
 "Linhares, Keith",640,Worcester,MA
 "Kirsch, Robert",636,Webster,MA
@@ -245,21 +244,21 @@ Roofers Local 33 Pol Action Comm,600,Stoughton,MA
 "Weber, Christian",600,Holden,MA
 "Rushford, David",600,Worcester,MA
 "Rothschild, Steven",600,Worcester,MA
-"Stead, David",600,Worcester,MA
+"Panagiotou, George",600,Worcester,MA
 "Zamarro, Erin",600,Worcester,MA
 "Monahan, John",600,Worcester,MA
-"Panagiotou, George",600,Worcester,MA
+"Stead, David",600,Worcester,MA
 "Fotiou, Braulia",600,Worcester,MA
 "Rano, Robert",600,Worcester,MA
 "Pape, Glenn",595.7,Worcester,MA
 "Wadhwani, Danny",583,Natick,MA
 "Perrone, Domenica",575,Worcester,MA
 Central Massachusetts Afl-cio,575,Auburn,MA
+"Chen, Kathy",550,Worcester,MA
 "Duncan, Gordon",550,Worcester,MA
 "Goldman, Roberta",550,Shrewsbury,MA
 "Laprade, James",550,Worcester,MA
 "Foley, Carl",550,Worcester,MA
-"Chen, Kathy",550,Worcester,MA
 "Ball, Charles",550,Worcester,MA
 "Raffa, Lucia",550,Shrewsbury,MA
 "Flannery Rossi, Kehlen",525,Auburn,MA
@@ -268,6 +267,10 @@ Central Massachusetts Afl-cio,575,Auburn,MA
 "Arakelian, Arthur",515,Worcester,MA
 "Gardella, Edward",505,Worcester,MA
 "Thirumalai, Ajai",501,Westborough,MA
+"Baker, Katt",500,Medford,MA
+"Burnett, Jeff",500,Worcester,MA
+"Raymond, Nancy",500,Biddeford,ME
+"Lombardi, Sadie",500,Worcester,MA
 "Novak, Paul",500,Worcester,MA
 "Minoque, Michael",500,South Hamilton,MA
 New England Laborers' District Council,500,Hopkinton,MA
@@ -292,17 +295,16 @@ U. B. Of C. & J. Of A.  Local 336,500,Worcester,MA
 Boston Plaster's & Cement Mason's Local 534,500,Boston,MA
 "Robin, Goodell",500,Worcester,MA
 "Munz, Kiara",500,Harvard,MA
-"Baker, Katt",500,Medford,MA
-"Burnett, Jeff",500,Worcester,MA
-"Raymond, Nancy",500,Biddeford,ME
-"Lombardi, Sadie",500,Worcester,MA
 "Evans, Elaine",500,Worcester,MA
 "Fajana, Adekunle",500,Worcester,MA
 "Julian, Paul",500,Worcester,MA
 "Leonard, Mary Beth",500,Worcester,MA
-"Tinsley, E. Paul",500,Naples,FL
-Michael Moore Committee,500,Millbury,MA
-"Santa Maria, Ashleigh",500,Worcester,MA
+"Plumbers Union Local #12 PAC, Pac Fund",500,Boston,MA
+"Courville, Barry",500,Worcester,MA
+"Anziano, Paul",500,Belchertown,MA
+"Parvin, Kevin K",500,Worcester,MA
+"Groccia, Frank E",500,Worcester,MA
+"Kalogeropolous, James",500,Andover,MA
 "Birbara, Charles",500,Worcester,MA
 "Madigan, James",500,Shrewsbury,MA
 "Naughton, Hank",500,Clinton,MA
@@ -323,22 +325,19 @@ Ibew Local 2325 Cope,500,Worcester,MA
 "Xie, Bijuan",500,Shrewsbury,MA
 "Dunne, Dwight",500,Medfield,MA
 Local 1009 Building Account,500,Worcester,MA
+Michael Moore Committee,500,Millbury,MA
 "White, James",500,Natick,MA
 "Woods, John",500,Worcester,MA
 I.be.w. Local Union 96,500,Worcester,MA
 "Patel, Dinesh",500,Springfield,MA
-"Plumbers Union Local #12 PAC, Pac Fund",500,Boston,MA
-"Courville, Barry",500,Worcester,MA
-"Anziano, Paul",500,Belchertown,MA
-"Parvin, Kevin K",500,Worcester,MA
-"Groccia, Frank E",500,Worcester,MA
-"Kalogeropolous, James",500,Andover,MA
 "Tonna, George",500,Worcester,MA
 "Quist, Steve",500,Worcester,MA
 Voter Education Fund,500,,MA
 "Depietri, Robert",500,Sothboro,MA
 "Romeo, Pepe",500,Worcester,MA
 "Oconnor, Dennis",500,Worcester,MA
+"Tinsley, E. Paul",500,Naples,FL
+"Santa Maria, Ashleigh",500,Worcester,MA
 "Shah, Lisetta",500,Worcester,MA
 "Couture, Liz",500,Worcester,MA
 Committee Of Interns And Residents,500,Long Island,NY
@@ -379,10 +378,6 @@ I.u.o.e. Local No. 4,500,Medway,MA
 "Clifford, Raymond",500,Holden,MA
 "Cohen, Howard",500,Newton,MA
 "Kashi Corp, Speedy",500,Worcester,MA
-"Arvanigian, Gary",500,Worcester,MA
-"Woods Jr., John",500,Worcester,MA
-"Angelis, Konstantinos",500,Holden,MA
-"Dono, Howard",500,West Boylston,MA
 "Acharya, Ravindra",500,Charlton,MA
 "Shah, Hemant",500,Westborough,MA
 "Lano, Felicio",500,Worcester,MA
@@ -403,6 +398,10 @@ I.u.o.e. Local No. 4,500,Medway,MA
 "Mcgee, Timothy",500,Worcester,MA
 "Rao, Jay",500,Needham,MA
 "Sheth, Hitesh",500,West Chester,OH
+"Arvanigian, Gary",500,Worcester,MA
+"Woods Jr., John",500,Worcester,MA
+"Angelis, Konstantinos",500,Holden,MA
+"Dono, Howard",500,West Boylston,MA
 "Rosen, Maria",500,Worcester,MA
 Seiu Local 32bj United Adf Ma Gto PAC,500,Yonkers,NY
 "Joyce, Daniel",500,Wilbraham,MA
@@ -417,6 +416,8 @@ Seiu 509 Cope,500,Marlboro,MA
 "Roy, Kevin",470,Worcester,MA
 "Mackowiak, Jessica",460,Worcester,MA
 "Rosenblum, Charles",460,Worcester,MA
+"Seager, Carol",450,Worcester,MA
+"Anthes, Frances",450,Worcester,MA
 "Pisegna, Francis",450,Worcester,MA
 "Sousa, John",450,Worcester,MA
 "Smith, Noreen",450,Charlton,MA
@@ -425,8 +426,6 @@ Seiu 509 Cope,500,Marlboro,MA
 "Eddy, Brendan",450,Worcester,MA
 "Murray, Sean",450,Worcester,MA
 "Perez, Luis",450,Paxton,MA
-"Seager, Carol",450,Worcester,MA
-"Anthes, Frances",450,Worcester,MA
 "Maloney, John",450,Worcester,MA
 "Macdonald, Sharon",450,Worcester,MA
 "Baker, Charles",450,Brookline,MA
@@ -444,6 +443,8 @@ Seiu 509 Cope,500,Marlboro,MA
 "Mcevoy, Catheryn",425,Worcester,MA
 "Barnes, Pamela",410,Worcester,MA
 "Loy, Sarah",405,Worcester,MA
+"Morales, Maydee",400,Worcester,MA
+"Momberger, Bradley",400,Worcester,MA
 "Ludden, Shane",400,Worcester,MA
 "Rothschild, Julia",400,Worcester,MA
 "Perez, Jose",400,Worcester,MA
@@ -451,17 +452,15 @@ Seiu 509 Cope,500,Marlboro,MA
 "Comeau, John",400,Worcester,MA
 "Keyo, Rachel",400,Worcester,MA
 "Lee, Hannah",400,Worcester,MA
-"Morales, Maydee",400,Worcester,MA
-"Momberger, Bradley",400,Worcester,MA
 "Needle, Nathaniel",400,WORCESTER,MA
 "Boateng, Richard",400,Worcester,MA
-"White, Robert",400,Dorchester,MA
-"Pedone, Vincent",400,Worcester,MA
-"Stefanini, Charles",400,Framingham,MA
-"Valade, Charles",400,Sutton,MA
 "Simoncini, Kenneth",400,Worcester,MA
 "Aboody, George",400,Worcester,MA
 "Fiore, Maria",400,Worcester,MA
+"Pedone, Vincent",400,Worcester,MA
+"Stefanini, Charles",400,Framingham,MA
+"White, Robert",400,Dorchester,MA
+"Valade, Charles",400,Sutton,MA
 "Medina, Douglas",400,Worcester,MA
 "Garabedian, Garabed",400,Worcester,MA
 "Baker, Elizabeth",400,Worcester,MA
@@ -483,6 +482,7 @@ Central Mass Afl-cio,375,Auburn,MA
 "Nathan, Frederick",365,Worcester,MA
 "Rotman, Bernard",360,Worcester,MA
 "Reticker, Mary",355,Cambridge,MA
+"Cronin, Amanda",350,Worcester,MA
 "Sorrenti, Robert",350,Worcester,MA
 "Penny, Sandra",350,,MA
 "Evangelista, Joseph",350,Worcester,MA
@@ -491,11 +491,8 @@ Central Mass Afl-cio,375,Auburn,MA
 "Reilly, Karynsue",350,Auburn,MA
 "Mossalam, Nichole",350,Malden,MA
 "More, Ellen",350,Worcester,MA
-"Cronin, Amanda",350,Worcester,MA
-"Blais, Criag",350,Worcester,MA
-"Mccarthy, Thomas",350,Lehigh Acres,FL
-"Weiss, Charles",350,Holden,MA
 "Crawford, Michael",350,Needham,MA
+"Weiss, Charles",350,Holden,MA
 "Ricca, Joseeph",350,Shrewsbury,MA
 "Giesser, John",350,Auburndale,MA
 "Morton, Robert",350,Sutton,MA
@@ -504,17 +501,19 @@ Central Mass Afl-cio,375,Auburn,MA
 "Irish, Dennis",350,Worcester,MA
 "Preskul-ricca, Mary Ann",350,Shrewsbury,MA
 "Economou, Philip",350,Worcester,MA
+"Blais, Criag",350,Worcester,MA
+"Mccarthy, Thomas",350,Lehigh Acres,FL
 "Swanson, Juanita",350,Dudley,MA
 "Fisher, Elaine",350,Boston,MA
 "Burke, Mary",350,Worcester,MA
 "Mortimer, John",350,Spencer,MA
 "Needle, Rachel",350,West Palm Beach,FL
 "Khatib, Sarah",350,Walpole,MA
-"Cipro, Richard",330,Worcester,MA
 "Mejia, Adrian",330,Worcester,MA
+"Cipro, Richard",330,Worcester,MA
+"Doyle, Aislinn",325,Worcester,MA
 "Haglund, Carolyn",325,,MA
 "Labonte, Hope",325,Boylston,MA
-"Doyle, Aislinn",325,Worcester,MA
 "Spillane, John",325,Worcester,MA
 "Iarrobino, Brett",325,Worcester,MA
 "Mccallum, Danaah",325,Douglas,MA
@@ -522,6 +521,9 @@ Central Mass Afl-cio,375,Auburn,MA
 "Croke, Joshua",320,Worcester,MA
 "Dempsey, Gail",320,Worcester,MA
 "Dube, Mary",306,Worcester,MA
+"Torres, Victoria",300,Worcester,MA
+"Campen, Jim",300,Cambridge,MA
+"Johnson, Dwight",300,Worcester,MA
 "Franco, Paul",300,Worcester,MA
 "Macdonald, Lincoln",300,Worcester,MA
 "Trainor, James",300,Worcester,MA
@@ -534,30 +536,27 @@ Int'l Brotherhood Of Electrical Workers Local Union 2222 Pol Action Comm,300,Qui
 "Giarusso, Kathleen",300,Worcester,MA
 "Jim, Campen",300,Cambridge,MA
 "Griffith, Evan",300,Worcester,MA
-"Torres, Victoria",300,Worcester,MA
-"Campen, Jim",300,Cambridge,MA
-"Johnson, Dwight",300,Worcester,MA
 "Gino, Nuzzolilo",300,Worcester,MA
-"Pezella, Paul",300,Boston,MA
-"Wondolowski, David",300,Worcester,MA
-"Lefebvre, Scott",300,Shrewsbury,MA
-"Mccarthy, Kevin",300,Chatham,MA
-"Irish, Matthew",300,Worcester,MA
-"Amorello, Robert",300,Jefferson,MA
-"Finneran, Mary",300,Milton,MA
-"Guardiola, Alex",300,Worcester,MA
-"Robinson, Edward",300,Worcester,MA
 "Mendelsohn, Bruce",300,Millbury,MA
 "Festa, John",300,Worcester,MA
 "Decaire, Darlene",300,Worcester,MA
 "Setaro, Robert",300,West Boylston,MA
 "Stamoulis, Helen",300,Worcester,MA
 "Valeri, Chris",300,Worcester,MA
+"Mccarthy, Kevin",300,Chatham,MA
+"Irish, Matthew",300,Worcester,MA
+"Amorello, Robert",300,Jefferson,MA
+"Finneran, Mary",300,Milton,MA
+"Guardiola, Alex",300,Worcester,MA
+"Robinson, Edward",300,Worcester,MA
 "Faulkner, Mark",300,Nashville,TN
 "Desautels, Burke",300,Oxford,MA
 "Kelleher, Willam",300,Worcester,MA
 "Stamoulis, Dean",300,Worcester,MA
 "Mendelson, Bruce",300,Millbury,MA
+"Pezella, Paul",300,Boston,MA
+"Wondolowski, David",300,Worcester,MA
+"Lefebvre, Scott",300,Shrewsbury,MA
 "Markey, Riley",300,Worcester,MA
 "Mcevoy, Joseph",300,Worcester,MA
 "Linhares, Lisa",300,West Wareham,MA
@@ -574,7 +573,6 @@ Int'l Brotherhood Of Electrical Workers Local Union 2222 Pol Action Comm,300,Qui
 "Gyimah, Eric",300,Worcester,MA
 "Caramello, Daniel",300,West Boylston,MA
 "Wage, Steve",300,Worcester,MA
-"Kostas, Noula",300,Worcester,MA
 "Greene, Kevin",300,Jefferson,MA
 "Spiro, Maria",300,Worcester,MA
 "O'sullivan, Trevor",300,San Diego,CA
@@ -585,12 +583,13 @@ Int'l Brotherhood Of Electrical Workers Local Union 2222 Pol Action Comm,300,Qui
 "D'iorio, John",300,Worcester,MA
 Voter Education Fund Local 170 Drive Fund,300,Worcester,MA
 "Mortimore, John",300,Spencer,MA
-"Capsalis, Peter",300,Worcester,MA
-"Peterson, David",300,Worcester,MA
-"Sloan, Mike",300,Worcester,MA
+"Kostas, Noula",300,Worcester,MA
 "Bhattacharjee, Kamalika",300,Shrewsbury,MA
 "Harling, Kenneth",300,Worcester,MA
+"Peterson, David",300,Worcester,MA
 "Vakil, Rohit",300,Shrewsbury,MA
+"Capsalis, Peter",300,Worcester,MA
+"Sloan, Mike",300,Worcester,MA
 Facebook,300,,MA
 Sheet Metal Workers Local (80298) #63,300,Springfield,MA
 "Comer, Kathleen",298,Worcester,MA
@@ -604,6 +603,9 @@ Sheet Metal Workers Local (80298) #63,300,Springfield,MA
 "Mariani, Laura",260,Worcester,MA
 "Shea, J. Tim",257.94,Acton,MA
 "Davidson-weiss, Sam",252,Somerville,MA
+"O'Donnell, Bryan",250,Worcester,MA
+"Robarge, Christopher",250,Worcester,MA
+"Mcevoy, Johanna",250,Worcester,MA
 "Casey, Mary",250,Paxton,MA
 "Monfredo, John",250,Worcester,MA
 "Daly, Thomas",250,Shrewsbury,MA
@@ -625,13 +627,11 @@ Roofers Local 33 Pol Action Community,250,Stoughton,MA
 "Abreau-hernandez, Viviana",250,Worcester,MA
 "Doyle, Timothy",250,Worcester,MA
 "Okeeffe, Christopher",250,Marlborough,MA
-"O'Donnell, Bryan",250,Worcester,MA
-"Robarge, Christopher",250,Worcester,MA
-"Mcevoy, Johanna",250,Worcester,MA
 "Morweh, Garcon",250,Chicago,IL
 "Ellis, Arthur",250,Worcester,MA
-"Valery, Vanessa",250,South Hadley,MA
-"Smalley, Richard",250,Worcester,MA
+"Bianculli, William",250,Worcester,MA
+"Genatossio, Matthew",250,Shrewsbury,MA
+"Palley, Warren",250,Southborough,MA
 "Andrianopoulos, Andrew",250,Worcester,MA
 "Ghalibaf, Mansour",250,Worcester,MA
 "Waxler, Mark",250,Worcester,MA
@@ -658,15 +658,14 @@ Ma Restaurant Association Pol Action Comm,250,Boston,MA
 "Madaus, Edward",250,Boylston,MA
 Sheet Metal Workers Local # 63,250,Springfield,MA
 "Tetler, George",250,Worcester,MA
-"Bianculli, William",250,Worcester,MA
-"Genatossio, Matthew",250,Shrewsbury,MA
-"Palley, Warren",250,Southborough,MA
 "Cosby, Ryan",250,W Brookfield,MA
 "Dileo, Vincent",250,Sutton,MA
 "Gordon, Alan",250,Worcester,MA
 "Ramber, Heeran",250,Worcester,MA
 "Konstantakis, Kyrakus",250,Charlton,MA
 "Petlway, Al",250,Worcester,MA
+"Valery, Vanessa",250,South Hadley,MA
+"Smalley, Richard",250,Worcester,MA
 "Farren, Pam",250,Worcester,MA
 "Battula, Vinay",250,Worcester County,MA
 "Sliwoski, Anthony",250,Worcester,MA
@@ -687,8 +686,6 @@ Sheet Metal Workers Local # 63,250,Springfield,MA
 "Bellil, Youcef",250,Holden,MA
 "Bilotta, Kathleen",250,Worcester,MA
 "Swanson, Susan",250,Worcester,MA
-"Levitsky, Gary",250,Worcester,MA
-"Esmaieli, Klari",250,Woodstock Valley,CT
 "Gasperine, Kathleen",250,Concord,MA
 "Shattuck, Howard",250,Worcester,MA
 "Mahoney, John",250,Hull,MA
@@ -702,15 +699,10 @@ Sheet Metal Workers Local # 63,250,Springfield,MA
 "Konan, Michael",250,Millbury,MA
 "Moynihan, John",250,Worcester,MA
 "Revelli, Brandon",250,Worcester,MA
-"Bourgault, Edward",250,Worcester,MA
-"Nockunas, Michael",250,Worcester,MA
-"Comeau, Helen",250,Worcester,MA
-"Mccauley, Robert",250,Worcester,MA
-"Griffin, Colleen",250,Worcester,MA
-"Moudios, Erin",250,Worcester,MA
-"Murray, Thomas",250,Worcester,MA
-"Sullivan, John",250,Worcester,MA
+"Levitsky, Gary",250,Worcester,MA
+"Esmaieli, Klari",250,Woodstock Valley,CT
 "Mallick, Rajib",250,El Paso,TX
+"Bourgault, Edward",250,Worcester,MA
 "Schmidt, Anastasia",250,New York,NY
 "Marvi, Junaid",250,Dedham,MA
 "Salois, Joe",250,Auburn,MA
@@ -732,10 +724,17 @@ Sheet Metal Workers Local # 63,250,Springfield,MA
 "Kohli, Puneet",250,Grafton,MA
 "Roy, Soumitra",250,Shrewsbury,MA
 "Busenburg, Eric",250,Shrewsbury,MA
+"Nockunas, Michael",250,Worcester,MA
+"Comeau, Helen",250,Worcester,MA
+"Mccauley, Robert",250,Worcester,MA
+"Griffin, Colleen",250,Worcester,MA
+"Moudios, Erin",250,Worcester,MA
+"Murray, Thomas",250,Worcester,MA
+"Sullivan, John",250,Worcester,MA
 Ubc & Ja Local 336 (80992),250,Millbury,MA
-"Cruickshank, James",240,Worcester,MA
 "Harvey, Ann",240,Worcester,MA
 "Davis, Justine",240,Lyman,ME
+"Cruickshank, James",240,Worcester,MA
 "Pellegrini, Linda",236,Worcester,MA
 "Cohen, Jackie",236,Worcester,MA
 "Abraham, Stephen",225,Worcester,MA
@@ -758,6 +757,13 @@ Officesupply.com,208.42,,MA
 "Ford, John M",201,West Boylston,MA
 "Patel, Sachin",201,Holden,MA
 "Kostas, Theodore",200.66,Worcester,MA
+"Ahern, Shannon",200,West Boylston,MA
+"Gibson, Mary Ann",200,Worcester,MA
+"Rogers, Michael",200,Worcester,MA
+"Wilson, Evan",200,Worcester,MA
+Domenica Perrone Committee,200,Boston,MA
+"Bejune, Kathleen",200,Worcester,MA
+"Hastie, George",200,Boston,MA
 "Egan, James",200,Worcester,MA
 "Peters, Gary",200,Worcester,MA
 "Toomey, Kathleen",200,Worcester,MA
@@ -785,13 +791,12 @@ Heat & Frost Insulators Local 6,200,Boston,MA
 "Petty, Gayle",200,Worcester,MA
 "Foss, Mark",200,Worcester,MA
 "Kasper, William",200,Worcester,MA
+"Templeton, Susan C.",200,Leominster,MA
 "Daniel, Orzechowski",200,Worcester,MA
 "Bivona, Francesco",200,Worcester,MA
-Domenica Perrone Committee,200,Worcester,MA
 "Bickford, Brian",200,Worcester,MA
 "Robichaud, Suzanne",200,Worcester,MA
 "Kahn, Willa",200,Worcester,MA
-"Rogers, Michael",200,Worcester,MA
 "Oconnor, Kathleen",200,Worcester,MA
 "Ahmadjian, Chris",200,Worcester,MA
 "Boudreau, Kristin",200,Worcester,MA
@@ -802,11 +807,6 @@ Domenica Perrone Committee,200,Worcester,MA
 "Cusher, Daniel",200,Grafton,MA
 "Green, Margaret",200,Worcester,MA
 "Masterson, Anita",200,Worcester,MA
-"Ahern, Shannon",200,West Boylston,MA
-"Gibson, Mary Ann",200,Worcester,MA
-"Wilson, Evan",200,Worcester,MA
-"Bejune, Kathleen",200,Worcester,MA
-"Hastie, George",200,Boston,MA
 "Depalo, Paul",200,Worcester,MA
 "Dodakian, Marianne",200,Worcester,MA
 "Torkornoo., Eric",200,Worcester,MA
@@ -818,24 +818,21 @@ Committee To Elect Domenica Perrone,200,Worcester,MA
 "Mappy, Massa",200,Leominster,MA
 "Porter, Laura",200,Worcester,MA
 "David, Coyne",200,Worcester,MA
-"Templeton, Susan C.",200,Leominster,MA
-"Sadowsky, Kenneth",200,Miami,FL
-"Comeau, Iii, John",200,Worcester,MA
-"Pedone, Michael",200,Worcester,MA
-"Lopez, Maria",200,Worcester,MA
-"Mastrovito, Donna",200,Worcester,MA
-"Shear, Francine",200,Worcester,MA
-"Browne, James",200,Worcester,MA
-Candy Mero Carlson Committee,200,Worcester,MA
-"Trainor, Ellen",200,Worcester,MA
-"Koocher, Glenn",200,Boston,MA
+"Trapasso & Associates, Francis",200,Worcester,MA
+"Economou, Fred",200,Worcester,MA
 "Marlborough, James",200,Worcester,MA
-"Mercadante, Kathleen",200,Worcester,MA
+"Tessier, Carol-ann",200,Worcester,MA
+"Yskollari, Mario",200,Worcester,MA
+"Shine, Geraldine",200,Worcester,MA
+"Beqiri, Mexhite",200,Worcester,MA
+"Bonyani, Jamal",200,Worcester,MA
+"Haddad, Alex",200,Worcester,MA
 "Anderson, Mary Lou",200,Worcester,MA
 "Donoghue, Michael",200,Worcester,MA
 "Hoey, Robert",200,Auburn,MA
 "Monahan, Charles",200,Worcester,MA
 "Alaimo, Allison",200,Boylston,MA
+Candy Mero Carlson Committee,200,Worcester,MA
 "Perrone, Vincent",200,Boylston,MA
 "Angelini, Marie",200,Worcester,MA
 "Toomey, Kathryn",200,Worcester,MA
@@ -862,18 +859,11 @@ Candy Mero Carlson Committee,200,Worcester,MA
 Kate Toomey Committee,200,Worcester,MA
 "Messier, Monique",200,Ware,MA
 "Miller, Thomas",200,Bolton,MA
+"Trainor, Ellen",200,Worcester,MA
 "Cooney, Tim",200,Hyannis,MA
 "Epstein, Mark",200,Mount Pleasant,SC
 "Dickson, Eric",200,Princeton,MA
 "Mcgourthy, Nadia",200,Worcester,MA
-"Trapasso & Associates, Francis",200,Worcester,MA
-"Economou, Fred",200,Worcester,MA
-"Tessier, Carol-ann",200,Worcester,MA
-"Yskollari, Mario",200,Worcester,MA
-"Shine, Geraldine",200,Worcester,MA
-"Beqiri, Mexhite",200,Worcester,MA
-"Bonyani, Jamal",200,Worcester,MA
-"Haddad, Alex",200,Worcester,MA
 "Kelleher, Tammy",200,Worcester,MA
 "Aaronson, Mark",200,Cranston,RI
 "Del Toro- Cournoyer, Madeline",200,Worcester,MA
@@ -882,6 +872,15 @@ Kate Toomey Committee,200,Worcester,MA
 "Rodriguez, Alexander",200,Southbridge,MA
 "Shear, Mark",200,Worcester,MA
 "Rambeeran, Heeran",200,Worcester,MA
+"Lopez, Maria",200,Worcester,MA
+"Sadowsky, Kenneth",200,Miami,FL
+"Comeau, Iii, John",200,Worcester,MA
+"Pedone, Michael",200,Worcester,MA
+"Mastrovito, Donna",200,Worcester,MA
+"Shear, Francine",200,Worcester,MA
+"Browne, James",200,Worcester,MA
+"Koocher, Glenn",200,Boston,MA
+"Mercadante, Kathleen",200,Worcester,MA
 Etel Haxhiaj Committee,200,Worcester,MA
 "Thomas, Benjamin",200,Stoughton,MA
 "Bernstein, Rebecca",200,Philadelphia,PA
@@ -918,8 +917,6 @@ Santander Bank,200,,MA
 "Hunter, Stephanie",200,Worcester,MA
 "Medeiros, Paul",200,Rochdale,MA
 "Rinaldi, Louis And Sue",200,Worcester,MA
-"Friedrichs, Christi",200,Worcester,MA
-Worcester Republican City Committee,200,Worcester,MA
 "Ravosa, Anthony",200,Glastonbury,CT
 "Naji, Raghad",200,Worcester,MA
 "Direda, James",200,Sterling,MA
@@ -943,6 +940,17 @@ Nixon Peabody Llp Political Action Committee,200,Rochester,NY
 "Mazzone, Robert",200,Worcester,MA
 "Solitro, Matthew",200,Shrewsbury,MA
 "Toomey, Stephen",200,Worcester,MA
+"Friedrichs, Christi",200,Worcester,MA
+Worcester Republican City Committee,200,Worcester,MA
+"Mallick, Urmila",200,New Haven,CT
+"Kariuki, Samuel",200,Worcester,MA
+"Schayler, Lawrence",200,Oakham,MA
+"Augustus, Joyce",200,Northbridge,MA
+"Dutta, Rabindra",200,Worcester,MA
+"Pradip, Ghosh",200,Holden,MA
+"Debroy, Anupama",200,Shrewsbury,MA
+"Peters, Norman",200,Paxton,MA
+"Bailey, Lydia",200,Athol,MA
 "Bourque, Kyle",200,Leicester,MA
 "Hoey, Carolyn",200,Worcester,MA
 "Brunelle, Stephen",200,Worcester,MA
@@ -951,17 +959,8 @@ Nixon Peabody Llp Political Action Committee,200,Rochester,NY
 "Pero, Steven",200,Holden,MA
 "Mcdonald, Lincoln",200,Worcester,MA
 "West, Roger",200,Worcester,MA
-"Peters, Norman",200,Paxton,MA
 "Gentilucci, Steven",200,Worcester,MA
 "Taylor, Jennifer",200,Worcester,MA
-"Mallick, Urmila",200,New Haven,CT
-"Kariuki, Samuel",200,Worcester,MA
-"Schayler, Lawrence",200,Oakham,MA
-"Augustus, Joyce",200,Northbridge,MA
-"Dutta, Rabindra",200,Worcester,MA
-"Pradip, Ghosh",200,Holden,MA
-"Debroy, Anupama",200,Shrewsbury,MA
-"Bailey, Lydia",200,Athol,MA
 "Chadwick, Oliver",200,Worcester,MA
 "Gibson, Nathalie",200,Worcester,MA
 "Cuningham, Kimberly",200,Portsmouth,RI
@@ -984,9 +983,9 @@ Nixon Peabody Llp Political Action Committee,200,Rochester,NY
 "O'neil, Tim",180,Worcester,MA
 "Arello, Ursula",178,Worcester,MA
 Staples,177.72,Shrewsbury,MA
-"Polito, Anthony",175,Worcester,MA
 "Cahoon, Ann",175,Worcester,MA
 "Rentsch, Jessica",175,Worcester,MA
+"Polito, Anthony",175,Worcester,MA
 "Berry, Hazel",175,Worcester,MA
 "Gualdarrama, Esperanza",175,Westford,MA
 "Palmieri, Philip",175,Worcester,MA
@@ -997,15 +996,19 @@ Staples,177.72,Shrewsbury,MA
 "Borenstein, Morgan",172,Worcester,MA
 "Moore, Sarah",170,Worcester,MA
 "Binienda, Maureen",170,Worcester,MA
-"Lasell, Hana",165,Worcester,MA
 "Glazer, Jenna",165,Worcester,MA
 "Kaplan, Annie",165,Belmont,MA
 "Grumbach, Lindsay",165,Worcester,MA
-"O'neil, Timothy",160,Worcester,MA
+"Lasell, Hana",165,Worcester,MA
 "Engdahl, Shelley",160,Worcester,MA
 "Shaner, Bill",160,Worcester,MA
+"O'neil, Timothy",160,Worcester,MA
 "Stepp, Susan",155,Worcester,MA
-"Abreu, Julio",150,Worcester,MA
+"Kane, Ali",150,Worcester,MA
+"Wight, Daniel",150,Worcester,MA
+"Bromell, Jana",150,Worcester,MA
+"Curtin, John",150,Worcester,MA
+"Spring, Ashley",150,Odessa,FL
 "Fish, Andy",150,Worcester,MA
 "Franke, Caroline",150,Worcester,MA
 "Longhi, John",150,,MA
@@ -1014,37 +1017,29 @@ Staples,177.72,Shrewsbury,MA
 "Toomey, Kate",150,Worcester,MA
 "Sena, Francis",150,Worcester,MA
 "Giordano, Gus",150,Worcester,MA
+"Abreu, Julio",150,Worcester,MA
 "Cooney, Timothy",150,West Hyannisport,MA
 "Kasey, Poulin",150,Worcester,MA
 "Garcia, Carlos",150,Shrewsbury,MA
 "Negron, Carmen",150,Worcester,MA
-"Kane, Ali",150,Worcester,MA
-"Wight, Daniel",150,Worcester,MA
-"Bromell, Jana",150,Worcester,MA
-"Curtin, John",150,Worcester,MA
-"Spring, Ashley",150,Odessa,FL
 "Djinaye, Patrice",150,Grafton,MA
 "Noe, Matthew",150,Worcester,MA
 "Sulonteh, My Numbers",150,Worcester,MA
 "Asafoadjei, Ken",150,Worcester,MA
 "Mary, Depew",150,worcester,MA
-"Cronin, Jo-anne",150,Shrewsbury,MA
-"Dibaro, Gina",150,Worcester,MA
-"Trainor, Theresa",150,Worcester,MA
-"Duffy, Thomas",150,Worcester,MA
-"Giangrande, Michelle",150,Worcester,MA
-"Falcone, Michael",150,Worcester,MA
-"Mcglynn, Michael",150,Medford,MA
-"Andreoli, Christina",150,Holden,MA
-"Bianca, Robert",150,Shrewsbury,MA
-"Finklestein, Jonathan",150,Worcester,MA
-"Rodriguez-fay, Ruth",150,Worcester,MA
 "Jackson, Darnelle",150,Worcester,MA
 "Girard, Maryann",150,Worcester,MA
 "Fresolo, Irene",150,Worcester,MA
 "Algeri, Louis",150,Worcester,MA
 "Panagiotou, Peter",150,Worcester,MA
 "Porcaro, James",150,Worcester,MA
+"Falcone, Michael",150,Worcester,MA
+"Mcglynn, Michael",150,Medford,MA
+"Andreoli, Christina",150,Holden,MA
+"Bianca, Robert",150,Shrewsbury,MA
+"Finklestein, Jonathan",150,Worcester,MA
+"Trainor, Theresa",150,Worcester,MA
+"Rodriguez-fay, Ruth",150,Worcester,MA
 "Bernhard, Bill",150,Worcester,MA
 "Kneeland, David",150,Worcester,MA
 "Gunnerson, Paul",150,Worcester,MA
@@ -1052,6 +1047,10 @@ Staples,177.72,Shrewsbury,MA
 "Machione-reilly, Karynsue",150,Auburn,MA
 "Pagano, Joseph",150,Worcester,MA
 "Tembenis, Harry",150,Worcester,MA
+"Cronin, Jo-anne",150,Shrewsbury,MA
+"Dibaro, Gina",150,Worcester,MA
+"Duffy, Thomas",150,Worcester,MA
+"Giangrande, Michelle",150,Worcester,MA
 "Karpowich, Nathan",150,Worcester,MA
 "Santiago, Luis",150,Worcester,MA
 "Rodriguez Fay, Ruth",150,Worcester,MA
@@ -1069,18 +1068,18 @@ Staples,177.72,Shrewsbury,MA
 "O'keeffe, Christopher",150,Marlborough,MA
 "Remy, Patrick",150,Worcester,MA
 "Chafoya, Noelia",150,Worcester,MA
-"Efstathiou, Spiro",150,Worcester,MA
 "Murgo, Donna",150,Worcester,MA
 "Hartman, Scott",150,Southboro,MA
 "Pezzella, Anthony",150,Boston,MA
 "Pezzella, Nicholas",150,Boston,MA
 "Cicio, Francis",150,Shrewsbury,MA
 "Turco, Jeffery",150,Winthrop,MA
-"Russell, George",150,Worcester,MA
+"Efstathiou, Spiro",150,Worcester,MA
 "Iyer, Radhakrishnan",150,Shrewsbury,MA
 "Capalbo, George",150,Millbury,MA
 "Pina, Hector",150,Woburn,MA
 "Ghosh, Gouri",150,Shrewsbury,MA
+"Russell, George",150,Worcester,MA
 "Fletcher, Allen",150,Worcester,MA
 "Matthews, Rebecca",150,Worcester,MA
 "Long-bellil, Linda",150,Holden,MA
@@ -1091,25 +1090,27 @@ Staples,177.72,Shrewsbury,MA
 "Hernandez, Paul",140,Worcester,MA
 "Correa, Damary",140,Southbridge,MA
 "Pena, Elyse",140,Worcester,MA
-"Roux, Carolyn",135,Sterling,MA
 "Diamondstone, Judith",135,Worcester,MA
-"Senior, Kathleen",130,Worcester,MA
+"Roux, Carolyn",135,Sterling,MA
 "Lawson, Maria",130,Worcester,MA
+"Senior, Kathleen",130,Worcester,MA
 "Gonzalez, Edwin",130,Worcester,MA
 "Bureau, Anne",130,Worcester,MA
 "Seyral, Anamaria",130,Worcester,MA
 "Connolly, Nicole",130,Westborough,MA
 "Conlon, Jeffrey",129,Worcester,MA
+"Desroches, Jennifer",125,Worcester,MA
+"Rao, Jessica",125,Worcester,MA
+"Bunker, Joanna",125,Worcester,MA
+"Cashman, Kelly",125,Worcester,MA
 "Motta, Ronald",125,Worcester,MA
 "Arello, Mary",125,Worcester,MA
 "Sutter, Diane",125,Worcester,MA
 "Austin, Patricia",125,Worcester,MA
 "Hall, Gloria",125,Worcester,MA
-"Desroches, Jennifer",125,Worcester,MA
-"Rao, Jessica",125,Worcester,MA
-"Bunker, Joanna",125,Worcester,MA
-"Cashman, Kelly",125,Worcester,MA
 "Maloney, Barry",125,Worcester,MA
+"Leone, Rocco",125,Worcester,MA
+"Troiano, Anthony",125,Worcester,MA
 "Moughan, James",125,Holden,MA
 "Knickers, Kim",125,Paxton,MA
 "Sorrenti, Lynda",125,Worcester,MA
@@ -1120,8 +1121,6 @@ Staples,177.72,Shrewsbury,MA
 "Leary, Carolyn",125,Worcester,MA
 "Mazzochi, Richard",125,North Andover,MA
 "Petty, Mary Karen",125,Worcester,MA
-"Leone, Rocco",125,Worcester,MA
-"Troiano, Anthony",125,Worcester,MA
 "Abboud, Margaret",125,Worcester,MA
 Central Massachusettes Afl-cio,125,Auburn,MA
 "Corazzini, Joseph",125,Framingham,MA
@@ -1141,7 +1140,7 @@ Central Massachusettes Afl-cio,125,Auburn,MA
 "Sullivan, Mary",125,Worcester,MA
 "Thomas, Brandy",125,Worcester,MA
 "Ausmus, Sean",120,Worcester,MA
-"Belezarian, Thomas",120,Worcester,MA
+"Belezarian, Thomas",120,,MA
 "Perkins, Katharine",118,Worcester,MA
 "Michel, Linda",115,Worcester,MA
 "Burke, Suzanne",110,Worcester,MA
@@ -1153,8 +1152,32 @@ Central Massachusettes Afl-cio,125,Auburn,MA
 "Adu-gyamfi, Frank",103.48,Crpress,TX
 "Dotse, Christopher",103.48,Worcester,MA
 "Snath, Neeta",101,Shrewsbury,MA
-"Cigollen, Jesus",100,Worcester,MA
-"Rodriguez, Amalfis",100,Worcester,MA
+Haxhiaj Committee,100,Worcester,MA
+"Larrobino, Brett",100,Worcester,MA
+"Assefa, Martha",100,Worcester,MA
+"Sarkis, Marianne",100,Worcester,MA
+"Yonkers, Alaina",100,Worcester,MA
+"Blow, Savannah",100,Worcester,MA
+"Medina, Nelly",100,Worcester,MA
+"Thomsen, Karen",100,Worcester,MA
+"Odonnell, Mary",100,Worcester,MA
+"Poland, Jessee",100,Manchester,CT
+"Babineau, Angela",100,Webster,MA
+"Killay, Danielle",100,Worcester,MA
+"Perez, Mary",100,Worcester,MA
+"Polanksi, David",100,Worcester,MA
+"Hodgdon, Sean",100,Worcester,MA
+"Campbell, Linda",100,Martinsburg,WV
+"Thomsen, Johanna",100,Worcester,MA
+"Rao, Cathy",100,Worcester,MA
+"Boucher, Rory",100,Worcester,MA
+"Dyer, Zachary",100,Worcester,MA
+"Reid, Christine",100,South Grafton,MA
+"Roman, Jeneczka",100,Providence,RI
+"Vijayakumar, Gayathri",100,New Haven,CT
+"Bayley, Allison",100,Scarborough,ME
+"Dilizia, Anthony",100,Glastonbury,CT
+"Ford, Erin",100,Boston,MA
 "Fish, Veronica",100,Worcester,MA
 "Mcgrath, James",100,East Falmouth,MA
 "Pappas, Maria",100,Worcester,MA
@@ -1192,8 +1215,13 @@ United Steelworkers Local 2936,100,Auburn,MA
 Morris Bergman Committee,100,Worcester,MA
 "Murphy, Brittany",100,Charlton,MA
 "Worcester, Red Soxs",100,Worcester,MA
+"Cigollen, Jesus",100,Worcester,MA
+"Rodriguez, Amalfis",100,Worcester,MA
 "Alix, Jr., Richard",100,Worcester,MA
 "Cramer, Richard",100,Glastonbury,CT
+"Ferdinand, Neeshawn",100,Apopka,FL
+"Cromwell, Joan",100,Chelsea,MA
+"Nadeau, Kiimberly",100,Worcester,MA
 "Susan, Mailman",100,worcester,MA
 "Carey, Robert",100,Worcester,MA
 "Delgizzi, Jennifer",100,Worcester,MA
@@ -1222,32 +1250,6 @@ Morris Bergman Committee,100,Worcester,MA
 "Shortway, James",100,Worcester,MA
 "Shugarman, Emily",100,North Grafton,MA
 "Levering, Jeff",100,Worcester,MA
-Haxhiaj Committee,100,Worcester,MA
-"Larrobino, Brett",100,Worcester,MA
-"Assefa, Martha",100,Worcester,MA
-"Sarkis, Marianne",100,Worcester,MA
-"Yonkers, Alaina",100,Worcester,MA
-"Blow, Savannah",100,Worcester,MA
-"Medina, Nelly",100,Worcester,MA
-"Thomsen, Karen",100,Worcester,MA
-"Odonnell, Mary",100,Worcester,MA
-"Poland, Jessee",100,Manchester,CT
-"Babineau, Angela",100,Webster,MA
-"Killay, Danielle",100,Worcester,MA
-"Perez, Mary",100,Worcester,MA
-"Polanksi, David",100,Worcester,MA
-"Hodgdon, Sean",100,Worcester,MA
-"Campbell, Linda",100,Martinsburg,WV
-"Thomsen, Johanna",100,Worcester,MA
-"Rao, Cathy",100,Worcester,MA
-"Boucher, Rory",100,Worcester,MA
-"Dyer, Zachary",100,Worcester,MA
-"Reid, Christine",100,South Grafton,MA
-"Roman, Jeneczka",100,Providence,RI
-"Vijayakumar, Gayathri",100,New Haven,CT
-"Bayley, Allison",100,Scarborough,ME
-"Dilizia, Anthony",100,Glastonbury,CT
-"Ford, Erin",100,Boston,MA
 "Rentsch, Kathleen",100,Worcester,MA
 "Baller, William",100,Worcester,MA
 "Vainga, Waitta",100,Buda,TX
@@ -1278,66 +1280,6 @@ Haxhiaj Committee,100,Worcester,MA
 "Wacugu, Nganga",100,Worcester,MA
 "Shelley, Rodman",100,Worcester,MA
 "Afranie, Felix",100,Worcester,MA
-"Ferdinand, Neeshawn",100,Apopka,FL
-"Cromwell, Joan",100,Chelsea,MA
-"Nadeau, Kiimberly",100,Worcester,MA
-"Branca, Robert",100,Worcester,MA
-"Doody, Audra",100,Worcester,MA
-"Naughton, Harold",100,Clinton,MA
-"Colletta, Elizabeth",100,Worcester,MA
-"Monahan, John J",100,Worcester,MA
-Worcester-fitchburg Buildings Trade Council,100,West Boylston,MA
-"Toomey, Susan",100,Hingham,MA
-"Smith, William J.",100,West Roxbury,MA
-"Nylen, Paul",100,Westwood,MA
-"Bianco, Melissa",100,Shrewsbury,MA
-"Caron, Mark",100,Fiskdale,MA
-"Fiore, Stella",100,Worcester,MA
-"Gould, Kevin",100,Worcester,MA
-"Shea, Mary C.",100,Worcester,MA
-"Tinsley, David",100,Sterling,MA
-Worcester Police Officials Union,100,Worcester,MA
-"O'rourke, Tjomas",100,Rutland,MA
-"Sallese, Alice",100,Shrewsbury,MA
-"Abramoff, Lawrence",100,Worcester,MA
-"Kheboian, Beth",100,Worcester,MA
-"Perotto, Michael",100,Worcester,MA
-"Bartley, Carolyn",100,Worcester,MA
-"Donoghue-early, Margaret",100,Worcester,MA
-"Maria, Maria",100,Worcester,MA
-"Pelletier, Karen",100,Worcester,MA
-"Burak, Barbara",100,Ashland,MA
-"Gallagher, Luann",100,Worcester,MA
-"Lacouture, Patricia",100,Worcester,MA
-"Ortiz, Marleny",100,Worcester,MA
-"Daly, Marlene",100,Hyannis,MA
-"Hayes, Elizabeth",100,Milton,MA
-"Lally, Bernadette",100,Allston,MA
-"Larkin, Michael",100,East Weymouth,MA
-The Murphy Committee,100,Hyde Park,MA
-"Monahan, Caitlin",100,Boston,MA
-"Dempsey, Christopher",100,Brookline,MA
-"Connarton, Joseph",100,Waltham,MA
-"Lamb, Gerard",100,Arlington,VA
-"Mcgarry, Jessica",100,Sutton,MA
-"Milley, John",100,Worcester,MA
-"Sanders, Jacob",100,Worcester,MA
-"Bates, Kenneth",100,Worcester,MA
-"Racicot, Danield",100,Worcester,MA
-"Stock, Bill",100,Bristol,RI
-"Asadoorian, Richard",100,Plymouth,MA
-"Donohue, Jack",100,Uxbridge,MA
-"Babcock, Robert",100,Northborough,MA
-"Herrin, Carl",100,Worcester,MA
-"Lano, Gregory",100,Shrewsbury,MA
-"Ramey, Michael",100,Holden,MA
-Tony Economou Committee,100,Worcester,MA
-"Feldman, Andrew",100,Worcester,MA
-"Guinette, Marc",100,Worcester,MA
-"Avellone, Joseph",100,Wellesley,MA
-"Donovan, Maryalyce",100,Worcester,MA
-"Hodgkins, Caitlin",100,Auburn,MA
-"Pellegrini, James",100,West Boylston,MA
 "Markarian, Richard S.",100,Worcester,MA
 "Obrien, James",100,Worcester,MA
 "Abdelnour, William F",100,Worcester,MA
@@ -1380,6 +1322,48 @@ Committee To Elect Candy Carlson,100,Worcester,MA
 "Kusz, Robert A.",100,Paxton,MA
 "Molinari, Richard",100,Worcester,MA
 "Pietro-malmquist, Paula",100,Worcester,MA
+"O'rourke, Tjomas",100,Rutland,MA
+"Sallese, Alice",100,Shrewsbury,MA
+"Abramoff, Lawrence",100,Worcester,MA
+"Kheboian, Beth",100,Worcester,MA
+"Perotto, Michael",100,Worcester,MA
+"Bartley, Carolyn",100,Worcester,MA
+"Donoghue-early, Margaret",100,Worcester,MA
+"Maria, Maria",100,Worcester,MA
+"Pelletier, Karen",100,Worcester,MA
+"Burak, Barbara",100,Ashland,MA
+"Gallagher, Luann",100,Worcester,MA
+"Lacouture, Patricia",100,Worcester,MA
+"Ortiz, Marleny",100,Worcester,MA
+"Daly, Marlene",100,Hyannis,MA
+"Hayes, Elizabeth",100,Milton,MA
+"Lally, Bernadette",100,Allston,MA
+"Larkin, Michael",100,East Weymouth,MA
+The Murphy Committee,100,Hyde Park,MA
+"Monahan, Caitlin",100,Boston,MA
+"Dempsey, Christopher",100,Brookline,MA
+"Connarton, Joseph",100,Waltham,MA
+"Lamb, Gerard",100,Arlington,VA
+"Mcgarry, Jessica",100,Sutton,MA
+"Gould, Kevin",100,Worcester,MA
+"Milley, John",100,Worcester,MA
+"Sanders, Jacob",100,Worcester,MA
+"Bates, Kenneth",100,Worcester,MA
+"Racicot, Danield",100,Worcester,MA
+"Stock, Bill",100,Bristol,RI
+"Asadoorian, Richard",100,Plymouth,MA
+"Donohue, Jack",100,Uxbridge,MA
+"Babcock, Robert",100,Northborough,MA
+"Herrin, Carl",100,Worcester,MA
+"Lano, Gregory",100,Shrewsbury,MA
+"Ramey, Michael",100,Holden,MA
+Tony Economou Committee,100,Worcester,MA
+"Feldman, Andrew",100,Worcester,MA
+"Guinette, Marc",100,Worcester,MA
+"Avellone, Joseph",100,Wellesley,MA
+"Donovan, Maryalyce",100,Worcester,MA
+"Hodgkins, Caitlin",100,Auburn,MA
+"Pellegrini, James",100,West Boylston,MA
 "Joanne, Joanne",100,Worcester,MA
 "Kimber, David",100,Worcester,MA
 "Poulias, Dean",100,Worcester,MA
@@ -1399,6 +1383,21 @@ Committee To Elect Candy Carlson,100,Worcester,MA
 "Trapasso, Francis",100,Worcester,MA
 "Moore, Michael",100,Millbury,MA
 "Petterson, David",100,Worcester,MA
+"Branca, Robert",100,Worcester,MA
+"Doody, Audra",100,Worcester,MA
+"Naughton, Harold",100,Clinton,MA
+"Colletta, Elizabeth",100,Worcester,MA
+"Monahan, John J",100,Worcester,MA
+Worcester-fitchburg Buildings Trade Council,100,West Boylston,MA
+"Toomey, Susan",100,Hingham,MA
+"Smith, William J.",100,West Roxbury,MA
+"Nylen, Paul",100,Westwood,MA
+"Bianco, Melissa",100,Shrewsbury,MA
+"Caron, Mark",100,Fiskdale,MA
+"Fiore, Stella",100,Worcester,MA
+"Shea, Mary C.",100,Worcester,MA
+"Tinsley, David",100,Sterling,MA
+Worcester Police Officials Union,100,Worcester,MA
 "Cantrell, Nicholas",100,Worcester,MA
 "Almquist, Brett",100,BURLINGTON,MA
 "Grant, Alexander",100,Worcester,MA
@@ -1516,14 +1515,6 @@ Committee To Elect Jose A. Rivera,100,Worcester,MA
 "Thomas-bonnick, Monica",100,Worcester,MA
 "Courville, Jennifer",100,Worcester,MA
 "Green, Molly",100,Princeton,MA
-"Cte Tony Economou For City Councill, Tony",100,Worcester,MA
-"Freeman, Carol",100,West Boylston,MA
-"Carroll, Mary Ann",100,Worcester,MA
-"Culafi, Kosta",100,Paxton,MA
-"Freeman, Allan",100,West Boylston,MA
-"Wyatt, Brad",100,Boylston,MA
-"Biliouris, Alex",100,North Smithfield,RI
-"Roa, Jesus",100,Worcester,MA
 "Grasseschi, Donna",100,Worcester,MA
 "Massey, Carol",100,Worcester,MA
 "Donaghy, Ronald",100,Oxford,MA
@@ -1601,6 +1592,60 @@ James O'Day Committee,100,Worcester,MA
 "Nadeau, Christopher",100,New York City,NY
 "Saucier, Peter",100,Worcester,MA
 "Tangney, Brian",100,Worcester,MA
+"Cte Tony Economou For City Councill, Tony",100,Worcester,MA
+"Freeman, Carol",100,West Boylston,MA
+"Carroll, Mary Ann",100,Worcester,MA
+"Culafi, Kosta",100,Paxton,MA
+"Freeman, Allan",100,West Boylston,MA
+"Wyatt, Brad",100,Boylston,MA
+"Biliouris, Alex",100,North Smithfield,RI
+"Roa, Jesus",100,Worcester,MA
+"Iyer, Suhasini",100,Shrewsbury,MA
+"Narula, Rajiv",100,Medford,MA
+"Savage, William",100,Worcester,MA
+"Hanrahan, Patricl",100,Worcester,MA
+"Peterleitner, Patricia",100,Shrewsbury,MA
+"Jeevanantham, Muthukumaran",100,Worcester,MA
+"Shaah, Neel",100,Boston,MA
+"Kennedy-smith, Samuel",100,Lincoln,RI
+"Manjrekar, Yatin",100,Holden,MA
+"Mero Carlson, Candy",100,Worcester,MA
+"Amin, Sharat",100,Worcester,MA
+"Biswas, Soumomoy",100,Shrewsbury,MA
+"Bradbury, Michael",100,Worcester,MA
+"Donnelly, Michael",100,Paxton,MA
+"Feldman, Randy",100,Worcester,MA
+"Mcnamara, Martin",100,Worcester,MA
+"Michael, Mills",100,Northborough,MA
+"Plant, Clarence",100,Worcester,MA
+"Pradip, Mukherjee",100,Woburn,MA
+"Sharen, Shipley",100,Wimauma,FL
+"Vincent, Pedone",100,Worcester,MA
+"Yda, Filiberti",100,Worcester,MA
+"Maini, Baltej",100,Northborough,MA
+"Pope, Debra",100,Auburn,MA
+"Roy, William",100,Barre,MA
+"Voellings, Conrad",100,Grafton,MA
+"Lunney, John",100,Holden,MA
+"Goel, Hira",100,Shrewsbury,MA
+"Pervier, Linda",100,Worcester,MA
+"Bawa, Verinder",100,Southborough,MA
+"Goodwine, Eric",100,Shrewsbury,MA
+"Govindasamy, Anand",100,Natick,MA
+"Lahiry, Sanjoy",100,Auburndale,MA
+"Massarelli, Robert",100,Worcester,MA
+"Mohaghegh, Hamid",100,Worcester,MA
+"Mohaghegh, Nicole",100,Natick,MA
+"Parikh, Yogesh",100,Westborough,MA
+"Pedraja, Luis",100,Worcester,MA
+"Staiti, Peter",100,Holden,MA
+"Maykel, Linda",100,Dudley,MA
+"Mcnamara, Thomas",100,Shrewsbury,MA
+"Paugh, James",100,Worcester,MA
+"Welch, Michael",100,Whitinsville,MA
+"Antkowiak, Jennifer",100,Worcester,MA
+"Bhowmick, Pragati",100,Norton,MA
+"Seaman, Deb",100,Auburn,MA
 The Committee To Elect George Russell,100,Worcester,MA
 "Bartelson, Robert",100,Worcester,MA
 "Giacobbe, Joseph",100,Worcester,MA
@@ -1654,52 +1699,6 @@ Committee To Elect Sean Rose,100,Worcester,MA
 "Speroni, Karen",100,Millbury,MA
 "Trevett, William",100,Worcester,MA
 "Zahariadis, Lisa",100,Worcester,MA
-"Iyer, Suhasini",100,Shrewsbury,MA
-"Narula, Rajiv",100,Medford,MA
-"Savage, William",100,Worcester,MA
-"Hanrahan, Patricl",100,Worcester,MA
-"Peterleitner, Patricia",100,Shrewsbury,MA
-"Jeevanantham, Muthukumaran",100,Worcester,MA
-"Shaah, Neel",100,Boston,MA
-"Kennedy-smith, Samuel",100,Lincoln,RI
-"Manjrekar, Yatin",100,Holden,MA
-"Mero Carlson, Candy",100,Worcester,MA
-"Amin, Sharat",100,Worcester,MA
-"Biswas, Soumomoy",100,Shrewsbury,MA
-"Bradbury, Michael",100,Worcester,MA
-"Donnelly, Michael",100,Paxton,MA
-"Feldman, Randy",100,Worcester,MA
-"Mcnamara, Martin",100,Worcester,MA
-"Michael, Mills",100,Northborough,MA
-"Plant, Clarence",100,Worcester,MA
-"Pradip, Mukherjee",100,Woburn,MA
-"Sharen, Shipley",100,Wimauma,FL
-"Vincent, Pedone",100,Worcester,MA
-"Yda, Filiberti",100,Worcester,MA
-"Maini, Baltej",100,Northborough,MA
-"Pope, Debra",100,Auburn,MA
-"Roy, William",100,Barre,MA
-"Voellings, Conrad",100,Grafton,MA
-"Lunney, John",100,Holden,MA
-"Goel, Hira",100,Shrewsbury,MA
-"Pervier, Linda",100,Worcester,MA
-"Bawa, Verinder",100,Southborough,MA
-"Goodwine, Eric",100,Shrewsbury,MA
-"Govindasamy, Anand",100,Natick,MA
-"Lahiry, Sanjoy",100,Auburndale,MA
-"Massarelli, Robert",100,Worcester,MA
-"Mohaghegh, Hamid",100,Worcester,MA
-"Mohaghegh, Nicole",100,Natick,MA
-"Parikh, Yogesh",100,Westborough,MA
-"Pedraja, Luis",100,Worcester,MA
-"Staiti, Peter",100,Holden,MA
-"Maykel, Linda",100,Dudley,MA
-"Mcnamara, Thomas",100,Shrewsbury,MA
-"Paugh, James",100,Worcester,MA
-"Welch, Michael",100,Whitinsville,MA
-"Antkowiak, Jennifer",100,Worcester,MA
-"Bhowmick, Pragati",100,Norton,MA
-"Seaman, Deb",100,Auburn,MA
 "Tollkuci, Pavlina",100,Worcester,MA
 "Fleming, Elizabeth",100,Worcester,MA
 "Johnson, Sandra",100,Worcester,MA
@@ -1732,8 +1731,8 @@ Committee To Elect Candy Mero Carlson,100,Worcester,MA
 "Lalos, Peter",95.7,Blythewood,SC
 "Stratton, Eric",95,Worcester,MA
 "Navarro, Gabrielle",90,Worcester,MA
-"Culbert, Johhny",90,Worcester,MA
 "Nathan, Frederick H",90,Worcester,MA
+"Culbert, Johhny",90,Worcester,MA
 "Vaskas, Peter",90,Worcester,MA
 "Wiser, Patricia",86,Grafton,MA
 "Guertin, Barbara",85,Worcester,MA
@@ -1742,9 +1741,13 @@ Committee To Elect Candy Mero Carlson,100,Worcester,MA
 "Weinsaft, Hannah",80,hopkinton,MA
 "Proulx, Lydia",80,Worcester,MA
 Reimbursement For Mistaken Withdrawal,80,,MA
-"Perrone, I Marie",80,Worcester,MA
 "Olynyk, Marianne",80,Worcester,MA
+"Perrone, I Marie",80,Worcester,MA
 "Daley, Kevin",80,Worcester,MA
+"Leotsakos, Christopher",75,Worcester,MA
+"Surrette, Maryetta",75,Providence,RI
+"Mcauliffe, Matthew",75,Worcester,MA
+"Del Cegno, Jenn",75,Shrewsbury,MA
 "Mccarthy, Caitlin",75,Worcester,MA
 "Bird, Walter",75,Worcester,MA
 "Simone, Lori",75,Worcester,MA
@@ -1753,21 +1756,17 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Burton, Rachel",75,Worcester,MA
 "Ploof, Chris",75,Ashby,MA
 "Cohn, Jonathan",75,Boston,MA
-"Del Cegno, Jenn",75,Shrewsbury,MA
 "Fischer, Steven",75,Worcester,MA
-"Leotsakos, Christopher",75,Worcester,MA
-"Surrette, Maryetta",75,Providence,RI
-"Mcauliffe, Matthew",75,Worcester,MA
 "Bruce, Marsha",75,Worcester,MA
 "Okyere, Vivian",75,,MA
-"Mccarthy, Kathleen",75,Worcester,MA
-"Particianone, Maryann",75,Worcester,MA
-"Kontaxi, George",75,Millbury,MA
-"Mckiernan, Francis",75,Worcester,MA
 "Bialecki, Richard",75,Worcester,MA
 "Gagan, Michael",75,Sutton,MA
 "Lemay, Linda",75,Shrewsbury,MA
 "Rodgers, John",75,Worcester,MA
+"Mccarthy, Kathleen",75,Worcester,MA
+"Particianone, Maryann",75,Worcester,MA
+"Kontaxi, George",75,Millbury,MA
+"Mckiernan, Francis",75,Worcester,MA
 "Minahan, Sean",75,MAYNARD,MA
 "Quercio, Dante",75,Holden,MA
 "Aposhian, Ahna Wayne",75,Sommerville,MA
@@ -1796,10 +1795,10 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Mcnamara, Neal",75,Springfield,MA
 "Cary, Deborah",75,Princeton,MA
 "Opoku, Gabriel",71.99000000000001,Worcester,MA
-"Mckenzie, Mindy",70,Shrewsbury,MA
-"Janet, Davis",70,Worcester,MA
 "Fisher, Michael",70,Worcester,MA
 "Frazier, Kirsten",70,Worcester,MA
+"Mckenzie, Mindy",70,Shrewsbury,MA
+"Janet, Davis",70,Worcester,MA
 "Bisceglia, Joseph",70,Worcester,MA
 "Chambers, Robert",70,,MA
 "Colon, Maria",70,Worcester,MA
@@ -1810,12 +1809,12 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Schwab, Maureen B",65,Worcester,MA
 "Nathan, Fred",65,Worcester,MA
 "Horton, Christopher",63,Worcester,MA
-"Norris, Lynn",60,Worcester,MA
-"Miller, Robert",60,Worcester,MA
 "Mcreynolds, Leah",60,Worcester,MA
 "Stovall, Brielle",60,Worcester,MA
 "Kaplan, David",60,Newtonville,MA
 "Badenhausen, Zohar",60,Holden,MA
+"Norris, Lynn",60,Worcester,MA
+"Miller, Robert",60,Worcester,MA
 "Freeman, Heidi",60,Worcester,MA
 "Ruiz, Pablo",60,Sheboyabn,WI
 "Cortes, Benjamin",60,Worcester,MA
@@ -1828,10 +1827,23 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Nassar, Leah",54,Worcester,MA
 "Acheampong Jr., Emmanuel",51.99,Worcester,MA
 "Asensoh, Isaac",51.99,Spencer,MA
-"Ventura, Eridania",50,Peabody,MA
-"Ventura, Gustavo",50,Peabody,MA
-"Lounis, Carmen",50,Worcester,MA
-"Regalado, Tuny",50,Worcester,MA
+"Nguyen, Thu",50,Worcester,MA
+"Church, Christine",50,Worcester,MA
+"Scofield, Susan",50,Wakefield,MA
+"White, Thomas",50,Worcester,MA
+"Blair, Jamie",50,Worcester,MA
+"Paz, Ruben",50,Worcester,MA
+"Oleary, Emmet",50,Bellingham,MA
+"Mury, Darren",50,Worcester,MA
+"Bandle-rush, Kassidy",50,Bangor,ME
+"Aniefiok, Florence",50,Houston,TX
+"Ireland, Alicia",50,Worcester,MA
+"Eeson, Maya",50,Framingham,MA
+"Murray, Stephen",50,Plymouth,MA
+"Saucier, Aline",50,Wallagrass,ME
+"Saltzberg, Asa",50,Worcester,MA
+"Baral, Adam",50,Manchester,CT
+"Dutremble, Brian",50,Worcester,MA
 "Andoni, Loreta",50,,MA
 "Andoni, Vangjush",50,,MA
 "Mccarthy, Albert",50,Worcester,MA
@@ -1856,7 +1868,15 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Troio, Leonard",50,Worcester,MA
 "Dick, Dave",50,Worcester,MA
 "Bolz, Debra",50,Worcester,MA
+"Ventura, Eridania",50,Peabody,MA
+"Ventura, Gustavo",50,Peabody,MA
+"Lounis, Carmen",50,Worcester,MA
+"Regalado, Tuny",50,Worcester,MA
 "Welch, Stephen",50,Worcester,MA
+"Cambus, Marilou",50,Southborough,MA
+"Jackson, Russell",50,Orlando,FL
+"Jones, Pamela",50,Orlando,FL
+"Reynolds, Nicole",50,Leominster,MA
 "Jon, Bettinger",50,Worcester,MA
 "Kathleen, Oconnor",50,Worcester,MA
 "Marissa, Robertson",50,Worcester,MA
@@ -1871,29 +1891,12 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Ward, Meredyth",50,Worcester,MA
 "Crist, Stephanie",50,Grafton,MA
 "Dicello, Nicole",50,Worcester,MA
-"Dutremble, Brian",50,Worcester,MA
 "Golden, Nicholas",50,Wilmington,MA
 "Hamilton, Greg",50,Maynard,MA
 "Mandell, Joyce",50,Worcester,MA
 "Merritt, Leah",50,Waltham,MA
 "Zlody, Tina",50,Worcester,MA
 "Kearney, Brendan",50,Framingham,MA
-"Nguyen, Thu",50,Worcester,MA
-"Church, Christine",50,Worcester,MA
-"Scofield, Susan",50,Wakefield,MA
-"White, Thomas",50,Worcester,MA
-"Blair, Jamie",50,Worcester,MA
-"Paz, Ruben",50,Worcester,MA
-"Oleary, Emmet",50,Bellingham,MA
-"Mury, Darren",50,Worcester,MA
-"Bandle-rush, Kassidy",50,Bangor,ME
-"Aniefiok, Florence",50,Houston,TX
-"Ireland, Alicia",50,Worcester,MA
-"Eeson, Maya",50,Framingham,MA
-"Murray, Stephen",50,Plymouth,MA
-"Saucier, Aline",50,Wallagrass,ME
-"Saltzberg, Asa",50,Worcester,MA
-"Baral, Adam",50,Manchester,CT
 "Cecil, Michael",50,Hyattsville,MD
 "Muigai, Lucy",50,Worcester,MA
 "Mccullough, Maureen",50,Worcester,MA
@@ -1931,42 +1934,6 @@ Reimbursement For Mistaken Withdrawal,80,,MA
 "Nuzzoilo, Gino",50,,MA
 "Zangar, Emmanuel",50,,MA
 "Zangar, Martha",50,,MA
-"Cambus, Marilou",50,Southborough,MA
-"Jackson, Russell",50,Orlando,FL
-"Jones, Pamela",50,Orlando,FL
-"Reynolds, Nicole",50,Leominster,MA
-"Bilzerian, Marie",50,Worcester,MA
-"Foley, Rosemary",50,Worcester,MA
-"Lamptey, Samual",50,Worcester,MA
-"Mccarthy, Christine",50,Worcester,MA
-"Rourke, Doryl",50,Worcester,MA
-"White, Paul",50,Worcester,MA
-"Quinn, Leo",50,Worcester,MA
-"Passey, Shadev",50,Worcester,MA
-"Carlo, Kevin",50,Worcester,MA
-"Donahue, Robert",50,Worcester,MA
-"Hampton Dance, Johanna",50,Worcester,MA
-"Porcaro, Rose",50,Worcester,MA
-"Staruk, Andrew",50,Worcester,MA
-"Sena, Francis X.",50,Worcester,MA
-Priceless Memories Scholarship Foundation,50,,MA
-"Ramey, Stephanie",50,Holden,MA
-"Danilowicz, David",50,Holden,MA
-"Kilcoyne, Marleen",50,Sterling,MA
-"Mood, Margaret",50,Worcester,MA
-"Mood, Richard",50,Worcester,MA
-"Ring, Carol",50,Worcester,MA
-"Ulevich, Mary",50,Worcester,MA
-"Yawo, Kasko",50,,MA
-"Pearce, Donna",50,Worcester,MA
-"Hill, Todd",50,Worcester,MA
-"Heffernan, Paul",50,Boston,MA
-"Johnson, Patrick",50,Natick,MA
-"Shelton, Mark",50,Worcester,MA
-"Friedman, Ross",50,Auburndale,MA
-"Shea, Mary",50,Worcester,MA
-"Johnson, Kevin",50,Millbury,MA
-"Knittle, Mary",50,Worcester,MA
 "Fresolo, Anthony",50,Oxford,MA
 "Barrett, Jacqueline",50,Worcester,MA
 "Butland, James",50,Worcester,MA
@@ -2007,6 +1974,24 @@ Priceless Memories Scholarship Foundation,50,,MA
 "Oleary, Paula",50,Leominster,MA
 "Panagiotou, Helen",50,Worcester,MA
 "Zalieckas, Terese",50,Shrewsbury,MA
+"Ramey, Stephanie",50,Holden,MA
+"Danilowicz, David",50,Holden,MA
+"Kilcoyne, Marleen",50,Sterling,MA
+"Mood, Margaret",50,Worcester,MA
+"Mood, Richard",50,Worcester,MA
+"Ring, Carol",50,Worcester,MA
+"Ulevich, Mary",50,Worcester,MA
+"Yawo, Kasko",50,,MA
+"Pearce, Donna",50,Worcester,MA
+"Hill, Todd",50,Worcester,MA
+"Heffernan, Paul",50,Boston,MA
+"Johnson, Patrick",50,Natick,MA
+"Shelton, Mark",50,Worcester,MA
+"Friedman, Ross",50,Auburndale,MA
+"Shea, Mary",50,Worcester,MA
+"Johnson, Kevin",50,Millbury,MA
+"Quinn, Leo",50,Worcester,MA
+"Knittle, Mary",50,Worcester,MA
 "Legasey, Richard",50,Worcester,MA
 "Faucher, Chris",50,Worcester,MA
 "Burgos, Ruben",50,Worcester,MA
@@ -2044,6 +2029,20 @@ Priceless Memories Scholarship Foundation,50,,MA
 "Swartz, Conrad",50,,MA
 "Trapasso, Frank",50,,MA
 "Warnken, Kathy",50,Worcester,MA
+"Bilzerian, Marie",50,Worcester,MA
+"Foley, Rosemary",50,Worcester,MA
+"Lamptey, Samual",50,Worcester,MA
+"Mccarthy, Christine",50,Worcester,MA
+"Rourke, Doryl",50,Worcester,MA
+"White, Paul",50,Worcester,MA
+"Passey, Shadev",50,Worcester,MA
+"Carlo, Kevin",50,Worcester,MA
+"Donahue, Robert",50,Worcester,MA
+"Hampton Dance, Johanna",50,Worcester,MA
+"Porcaro, Rose",50,Worcester,MA
+"Staruk, Andrew",50,Worcester,MA
+"Sena, Francis X.",50,Worcester,MA
+Priceless Memories Scholarship Foundation,50,,MA
 "Fox, Sarah",50,East Boston,MA
 "White, Daniel",50,Worcester,MA
 "Hart, Stephen",50,Worcester,MA
@@ -2163,24 +2162,6 @@ Priceless Memories Scholarship Foundation,50,,MA
 "Mangiameli, Jessica",50,Worcester,MA
 "Guerra, Marcelino",50,Auburn,MA
 "Dawkins, Kim",50,Worcester,MA
-"Le, Det",50,Worcester,MA
-"Thach, David",50,Cherry Valley,MA
-"Fotos, Dimitrios",50,Auburn,MA
-"Fotos, Olga",50,Auburn,MA
-"Giolekas, Angelo",50,Worcester,MA
-"Giolekas, Georgia",50,Worcester,MA
-"Madaio, Richard",50,Worcester,MA
-"Stathoulopoulos, Peter",50,Worcester,MA
-"Desmarais, Jeanie",50,Oxford,MA
-"Esmaieli, Kasandra",50,Woodstock Valley,CT
-"Esmaieli, Samantha",50,Preston,CT
-"Nguyen, Matthew",50,Worcester,MA
-"Scanlon, Sandra",50,Worcester,MA
-"Kotrotsios, Demosthenis",50,Fairhaven,MA
-"Lotze, Mary",50,Fitchburg,MA
-"Nguyen, Tuan",50,Worcester,MA
-"Pelka, Adrian",50,Worcester,MA
-"Perakis, Haridimos",50,Worcester,MA
 "Gardella, Agnes",50,Worcester,MA
 "Parker, Benjamin",50,Worcester,MA
 "Terry, Elaine",50,Worcester,MA
@@ -2214,6 +2195,49 @@ Priceless Memories Scholarship Foundation,50,,MA
 "Pedone, Jim",50,Holden,MA
 "Rosiello, Margaret",50,Shrewsbury,MA
 "Gentile, Thomas",50,Worcester,MA
+"Le, Det",50,Worcester,MA
+"Thach, David",50,Cherry Valley,MA
+"Fotos, Dimitrios",50,Auburn,MA
+"Fotos, Olga",50,Auburn,MA
+"Giolekas, Angelo",50,Worcester,MA
+"Giolekas, Georgia",50,Worcester,MA
+"Madaio, Richard",50,Worcester,MA
+"Stathoulopoulos, Peter",50,Worcester,MA
+"Desmarais, Jeanie",50,Oxford,MA
+"Esmaieli, Kasandra",50,Woodstock Valley,CT
+"Esmaieli, Samantha",50,Preston,CT
+"Nguyen, Matthew",50,Worcester,MA
+"Scanlon, Sandra",50,Worcester,MA
+"Kotrotsios, Demosthenis",50,Fairhaven,MA
+"Lotze, Mary",50,Fitchburg,MA
+"Nguyen, Tuan",50,Worcester,MA
+"Pelka, Adrian",50,Worcester,MA
+"Perakis, Haridimos",50,Worcester,MA
+"Shepro, Davod",50,Holden,MA
+"Gidwani, Suresh",50,North Chelmsford,MA
+"Nissenbaum, Susan",50,North Grafton,MA
+"Lahiri, Tulika",50,Auburndale,MA
+"Lahiry, Trisha",50,Auburndale,MA
+"Lunney, Alisa",50,Holden,MA
+"Lunney, Jr., John",50,Holden,MA
+"Moshinsky, Sandra",50,,MA
+"Vasquez, Carmen",50,Worcester,MA
+"Armenti, Joseph",50,Boylston,MA
+"Monahan, Timothy",50,Westborough,MA
+"Bandopadhyay, Barin",50,Worcester,MA
+"Robert, Mangan",50,Sturbridge,MA
+"Cashman, Scott",50,Worcester,MA
+"Grant, Jean",50,Rutland,MA
+"Morrison, Elaine",50,Worcester,MA
+"Vettamvelil, Navin",50,Shrewsbury,MA
+"Cowlagi, Ashish",50,Shrewsbury,MA
+"Packard, Deborah",50,Worcester,MA
+"Sharma, Anand",50,Shrewsbury,MA
+"Carey, Jr., Robert",50,Worcester,MA
+Cte Alejandro Guardiola,50,Worcester,MA
+"Qingjian, Shi",50,Malden,MA
+"Dutta, Protiva",50,Worcester,MA
+"Scott, Christine",50,Hopkinton,MA
 "Keith, Jan",50,Marlborough,MA
 "Coppinger, Philip",50,Worcester,MA
 "Fanion, Jason",50,Rutland,MA
@@ -2249,31 +2273,8 @@ Priceless Memories Scholarship Foundation,50,,MA
 "Sundstrom, David",50,Worcester,MA
 "Warnken, Wiliam",50,Worcester,MA
 "Zdruli, Franklin",50,Worcester,MA
-"Shepro, Davod",50,Holden,MA
-"Gidwani, Suresh",50,North Chelmsford,MA
-"Nissenbaum, Susan",50,North Grafton,MA
-"Lahiri, Tulika",50,Auburndale,MA
-"Lahiry, Trisha",50,Auburndale,MA
-"Lunney, Alisa",50,Holden,MA
-"Lunney, Jr., John",50,Holden,MA
-"Moshinsky, Sandra",50,,MA
-"Vasquez, Carmen",50,Worcester,MA
-"Armenti, Joseph",50,Boylston,MA
-"Monahan, Timothy",50,Westborough,MA
-"Bandopadhyay, Barin",50,Worcester,MA
-"Robert, Mangan",50,Sturbridge,MA
-"Cashman, Scott",50,Worcester,MA
-"Grant, Jean",50,Rutland,MA
-"Morrison, Elaine",50,Worcester,MA
-"Vettamvelil, Navin",50,Shrewsbury,MA
-"Cowlagi, Ashish",50,Shrewsbury,MA
-"Packard, Deborah",50,Worcester,MA
-"Sharma, Anand",50,Shrewsbury,MA
-"Carey, Jr., Robert",50,Worcester,MA
-Cte Alejandro Guardiola,50,Worcester,MA
-"Qingjian, Shi",50,Malden,MA
-"Dutta, Protiva",50,Worcester,MA
-"Scott, Christine",50,Hopkinton,MA
+"Morand, Holly",50,Hopkinton,MA
+"Piche, Nancy",50,North Waterboro,ME
 "Wolf, Richard",50,Worcester,MA
 "Piala, Kevin",50,Worcester,MA
 "Poole, Richard",50,Worcester,MA
@@ -2287,8 +2288,6 @@ Cte Alejandro Guardiola,50,Worcester,MA
 "Laserte, Mark",50,Worcester,MA
 "Starr, Melissa Casey",50,Worcester,MA
 "Hubley, Pamela",50,Worcester,MA
-"Morand, Holly",50,Hopkinton,MA
-"Piche, Nancy",50,North Waterboro,ME
 "Dellolio, Mary",50,Shrewsbury,MA
 "Taylor, Kunon",50,Shrewsbury,MA
 "El-refaei, Mohammad",50,Worcester,MA
@@ -2320,7 +2319,6 @@ Cte Alejandro Guardiola,50,Worcester,MA
 "Iannitelli, Andrew",45,Worcester,MA
 "Annin, Joyce",41.69,Worcester,MA
 "Fazio, Louis",41,Spencer,MA
-"Robert, Huttick",40,Worcester,MA
 "Belanger, Nicole",40,Worcester,MA
 "Desrrochers, Olivia",40,Boxborough,MA
 "Henninger, North",40,Worcester,MA
@@ -2328,11 +2326,12 @@ Cte Alejandro Guardiola,50,Worcester,MA
 "Darling, Jeremy",40,Boylston,MA
 "Fox, Julie",40,Sterling,MA
 "Nowicki, Katie",40,Worcester,MA
+"Robert, Huttick",40,Worcester,MA
 "Creamer Jr, Guillermo",40,Worcester,MA
 "Honeycutt, Johnhaynes",40,Worcester,MA
 "Joseph, Bartuah",40,Brockton,MA
-"Herron, Amanda",40,Auburn,MA
 "Akasten, William",40,Worcester,MA
+"Herron, Amanda",40,Auburn,MA
 "Monreau, Michael",40,,MA
 "King, Leon",40,Philadelphia,PA
 "Hoffer, Daniel",40,Mattapan,MA
@@ -2343,18 +2342,18 @@ Cte Alejandro Guardiola,50,Worcester,MA
 "Sarkodieh, Kwame A",40,Worcester,MA
 "Twum Barima, Daniel",40,Worcester,MA
 "Badenhauser, Zohar",40,Holden,MA
-"Ferguson, Elisa",40,Worcester,MA
 "Fazio, Linda",40,Spencer,MA
+"Ferguson, Elisa",40,Worcester,MA
 "Talcott Iii, William",40,,MA
 "Blashfield, Hallie",40,Brookfield,MA
 "Abamowitz, Aliyohu",36,Worcester,MA
 "Lerman-sinkoff, Sarah",36,Worcester,MA
+"Cox-gorton, Gretta",35,Worcester,MA
+"Saulnier, Jacqueline",35,Wales,MA
 "Joshua, Croke",35,Worcester,MA
 "Kirkpatrick, Patricia",35,Worcester,MA
 "Salmassi, Mohammad",35,Worcester,MA
 "Cook, Lisa",35,Worcester,MA
-"Cox-gorton, Gretta",35,Worcester,MA
-"Saulnier, Jacqueline",35,Wales,MA
 "Deamicis, Peter",35,Worcester,MA
 "Thelkier, Adam",35,Worcester,MA
 "King, Tatiana",35,Worcester,MA
@@ -2364,15 +2363,15 @@ Cte Alejandro Guardiola,50,Worcester,MA
 "Crossley, Susan",35,Worcester,MA
 Amazon,31.86,,MA
 "Salifu, Mariam",31.4,Worcester,MA
+"Rozy, Elden",30,Hopkinton,MA
+"Root, Corry",30,Princeton,MA
 "Arello Senior, Kathlien",30,Worcester,MA
 "Shea, Richard",30,Worcester,MA
 "Sarah, Loy",30,Worcester,MA
-"Rozy, Elden",30,Hopkinton,MA
-"Root, Corry",30,Princeton,MA
 "Peter, Zagabe",30,Worcester,MA
-"Arello, Kathleen",30,Worcester,MA
 "Simoneau, Elizabeth",30,Worcester,MA
 "Lewis, Dana",30,Worcester,MA
+"Arello, Kathleen",30,Worcester,MA
 "Kelleher, Dan",30,Worcester,MA
 "Hodgon, Sean",30,Worcester,MA
 "Kunara, Darya",30,Worcester,MA
@@ -2380,6 +2379,40 @@ Amazon,31.86,,MA
 "Robarge, Chris",30,Worcester,MA
 "Gilbert, Timothy",27,Worcester,MA
 "Agyeman, Kofi",26.26,Worcester,MA
+"Bentley, Whitney",25,Worcester,MA
+"Chiumento, Genna",25,Worcester,MA
+"Gonzalez-dufresne, Joseph",25,Worcester,MA
+"Lanning, Kathy",25,Worcester,MA
+"Skwisz, Diane",25,Worcester,MA
+"Shamblin, Barbara",25,Portsmouth,RI
+"Tisdell, Charlotte",25,Worcester,MA
+"Kane, Wolf",25,Northborough,MA
+"Papandrea, Lauren",25,Auburn,MA
+"Hayford, Julie",25,Worcester,MA
+"Lawrence, Eliza",25,Worcester,MA
+"Marshall, Morgan",25,Hoover,AL
+"Townsend, Kailey",25,Washington,DC
+"Germain, Connor",25,Worcester,MA
+"Gustavson Howe, William",25,Worcester,MA
+"Ravalese, Courtney",25,Medford,MA
+"Ward, Helen",25,Worcester,MA
+"Sliwoski, Grace",25,Worcester,MA
+"Fields, Halle",25,Worcester,MA
+"Macisso, Christine",25,Kennebunk,ME
+"Ramsey, Jennifer",25,Old Orchard Beach,ME
+"Schweitzer, Emma",25,Duxbury,MA
+"Locascio, Karen",25,Quincy,MA
+"Day, Alyssa",25,Cranston,RI
+"Gilliam, Melissa",25,Arundel,ME
+"Paquette, Ann",25,Alfred,ME
+"Wallace, Katherine",25,Acton,MA
+"Gaetjens, Theresa",25,Limerick,ME
+"Potter, Plummer",25,Waterboro,ME
+"St. George, Linda",25,East Port,NY
+"Pine, Carolyn",25,Somerville,MA
+"Gray, Suzanne",25,Saco,ME
+"Fleming, Sarah",25,Milford,MA
+"Fox Allen, Tracy",25,Torrington,CT
 "Fox, Howard",25,,MA
 "Firman, Sheila",25,Worcester,MA
 "Logan, Irene",25,Worcester,MA
@@ -2392,6 +2425,8 @@ Amazon,31.86,,MA
 "Desto, Patti",25,Worcester,MA
 "Cipro, Michael",25,Holden,MA
 "Reilly, Kevin",25,Auburn,MA
+"Martin, Erin",25,Sterling,MA
+"Lamarre, Lloyd",25,Brockton,MA
 "Brian, Bickford",25,Worcester,MA
 "Dye, Jane",25,Holden,MA
 "Emma, Narkewicz",25,Worcester,MA
@@ -2428,40 +2463,6 @@ Amazon,31.86,,MA
 "Schnoebelen, Drew",25,Worcester,MA
 "Sheldon, Linnea",25,Rochdale,MA
 "Suroviak, Laura",25,Washington,DC
-"Bentley, Whitney",25,Worcester,MA
-"Chiumento, Genna",25,Worcester,MA
-"Gonzalez-dufresne, Joseph",25,Worcester,MA
-"Lanning, Kathy",25,Worcester,MA
-"Skwisz, Diane",25,Worcester,MA
-"Shamblin, Barbara",25,Portsmouth,RI
-"Tisdell, Charlotte",25,Worcester,MA
-"Kane, Wolf",25,Northborough,MA
-"Papandrea, Lauren",25,Auburn,MA
-"Hayford, Julie",25,Worcester,MA
-"Lawrence, Eliza",25,Worcester,MA
-"Marshall, Morgan",25,Hoover,AL
-"Townsend, Kailey",25,Washington,DC
-"Germain, Connor",25,Worcester,MA
-"Gustavson Howe, William",25,Worcester,MA
-"Ravalese, Courtney",25,Medford,MA
-"Ward, Helen",25,Worcester,MA
-"Sliwoski, Grace",25,Worcester,MA
-"Fields, Halle",25,Worcester,MA
-"Macisso, Christine",25,Kennebunk,ME
-"Ramsey, Jennifer",25,Old Orchard Beach,ME
-"Schweitzer, Emma",25,Duxbury,MA
-"Locascio, Karen",25,Quincy,MA
-"Day, Alyssa",25,Cranston,RI
-"Gilliam, Melissa",25,Arundel,ME
-"Paquette, Ann",25,Alfred,ME
-"Wallace, Katherine",25,Acton,MA
-"Gaetjens, Theresa",25,Limerick,ME
-"Potter, Plummer",25,Waterboro,ME
-"St. George, Linda",25,East Port,NY
-"Pine, Carolyn",25,Somerville,MA
-"Gray, Suzanne",25,Saco,ME
-"Fleming, Sarah",25,Milford,MA
-"Fox Allen, Tracy",25,Torrington,CT
 "Jenoure, Frederick",25,Worcester,MA
 "Hutchins, Melissa",25,Worcester,MA
 "Lolik, Phobay",25,Forney,TX
@@ -2485,15 +2486,6 @@ Amazon,31.86,,MA
 "Kirsten, Frazier",25,Worcester,MA
 "Melissa, Hutchins",25,Worcester,MA
 "Mancinelli, Alyssa",25,Worcester,MA
-"Martin, Erin",25,Sterling,MA
-"Lamarre, Lloyd",25,Brockton,MA
-"Ouimette, Valerie",25,Worcester,MA
-"Rice, Pauline",25,North Grafton,MA
-"Murphy, Rosemary",25,Worcester,MA
-"O’leary, Ann",25,Worcester,MA
-"Quimette, Valerie",25,Worcester,MA
-"Diaz, Jason",25,Worcester,MA
-"Dombrowski, Philip",25,Worcester,MA
 "Healey, James",25,Worcester,MA
 "Kerxhalli, George",25,Worcester,MA
 "Grigas, Carol",25,Worcester,MA
@@ -2526,9 +2518,16 @@ Amazon,31.86,,MA
 "Aiello, Anthony",25,Sutton,MA
 "Uygur, Yildiz",25,Worcester,MA
 "Kiley, Paula",25,Milbury 01527,MA
+"Dombrowski, Philip",25,Worcester,MA
 "Parent, Cullen",25,,MA
 "Gately, John",25,Plymouth,MA
 "Parker, Bruce",25,,MA
+"Ouimette, Valerie",25,Worcester,MA
+"Rice, Pauline",25,North Grafton,MA
+"Murphy, Rosemary",25,Worcester,MA
+"O’leary, Ann",25,Worcester,MA
+"Quimette, Valerie",25,Worcester,MA
+"Diaz, Jason",25,Worcester,MA
 "Bolalek, Marian",25,Worcester,MA
 "O'rourke, Meg",25,Worcester,MA
 "Thresher, Allison",25,Worcester,MA
@@ -2588,7 +2587,6 @@ Amazon,31.86,,MA
 "Flaminio, Matthew",25,Worcester,MA
 "Spreadbury, Chris",25,Worcester,MA
 "Kauppila, Owen",25,Worcester,MA
-"Pay It Forward Card Shows, Peter M Panagiotou, Peter",25,Worcester,MA
 "Wells, Luann",25,Worcester,MA
 "Matthews, Jeffery",25,Auburn,MA
 "Robert, Haas",25,Whitinsville,MA
@@ -2601,18 +2599,19 @@ Amazon,31.86,,MA
 "Simone, Santiino",25,Worcester,MA
 "Haas, Anne",25,Whitinsville,MA
 "Raffa, Brenda",25,Worcester,MA
-"Schelin, Maryann",25,West Boylston,MA
-"Lundberg, Margaret",25,Worcester,MA
+"Pay It Forward Card Shows, Peter M Panagiotou, Peter",25,Worcester,MA
 "Dipietro, John",25,Worcester,MA
 "Christo, Thomas",25,Worcester,MA
+"Schelin, Maryann",25,West Boylston,MA
+"Lundberg, Margaret",25,Worcester,MA
+"Schubert, Caitlin",25,Colorado Springs,CO
+"Surrette, Theresa",25,Somerville,MA
 "Gould, Tara",25,Millbury,MA
 "Cary, Deb",25,Princeton,MA
 "Kartheiser, Frank",25,Worcester,MA
 "Lish, Jennifer",25,Holden,MA
 "Madden, Killian",25,Worcester,MA
 "Bernstein, Amy",25,Worcester,MA
-"Schubert, Caitlin",25,Colorado Springs,CO
-"Surrette, Theresa",25,Somerville,MA
 "Nelson, Brian",25,Worcester,MA
 "Mh Bernoff, Ray",25,Worcester,MA
 "Costello, Jeanne",25,Charlton,MA
@@ -2624,12 +2623,6 @@ Amazon,31.86,,MA
 "Phillips, Caley",21.1,Shrewsbury,MA
 "Akande, Abisola",21.1,Worcester,MA
 The Home Depot,20.12,Worcester,MA
-"Ortiz, Edward",20,Worcester,MA
-"Ulloa, Cristian",20,Worcester,MA
-"Martin, Paul",20,Worcester,MA
-"Timothy, O'neil",20,Worcester,MA
-"Rachel, Keyo",20,Worcester,MA
-"Mohammad, Salmassi",20,Worcester,MA
 "Browne, Yona Maria Seigel",20,Brooklyn,NY
 "Draudt, Nathan",20,Cambridge,MA
 "Eurley, Amanda",20,Worcester,MA
@@ -2648,6 +2641,12 @@ The Home Depot,20.12,Worcester,MA
 "Bullard, Daniel",20,Portland,ME
 "Cohen, Adina",20,Chicago,IL
 "White, Amanda",20,Winchendon,MA
+"Ortiz, Edward",20,Worcester,MA
+"Ulloa, Cristian",20,Worcester,MA
+"Martin, Paul",20,Worcester,MA
+"Timothy, O'neil",20,Worcester,MA
+"Rachel, Keyo",20,Worcester,MA
+"Mohammad, Salmassi",20,Worcester,MA
 "Buzali, Beti",20,Worcester,MA
 "Mbye, Amie",20,Pawtucket,RI
 "Sommer, Paula",20,Worcester,MA
@@ -2666,8 +2665,8 @@ The Home Depot,20.12,Worcester,MA
 "Vandyke, Yaw",20,,MA
 "Twumasi, Esther",20,Rutland,MA
 "Axelson, Britt",20,Somerville,MA
-"Duncanson, James",20,Worcester,MA
 "Girardi, Bob",20,Worcester,MA
+"Duncanson, James",20,Worcester,MA
 "Wixon, Naomi",20,Worcester,MA
 "Santana, Michelle",20,Worcester,MA
 "Anderson-lopez, Lynn",20,Millbury,MA
@@ -2678,19 +2677,13 @@ The Home Depot,20.12,Worcester,MA
 "William, Kadish",18,Worcester,MA
 "Fins, Deborah",18,Worcester,MA
 "Liberow, Moshe",18,Worcester,MA
+"Johnson, Leeann",15,Oxford,MA
 "Edward, Chen",15,Worcester,MA
 "Travis, Hyzak",15,Worcester,MA
 "Reich, William",15,Little Silver,NJ
 "Lee-litowitz, Melissa",15,Northbrook,IL
-"Johnson, Leeann",15,Oxford,MA
 "Nyman, Anika",15,Worcester,
 "Richmond, Caitlyn",14.7,Shrewsbury,MA
-"Charlotte, Reames",10,Worcester,MA
-"Gwendolynne, Weissinger",10,Worcester,MA
-"Hana, Lasell",10,Worcester,MA
-"Ralph, Degregorio",10,Arlington,MA
-"Sheedy, Rj",10,Milford,MA
-"Walpert, Harry",10,Brookline,MA
 "Ravelli, Maria",10,Worcester,MA
 "Omalley, Shannon",10,Worcester,MA
 "Whitehouse, Rebecca",10,Worcester,MA
@@ -2708,11 +2701,17 @@ The Home Depot,20.12,Worcester,MA
 "Croteau, Patrick",10,Worcester,MA
 "Somers, Jenn",10,Worcester,MA
 "Dufresne, Liz",10,Worcester,MA
+"Menino, Peter",10,Granby,CT
+"Greene, Cynthia",10,Lancaster,MA
+"Charlotte, Reames",10,Worcester,MA
+"Gwendolynne, Weissinger",10,Worcester,MA
+"Hana, Lasell",10,Worcester,MA
+"Ralph, Degregorio",10,Arlington,MA
+"Sheedy, Rj",10,Milford,MA
+"Walpert, Harry",10,Brookline,MA
 "Lazzaro, Nicholas",10,Millbury,MA
 "Dhungana, Aashish",10,Worcester,MA
 "Lydia, Proulx",10,Worcester,MA
-"Menino, Peter",10,Granby,CT
-"Greene, Cynthia",10,Lancaster,MA
 "Anstine, Monique",10,Worcester,MA
 "Henry, Rachel",10,Worcester,MA
 "Wyckoff, Sorelle",10,Worcester,MA
@@ -2739,6 +2738,11 @@ The Home Depot,20.12,Worcester,MA
 Berkshire Bank,9.95,Worcester,MA
 "Refund, Maydee",6.37,,MA
 "Jeffrey, Conlon",6,Worcester,MA
+"Schnee, Simcha",5,Worcester,MA
+"Kellow, Zerrick",5,Boulder,CO
+"Thibault, Emily",5,Worcester,MA
+"Franklin, Robbie",5,Richmond,VA
+"Klein, Stephanie",5,Worcester,MA
 "Kate, Mcintyre",5,Worcester,MA
 "Patricia, Kirkpatrick",5,Worcester,MA
 "Susan, Stepp",5,Worcester,MA
@@ -2746,11 +2750,6 @@ Berkshire Bank,9.95,Worcester,MA
 "Rachel, Burton",5,Worcester,MA
 "Degregorio, Ralph",5,Arlington,MA
 "Thunberg, Luke",5,Worcester,MA
-"Schnee, Simcha",5,Worcester,MA
-"Kellow, Zerrick",5,Boulder,CO
-"Thibault, Emily",5,Worcester,MA
-"Franklin, Robbie",5,Richmond,VA
-"Klein, Stephanie",5,Worcester,MA
 "Gormley, Aidan",5,Shrewsbury,MA
 "Crawford, Ayieta",5,College Park,MD
 "Beaudry, Deborah",5,Worcester,MA

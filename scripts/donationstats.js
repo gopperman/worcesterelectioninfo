@@ -102,6 +102,10 @@ const normalizeNames = (name) => {
   n = n.replace ("Owura-kwaku P.", "Owura")
   n = n.replace ("Owura-kwaku", "Owura")
 
+  // Direnzo
+  n = n.replace ("Direnzo , Jr., John", "Direnzo, John")
+  n = n.replace ("Direnzo, John", "Direnzo Jr., John")
+
   // The Krocks
   n = n.replace ("Janet, Krock", "Krock, Janet") // Janet appears in the wrong order for one donation
   n = n.replace ("Krock, Kathryn E", "Krock, Kathryn")
